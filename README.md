@@ -22,7 +22,7 @@ Filen `skolevalg.csv` indeholder følgende variable:
 - `ugyldige` = Antal ugyldige stemmer
 - `ikke_stemt` = Antal ikke afgivne stemmer
 - `gyldige_stemmer` = Antal gyldige stemmer
-- `stemmeberettigede` = Antal stemmeberettigede
+- `stemmeberettigede` = Antal stemmeberettigede (skoler med 0 stemmeberettigede deltog ikke i valget)
 - `kommune` = Kommune hvor skolen er lokaliseret
 - `postnummer` = Postnummer hvor skolen er lokaliseret
 - `region` = Region hvor skolen er lokaliseret
