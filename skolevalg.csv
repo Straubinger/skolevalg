@@ -1,4 +1,748 @@
 year,skole,parti_s,parti_rv,parti_kf,parti_nb,parti_sf,parti_la,parti_kd,parti_df,parti_v,parti__el,parti_alt,blanke,ugyldige,ikke_stemt,gyldige_stemmer,stemmeberettigede,kommune,postnummer,region
+2015,Aabybro Efterskole,3,2,3,,4,3,0,1,25,2,,0,0,132,43,175,Jammerbugt Kommune,9440,Region Nordjylland
+2015,Aakjærskolen,8,2,17,,4,12,1,1,20,17,,1,0,27,82,110,Skive Kommune,7800,Region Midtjylland
+2015,Aalborg Friskole,9,3,0,,14,0,0,0,6,6,,2,0,8,38,48,Aalborg Kommune,9000,Region Nordjylland
+2015,Aalbæk Skole,3,2,0,,0,3,2,5,8,0,,1,1,5,23,30,Frederikshavn Kommune,9982,Region Nordjylland
+2015,Aalykkeskolen,14,12,0,,0,1,1,1,4,3,,0,0,5,36,41,Kolding Kommune,6000,Region Syddanmark
+2015,Aarhus Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8270,Region Midtjylland
+2015,Aarupskolen,12,11,11,,9,12,0,7,33,1,,0,2,5,96,103,Assens Kommune,5560,Region Syddanmark
+2015,Åbenrå Friskole,5,3,1,,2,2,1,3,13,3,,1,0,8,33,42,Aabenraa Kommune,6200,Region Syddanmark
+2015,Absalons Skole,6,34,15,,23,9,1,0,18,4,,0,0,30,110,140,Roskilde Kommune,4000,Region Sjælland
+2015,Åbybro Friskole,4,2,3,,3,10,0,1,7,0,,1,0,4,30,35,Jammerbugt Kommune,9440,Region Nordjylland
+2015,Ådalens Privatskole,17,2,35,,1,2,0,3,11,1,,1,0,11,72,84,Ishøj Kommune,2635,Region Hovedstaden
+2015,Ådalens Skole,11,4,12,,7,29,0,2,12,1,,2,3,67,78,150,Frederikssund Kommune,3600,Region Hovedstaden
+2015,Ådalskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Odense Kommune,5260,Region Syddanmark
+2015,Ådalsskolen,13,2,0,,2,2,0,5,6,4,,2,3,2,34,41,Syddjurs Kommune,8544,Region Midtjylland
+2015,Ågård Efterskole,10,15,40,,0,14,0,0,41,0,,1,4,11,120,136,Vejle Kommune,6040,Region Syddanmark
+2015,Agedrup Skole,9,3,1,,3,1,1,9,11,1,,4,0,52,39,95,Odense Kommune,5320,Region Syddanmark
+2015,Agerbæk Skole,3,3,7,,3,5,0,5,48,2,,1,3,11,76,91,Varde Kommune,6753,Region Syddanmark
+2015,Agerskov Kristne Friskole,4,2,8,,5,2,3,5,10,0,,2,2,8,39,51,Tønder Kommune,6534,Region Syddanmark
+2015,Agerskov Ungdomsskole,1,3,0,,3,0,0,11,10,8,,1,0,13,36,50,Tønder Kommune,6534,Region Syddanmark
+2015,Ahi International School,8,10,0,,2,3,0,1,1,3,,0,0,12,28,40,Københavns Kommune,2720,Region Hovedstaden
+2015,Al Hikma Skolen,4,12,0,,2,0,0,0,0,17,,0,0,2,35,37,Københavns Kommune,2450,Region Hovedstaden
+2015,Al Quds Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2400,Region Hovedstaden
+2015,Al-Hilal Skolen,3,0,11,,3,0,0,0,5,2,,12,1,3,24,40,Københavns Kommune,2400,Region Hovedstaden
+2015,Ålestrup Realskole,7,0,8,,11,7,0,19,35,1,,1,0,10,88,99,Vesthimmerlands Kommune,9620,Region Nordjylland
+2015,Aller Friskole,2,0,1,,1,3,0,5,2,0,,0,0,7,14,21,Kolding Kommune,6070,Region Syddanmark
+2015,Allerslev Skole,6,20,8,,11,26,0,5,19,5,,1,1,11,100,113,Lejre Kommune,4320,Region Sjælland
+2015,Alminde-Viuf Fællesskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Kolding Kommune,6052,Region Syddanmark
+2015,Amager Fælled Skole,13,8,2,,0,2,0,5,5,23,,2,2,8,58,70,Københavns Kommune,2300,Region Hovedstaden
+2015,Amager Lille Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2300,Region Hovedstaden
+2015,Amager Privatskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Tårnby Kommune,2770,Region Hovedstaden
+2015,Amagers International School,11,0,1,,3,10,0,1,0,11,,2,0,3,37,42,Københavns Kommune,2300,Region Hovedstaden
+2015,Amagerskolen,6,3,5,,5,8,2,3,44,0,,0,1,0,76,77,Ringkøbing-Skjern Kommune,6900,Region Midtjylland
+2015,Andreasskolen,14,5,8,,5,3,0,1,13,1,,1,0,5,50,56,Holbæk Kommune,4300,Region Sjælland
+2015,Anna Trolles Skole,5,1,2,,4,2,0,6,13,0,,0,0,8,33,41,Middelfart Kommune,5464,Region Syddanmark
+2015,Ans Skole,6,0,6,,7,2,0,4,20,1,,0,1,7,46,54,Silkeborg Kommune,8643,Region Midtjylland
+2015,Ansager Skole,7,4,2,,4,8,0,2,24,0,,0,0,6,51,57,Varde Kommune,6823,Region Syddanmark
+2015,Ansgarskolen,4,3,2,,7,3,0,5,16,10,,1,0,69,50,120,Esbjerg Kommune,6760,Region Syddanmark
+2015,Antvorskov Skole,20,34,49,,11,44,3,7,55,1,,1,2,18,224,245,Slagelse Kommune,4200,Region Sjælland
+2015,Arden Skole,3,11,0,,23,1,0,8,31,1,,0,3,12,78,93,Mariagerfjord Kommune,9510,Region Nordjylland
+2015,Arenaskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Greve Kommune,2670,Region Sjælland
+2015,Århus Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8260,Region Midtjylland
+2015,Asaa Skole,11,3,14,,3,6,0,0,13,2,,0,1,0,52,53,Brønderslev kommune,9340,Region Nordjylland
+2015,Assens Skole,0,0,4,,0,0,0,1,17,0,,0,1,0,22,23,Mariagerfjord Kommune,9550,Region Nordjylland
+2015,Assensskolen,7,4,2,,4,5,4,20,33,7,,5,6,17,86,114,Assens Kommune,5610,Region Syddanmark
+2015,Atheneskolen - skolen for børn med særlige forudsætninger,0,6,3,,11,6,0,0,4,2,,1,0,9,32,42,Gladsaxe Kommune,2860,Region Hovedstaden
+2015,Augustenborg Skole,4,5,9,,3,44,3,6,17,0,,4,0,0,91,95,Sønderborg Kommune,6440,Region Syddanmark
+2015,Auning skole,17,6,0,,4,9,0,6,27,8,,5,0,48,77,130,Norddjurs Kommune,8963,Region Midtjylland
+2015,Avedøre Skole,20,4,3,,6,5,1,13,9,6,,3,2,21,67,93,Hvidovre Kommune,2650,Region Hovedstaden
+2015,Bagsværd Friskole (Hanna-Skolen),7,5,3,,7,3,1,0,4,1,,0,1,6,31,38,Gladsaxe Kommune,2880,Region Hovedstaden
+2015,Bagsværd Kostskole og Gymnasium,14,55,20,,4,47,3,4,64,1,,2,8,35,212,257,Gladsaxe Kommune,2880,Region Hovedstaden
+2015,Bakkegårdsskolen,57,6,19,,10,5,0,0,19,2,,4,1,23,118,146,Gentofte Kommune,2820,Region Hovedstaden
+2015,Bakkegårdsskolen,29,2,2,,5,1,0,11,8,5,,0,0,12,63,75,Aarhus Kommune,8380,Region Midtjylland
+2015,Bakkehusene,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Rebild Kommune,9574,Region Nordjylland
+2015,Bakkelandets Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Horsens Kommune,8740,Region Midtjylland
+2015,Bakkeskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Esbjerg Kommune,6705,Region Syddanmark
+2015,Bakkevejens Skole,6,12,13,,19,26,1,12,7,1,,2,0,21,97,120,Esbjerg Kommune,6740,Region Syddanmark
+2015,"Balle Friskole, Balle Musik- & Idrætsefterskole",12,18,14,,3,1,0,2,3,0,,0,0,11,53,64,Vejle Kommune,7182,Region Syddanmark
+2015,Ballerup Ny Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Ballerup Kommune,2750,Region Hovedstaden
+2015,Balleskolen,3,10,6,,2,6,0,5,17,0,,0,0,7,49,56,Silkeborg Kommune,8600,Region Midtjylland
+2015,Balletskolen,8,5,2,,1,0,0,3,9,1,,0,0,0,29,29,Holstebro Kommune,7500,Region Midtjylland
+2015,Bangsbostrand Skole,9,13,1,,3,10,1,7,53,0,,0,0,0,97,97,Frederikshavn Kommune,9900,Region Nordjylland
+2015,Bankagerskolen,0,0,6,,0,1,0,5,5,0,,0,0,0,17,17,Horsens Kommune,8700,Region Midtjylland
+2015,Beder Skole,19,11,2,,5,4,0,3,12,10,,7,0,27,66,100,Aarhus Kommune,8330,Region Midtjylland
+2015,Biersted Skole,11,13,3,,16,7,0,6,35,0,,2,0,25,91,118,Jammerbugt Kommune,9440,Region Nordjylland
+2015,Billums Privatskole,5,0,6,,0,1,0,0,4,5,,0,0,0,21,21,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
+2015,BillundSkolen,36,7,5,,15,4,0,6,77,1,,1,6,22,151,180,Billund Kommune,7190,Region Syddanmark
+2015,Bindernæs Efterskole,38,4,9,,7,30,0,18,16,0,,4,0,24,122,150,Lolland Kommune,4970,Region Sjælland
+2015,Birkhovedskolen,52,2,0,,4,3,0,3,20,0,,1,0,8,84,93,Nyborg Kommune,5800,Region Syddanmark
+2015,Bistrupskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Rudersdal Kommune,3460,Region Hovedstaden
+2015,Bjergby Friskole,2,4,7,,2,2,0,4,18,0,,0,0,6,39,45,Morsø Kommune,7950,Region Nordjylland
+2015,Bjergsnæs Efterskole,11,8,12,,2,29,0,10,41,7,,7,3,26,120,156,Viborg Kommune,8800,Region Midtjylland
+2015,Bjerregrav Skole,3,4,4,,1,0,0,3,2,0,,0,0,4,17,21,Randers Kommune,8920,Region Midtjylland
+2015,"Blåbjergskolen, Nr. Nebel afd.",4,3,4,,2,1,4,14,44,2,,3,8,26,78,115,Varde Kommune,6830,Region Syddanmark
+2015,Blågård Skole,18,0,0,,0,1,0,0,0,18,,1,0,20,37,58,Københavns Kommune,2200,Region Hovedstaden
+2015,Blåvandshuk Skole,8,4,2,,3,25,1,11,38,1,,3,2,11,93,109,Varde Kommune,6840,Region Syddanmark
+2015,Blicherskolen,6,1,3,,9,3,0,8,22,0,,1,1,9,52,63,Randers Kommune,8981,Region Midtjylland
+2015,Blovstrød Skole,9,12,3,,3,7,3,12,13,1,,3,0,13,63,79,Allerød Kommune,3450,Region Hovedstaden
+2015,Boesagerskolen,4,6,7,,1,5,0,10,19,1,,0,0,0,53,53,Egedal Kommune,2765,Region Hovedstaden
+2015,Bogense Skole,17,7,9,,2,12,0,13,25,3,,6,0,26,88,120,Nordfyns Kommune,5400,Region Syddanmark
+2015,Boldesager Skole,21,0,14,,16,8,2,3,12,5,,0,0,10,81,91,Esbjerg Kommune,6700,Region Syddanmark
+2015,Bordings Friskole,11,1,0,,5,6,1,0,3,9,,0,0,6,36,42,Københavns Kommune,2100,Region Hovedstaden
+2015,Borgerskolen,14,0,6,,4,13,0,4,10,3,,0,1,5,54,60,Høje-Taastrup Kommune,2630,Region Hovedstaden
+2015,Borup Ris Skolen,10,2,4,,5,9,0,17,7,0,,0,0,17,54,71,Næstved Kommune,4250,Region Sjælland
+2015,Borup Skole,12,16,20,,21,21,0,1,9,4,,0,0,16,104,120,Køge Kommune,4140,Region Sjælland
+2015,Bramdrup Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Kolding Kommune,6000,Region Syddanmark
+2015,Bramsnæsvigskolen,2,1,1,,4,26,0,7,14,4,,3,2,14,59,78,Lejre Kommune,4070,Region Sjælland
+2015,Breum Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Skive Kommune,7870,Region Midtjylland
+2015,Broager Skole,2,2,4,,2,3,0,4,4,1,,0,3,3,22,28,Sønderborg Kommune,6310,Region Syddanmark
+2015,"Brovandeskolen, Den Lille Skole i Skagen",0,0,1,,10,10,0,9,2,0,,0,0,3,32,35,Frederikshavn Kommune,9990,Region Nordjylland
+2015,Brovst Skole,8,9,0,,4,4,1,11,39,0,,1,0,17,76,94,Jammerbugt Kommune,9460,Region Nordjylland
+2015,Bryndum Skole,15,1,17,,2,5,0,6,10,2,,0,1,10,58,69,Esbjerg Kommune,6715,Region Syddanmark
+2015,Brædstrup Skole,33,1,24,,4,4,1,1,26,1,,3,3,17,95,118,Horsens Kommune,8740,Region Midtjylland
+2015,Brændgårdskolen,18,29,5,,7,3,0,4,3,10,,1,0,9,79,89,Herning Kommune,7400,Region Midtjylland
+2015,Brændkjærskolen,36,5,31,,7,12,8,5,56,1,,2,1,16,161,180,Kolding Kommune,6000,Region Syddanmark
+2015,Brændstrup Kristne Friskole,9,0,0,,1,0,1,1,6,2,,0,0,2,20,22,Vejen Kommune,6630,Region Syddanmark
+2015,Brøndby Strand Skole,110,3,3,,13,11,2,14,19,15,,0,11,34,190,235,Brøndby Kommune,2660,Region Hovedstaden
+2015,Brøndbyvester Skole,35,4,1,,7,11,1,24,44,14,,9,2,39,141,191,Brøndby Kommune,2605,Region Hovedstaden
+2015,Brøndbyøster Skole,18,26,6,,12,2,1,18,26,16,,1,11,4,125,141,Brøndby Kommune,2605,Region Hovedstaden
+2015,Brønshøj Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2700,Region Hovedstaden
+2015,Buddinge Skole,12,12,16,,8,11,0,1,16,7,,0,0,7,83,90,Gladsaxe Kommune,2860,Region Hovedstaden
+2015,Bylderup Skole,2,6,3,,0,2,3,19,12,2,,3,0,8,49,60,Aabenraa Kommune,6372,Region Syddanmark
+2015,Byplanvejens Skole,18,1,14,,5,1,0,7,4,0,,4,0,6,50,60,Aalborg Kommune,9210,Region Nordjylland
+2015,"Byskovskolen, afd. Benløse",25,23,17,,4,1,1,36,32,13,,2,1,5,152,160,Ringsted Kommune,4100,Region Sjælland
+2015,Bække Skole,12,1,1,,3,4,0,4,22,1,,2,7,6,48,63,Vejen Kommune,6622,Region Syddanmark
+2015,Bækkegårdsskolen,8,4,3,,3,11,1,4,41,0,,0,0,0,75,75,Egedal Kommune,3650,Region Hovedstaden
+2015,Bøgballe Friskole,2,0,26,,0,0,4,1,9,0,,0,1,5,42,48,Hedensted Kommune,7171,Region Midtjylland
+2015,Børneuniversitetet på Vesterbro,9,2,1,,4,1,0,3,1,13,,0,0,5,34,39,Københavns Kommune,1665,Region Hovedstaden
+2015,Bøvling Fri- og Idrætsefterskole,2,0,1,,1,1,0,1,5,1,,0,0,0,12,12,Lemvig Kommune,7650,Region Midtjylland
+2015,Bøvling Fri- og Idrætsefterskole,0,1,2,,0,7,0,1,5,0,,0,0,2,16,18,Lemvig Kommune,7650,Region Midtjylland
+2015,Campusskolen,18,9,6,,6,15,0,8,18,7,,6,1,20,87,114,Ringsted Kommune,4100,Region Sjælland
+2015,Carl Nielsen-Skolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Faaborg-Midtfyn Kommune,5792,Region Syddanmark
+2015,Christiansfeld Skole,18,9,12,,6,3,1,6,30,7,,0,0,8,92,100,Kolding Kommune,6070,Region Syddanmark
+2015,Christianshavns Døttreskole,11,6,9,,15,3,2,2,17,3,,1,2,5,68,76,Københavns Kommune,1420,Region Hovedstaden
+2015,Dalmose skole,4,0,1,,6,8,3,5,10,9,,0,0,14,46,60,Slagelse Kommune,4261,Region Sjælland
+2015,Dalumskolen,6,2,3,,3,13,0,6,14,7,,0,0,21,54,75,Odense Kommune,5260,Region Syddanmark
+2015,Danehofskolen,24,11,2,,5,2,2,24,16,8,,2,0,15,94,111,Nyborg Kommune,5800,Region Syddanmark
+2015,Danmarksgades Skole,9,0,1,,8,18,0,6,10,0,,1,0,10,52,63,Esbjerg Kommune,6700,Region Syddanmark
+2015,Dåstrup Skole,16,4,5,,6,0,0,5,28,6,,4,1,5,70,80,Roskilde Kommune,4130,Region Sjælland
+2015,Den Classenske Legatskole,14,12,1,,15,15,0,4,12,9,,3,0,17,82,102,Københavns Kommune,1552,Region Hovedstaden
+2015,Den Tyske Efterskole Tinglev,1,5,3,,0,3,0,4,1,0,,0,0,1,17,18,Aabenraa Kommune,6360,Region Syddanmark
+2015,Design- & Idrætsefterskolen Skamling,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Kolding Kommune,6093,Region Syddanmark
+2015,Det Kgl Vaisenhus Skole,17,5,8,,3,7,0,4,7,3,,0,2,36,54,92,Københavns Kommune,1364,Region Hovedstaden
+2015,Deutsche Privatschule Apenrade,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aabenraa Kommune,6200,Region Syddanmark
+2015,Deutsche Privatschule Sonderburg,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Sønderborg Kommune,6400,Region Syddanmark
+2015,Deutsche Schule Tingleff,2,4,9,,2,1,1,7,10,0,,0,0,7,36,43,Aabenraa Kommune,6360,Region Syddanmark
+2015,DIA Privatskole,9,2,1,,0,0,1,5,3,12,,5,0,3,33,41,Københavns Kommune,2200,Region Hovedstaden
+2015,Distriktsskolen,9,34,3,,2,3,0,4,9,16,,1,0,18,80,99,Tønder Kommune,6240,Region Syddanmark
+2015,Dronninggårdskolen,6,18,15,,6,52,0,0,18,5,,6,1,13,120,140,Rudersdal Kommune,2840,Region Hovedstaden
+2015,Druestrup Friskole,4,0,14,,4,3,0,3,4,2,,1,0,5,34,40,Faxe Kommune,4682,Region Sjælland
+2015,Dybkærskolen,18,6,4,,5,14,0,6,33,2,,1,1,10,88,100,Silkeborg Kommune,8600,Region Midtjylland
+2015,Dyssegårdsskolen,18,21,9,,6,18,1,11,23,8,,4,1,16,115,136,Gentofte Kommune,2900,Region Hovedstaden
+2015,Ebberup Skole,9,4,1,,3,3,4,9,16,10,,6,1,4,59,70,Assens Kommune,5631,Region Syddanmark
+2015,Efterskolen Frydensberg,7,2,0,,4,5,3,12,12,1,,1,0,24,46,71,Mariagerfjord Kommune,9550,Region Nordjylland
+2015,Egebakkeskolen,2,4,3,,0,1,0,3,8,1,,0,0,25,22,47,Aarhus Kommune,8220,Region Midtjylland
+2015,Egebjergskolen,21,19,11,,2,4,3,3,10,8,,0,2,12,81,95,Ballerup Kommune,2750,Region Hovedstaden
+2015,Eisbjerghus Internationale Efterskole,5,3,7,,17,7,2,0,8,6,,3,0,18,55,76,Middelfart Kommune,5580,Region Syddanmark
+2015,Ejerslykkeskolen,66,7,3,,1,0,0,2,20,11,,0,0,65,110,175,Odense Kommune,5230,Region Syddanmark
+2015,Endrupskolen,7,7,1,,11,36,0,2,24,0,,2,0,16,88,106,Fredensborg Kommune,3480,Region Hovedstaden
+2015,Engesvang Skole,14,4,2,,1,4,0,6,9,1,,5,0,6,41,52,Ikast-Brande Kommune,7442,Region Midtjylland
+2015,Enghavegård Skole,23,13,6,,6,9,0,7,17,13,,8,1,36,94,139,Gladsaxe Kommune,2860,Region Hovedstaden
+2015,Enghaveskolen - Faaborg Friskole,5,12,9,,2,2,0,1,9,2,,0,2,2,42,46,Faaborg-Midtfyn Kommune,5600,Region Syddanmark
+2015,Engholmskolen,8,5,18,,5,7,0,1,16,1,,0,0,14,61,75,Allerød Kommune,3450,Region Hovedstaden
+2015,Englystskolen,14,10,3,,2,9,1,16,13,7,,5,0,30,75,110,Vejle Kommune,7080,Region Syddanmark
+2015,Engstrandskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hvidovre Kommune,2650,Region Hovedstaden
+2015,"Erhvervsskolen Nordsjælland, grundskoleafd. Helsingør",0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Helsingør Kommune,3000,Region Hovedstaden
+2015,Eriksminde Efterskole,9,4,0,,8,0,0,1,0,10,,2,0,3,32,37,Odder Kommune,8300,Region Midtjylland
+2015,Erritsø Fællesskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Fredericia Kommune,7000,Region Syddanmark
+2015,Esajasskolen,16,0,2,,1,6,2,1,18,0,,1,0,15,46,62,Hvidovre Kommune,2650,Region Hovedstaden
+2015,Esrum Kostskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Gribskov Kommune,3230,Region Hovedstaden
+2015,Farstrup Skole,2,1,0,,1,0,1,4,6,0,,0,0,0,15,15,Aalborg Kommune,9240,Region Nordjylland
+2015,Farsø Skole,20,7,15,,10,9,2,11,54,4,,1,4,23,132,160,Vesthimmerlands Kommune,9640,Region Nordjylland
+2015,Fårvang Skole,17,7,2,,5,6,8,14,26,7,,2,0,13,92,107,Silkeborg Kommune,8882,Region Midtjylland
+2015,Faxehus Efterskole,1,2,2,,1,2,0,1,5,5,,1,0,60,19,80,Faxe Kommune,4654,Region Sjælland
+2015,Felsted Centralskole,14,1,13,,8,5,0,9,50,1,,0,0,9,101,110,Aabenraa Kommune,6200,Region Syddanmark
+2015,Filipskolen Ålborg,2,0,1,,0,0,8,5,21,0,,1,0,4,37,42,Aalborg Kommune,9000,Region Nordjylland
+2015,Filskov Friskole,3,0,2,,3,0,0,4,9,0,,1,0,1,21,23,Billund Kommune,7200,Region Syddanmark
+2015,Filstedvejens Skole,29,9,2,,9,11,0,12,28,4,,1,1,14,104,120,Aalborg Kommune,9000,Region Nordjylland
+2015,Firhøjskolen,1,4,0,,0,0,0,8,9,1,,1,0,6,23,30,Kalundborg Kommune,4591,Region Sjælland
+2015,Fjelsø Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Vesthimmerlands Kommune,9620,Region Nordjylland
+2015,Fjordskolen - Byskoleafdelingen,22,2,3,,7,2,2,14,9,2,,3,0,69,63,135,Lolland Kommune,4900,Region Sjælland
+2015,Fladsåskolen,15,14,10,,5,5,2,10,11,3,,1,1,33,75,110,Næstved Kommune,4700,Region Sjælland
+2015,Forberedelsesskolen,9,0,0,,1,1,0,0,13,0,,0,0,24,24,48,Randers Kommune,8900,Region Midtjylland
+2015,Fourfeldtskolen,14,4,16,,12,17,0,10,46,3,,4,2,20,122,148,Esbjerg Kommune,6710,Region Syddanmark
+2015,Fredensborg Skole,35,32,30,,2,10,0,1,10,0,,0,0,0,120,120,Fredensborg Kommune,3480,Region Hovedstaden
+2015,Fredericia Friskole,4,1,0,,0,0,0,0,4,0,,0,0,0,9,9,Fredericia Kommune,7000,Region Syddanmark
+2015,Fredericia Realskole,7,2,5,,1,11,2,4,30,1,,0,0,0,63,63,Fredericia Kommune,7000,Region Syddanmark
+2015,Frederiks Skole,9,5,0,,0,2,1,1,30,0,,3,0,6,48,57,Viborg Kommune,7470,Region Midtjylland
+2015,Frederiksberg Skole,19,9,2,,5,3,0,6,45,8,,4,0,27,97,128,Sorø Kommune,4180,Region Sjælland
+2015,"Frederiksværk skole, Enghave",0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Halsnæs Kommune,3300,Region Hovedstaden
+2015,"Frederiksværk Skole, Melby",17,15,0,,3,2,0,18,15,6,,3,0,19,76,98,Halsnæs Kommune,3370,Region Hovedstaden
+2015,Frijsenborg Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Favrskov Kommune,8450,Region Midtjylland
+2015,Frijsendal Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Favrskov Kommune,8450,Region Midtjylland
+2015,Frisholm Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Silkeborg Kommune,8653,Region Midtjylland
+2015,Friskolen - Østerlund,5,0,4,,1,5,0,4,12,2,,0,0,7,33,40,Sønderborg Kommune,6430,Region Syddanmark
+2015,Friskolen af 2008,1,0,2,,1,6,0,0,7,0,,0,0,3,17,20,Næstved Kommune,4700,Region Sjælland
+2015,Friskolen i Lemming,5,2,2,,3,0,0,2,0,0,,0,0,0,14,14,Silkeborg Kommune,8632,Region Midtjylland
+2015,Friskolen I Skive,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Skive Kommune,7800,Region Midtjylland
+2015,Friskolen Østerlars,4,0,0,,3,1,0,2,4,26,,0,0,5,40,45,Bornholms Regionskommune,3760,Region Hovedstaden
+2015,Frydenhøjskolen,15,15,8,,17,16,0,15,10,8,,0,5,14,104,123,Hvidovre Kommune,2650,Region Hovedstaden
+2015,Frydenstrandskolen,9,10,1,,6,11,2,1,76,4,,0,4,10,120,134,Frederikshavn Kommune,9900,Region Nordjylland
+2015,Frøslevlejrens Efterskole,1,1,10,,2,11,0,1,8,6,,5,0,0,40,45,Aabenraa Kommune,6330,Region Syddanmark
+2015,Funder Skole,7,4,2,,6,3,0,1,20,1,,0,0,42,44,86,Silkeborg Kommune,8600,Region Midtjylland
+2015,Fælleshåbsskolen,24,17,3,,3,12,0,10,23,1,,1,4,25,93,123,Vejle Kommune,7080,Region Syddanmark
+2015,Fællesskolen Favrdal-Fjelstrup,68,27,17,,29,29,2,18,61,22,,26,2,56,273,357,Haderslev Kommune,6100,Region Syddanmark
+2015,Galtrup Musik- og Idrætsefterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Morsø Kommune,7950,Region Nordjylland
+2015,Gammelgaardskolen,19,9,6,,5,1,0,1,11,11,,5,2,17,63,87,Aarhus Kommune,8230,Region Midtjylland
+2015,Gedved Skole,3,3,2,,3,9,1,8,22,0,,3,0,7,51,61,Horsens Kommune,8751,Region Midtjylland
+2015,Gentofte Skole,25,5,9,,8,6,0,1,6,0,,0,0,15,60,75,Gentofte Kommune,2820,Region Hovedstaden
+2015,Giersings Realskole,7,6,25,,2,4,0,6,24,1,,0,0,0,75,75,Odense Kommune,5000,Region Syddanmark
+2015,Gilbjergskolen,29,14,13,,8,14,0,17,37,3,,7,1,35,135,178,Gribskov Kommune,3250,Region Hovedstaden
+2015,Gimsing Skole,20,6,3,,2,3,0,2,30,2,,2,0,16,68,86,Struer Kommune,7600,Region Midtjylland
+2015,Gislev Friskole,5,0,3,,0,0,0,0,1,5,,0,0,4,14,18,Faaborg-Midtfyn Kommune,5854,Region Syddanmark
+2015,Gistrup Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aalborg Kommune,9260,Region Nordjylland
+2015,Gjellerupskolen,9,12,6,,1,7,0,9,23,3,,1,0,15,70,86,Herning Kommune,7400,Region Midtjylland
+2015,Gladsaxe Privatskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Gladsaxe Kommune,2800,Region Hovedstaden
+2015,Glamsbjergskolen,10,1,3,,3,3,0,6,22,2,,2,0,10,50,62,Assens Kommune,5620,Region Syddanmark
+2015,Glostrup skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Glostrup Kommune,2600,Region Hovedstaden
+2015,"Glostrup skole, Nordvangskolen",7,9,3,,6,4,1,4,26,3,,7,0,18,63,88,Glostrup Kommune,2600,Region Hovedstaden
+2015,"Glostrup Skole, Skovvang",18,6,4,,12,7,0,7,4,2,,1,0,33,60,94,Glostrup Kommune,2600,Region Hovedstaden
+2015,"Glostrup skole, Søndervang",16,6,12,,3,20,0,1,13,0,,4,0,7,71,82,Glostrup Kommune,2600,Region Hovedstaden
+2015,"Glostrup Skole, Vestervang",26,3,2,,6,2,0,4,2,0,,0,5,16,45,66,Glostrup Kommune,2600,Region Hovedstaden
+2015,Gram Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Haderslev Kommune,6510,Region Syddanmark
+2015,Gråsten Friskole,0,4,4,,0,2,0,0,2,1,,6,0,1,13,20,Sønderborg Kommune,6300,Region Syddanmark
+2015,Gråsten Skole,19,7,0,,4,28,0,8,19,6,,1,1,0,91,93,Sønderborg Kommune,6300,Region Syddanmark
+2015,Gredstedbro Skole,3,1,10,,8,10,0,4,12,0,,0,1,8,48,57,Esbjerg Kommune,6771,Region Syddanmark
+2015,Gribskolen,17,4,3,,6,16,0,5,15,17,,4,0,15,83,102,Gribskov Kommune,3230,Region Hovedstaden
+2015,Grindsted Vestre Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Billund Kommune,7200,Region Syddanmark
+2015,Grænseegnens Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aabenraa Kommune,6340,Region Syddanmark
+2015,Grøndalsvængets Skole,22,2,8,,5,11,0,5,3,4,,1,0,19,60,80,Københavns Kommune,2400,Region Hovedstaden
+2015,Gudenaadalens Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Favrskov Kommune,8860,Region Midtjylland
+2015,Gudenåskolen,11,2,0,,3,1,0,3,7,15,,0,0,5,42,47,Skanderborg Kommune,8680,Region Midtjylland
+2015,Gudumholm Skole,3,4,5,,1,3,0,5,7,1,,0,0,2,29,31,Aalborg Kommune,9280,Region Nordjylland
+2015,Gug Skole,34,12,11,,9,14,6,12,46,4,,0,1,10,148,159,Aalborg Kommune,9210,Region Nordjylland
+2015,Gymnastikefterskolen Stevns,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Stevns Kommune,4660,Region Sjælland
+2015,Gyvelhøjskolen,16,12,18,,5,9,0,13,16,13,,1,1,0,102,104,Skanderborg Kommune,8464,Region Midtjylland
+2015,Gærum Skole,2,2,1,,1,0,0,7,10,0,,0,0,1,23,24,Frederikshavn Kommune,9900,Region Nordjylland
+2015,Gørding Skole,10,2,2,,5,9,0,6,21,8,,4,3,13,63,83,Esbjerg Kommune,6690,Region Syddanmark
+2015,Gørlev Skole,4,3,2,,1,1,0,5,31,2,,2,2,2,49,55,Kalundborg Kommune,4281,Region Sjælland
+2015,Hadbjerg Skole,12,2,5,,6,1,0,14,4,1,,0,0,0,45,45,Favrskov Kommune,8370,Region Midtjylland
+2015,Hadsten Skole,11,12,1,,6,15,0,6,20,0,,2,2,16,71,91,Favrskov Kommune,8370,Region Midtjylland
+2015,Hald Ege Skole,5,13,39,,4,12,0,4,11,3,,3,0,16,91,110,Viborg Kommune,8800,Region Midtjylland
+2015,Haldum-Hinnerup Skolen,50,6,1,,6,5,0,9,16,8,,3,2,14,101,120,Favrskov Kommune,8382,Region Midtjylland
+2015,Halstedhus Efterskole,14,2,3,,3,6,0,4,8,0,,8,2,5,40,55,Lolland Kommune,4900,Region Sjælland
+2015,Hammershøj Skole,1,1,0,,0,0,0,8,20,3,,0,2,2,33,37,Viborg Kommune,8830,Region Midtjylland
+2015,Hammerum Skole,6,4,0,,0,5,0,3,14,0,,1,1,8,32,42,Herning Kommune,7400,Region Midtjylland
+2015,Hampelandskolen,12,4,3,,4,6,1,11,16,2,,2,0,24,59,85,Egedal Kommune,3650,Region Hovedstaden
+2015,Hanebjerg Skole,11,9,27,,18,4,1,5,15,6,,9,1,7,96,113,Hillerød Kommune,3400,Region Hovedstaden
+2015,Hannæsskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Thisted Kommune,7741,Region Nordjylland
+2015,"Hans Rømer Skolen, Afdeling Aaker",17,7,3,,12,15,0,11,16,10,,5,0,29,91,125,Bornholms Regionskommune,3720,Region Hovedstaden
+2015,Hanssted Skole,7,2,1,,33,9,1,2,6,8,,3,0,29,69,101,Københavns Kommune,2500,Region Hovedstaden
+2015,Hanstholm Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Thisted Kommune,7730,Region Nordjylland
+2015,Hanstholm Skole,4,8,1,,2,2,1,4,21,0,,5,0,12,43,60,Thisted Kommune,7730,Region Nordjylland
+2015,Harboøre Skole,8,4,6,,3,2,0,7,13,0,,1,0,9,43,53,Lemvig Kommune,7673,Region Midtjylland
+2015,Hårby Skole,8,7,10,,4,2,0,3,17,3,,0,0,18,54,72,Assens Kommune,5683,Region Syddanmark
+2015,Hareskov Skole,25,20,46,,1,4,2,1,19,3,,3,0,26,121,150,Furesø Kommune,3500,Region Hovedstaden
+2015,Hårslev Efterskole,5,1,0,,1,2,0,2,6,1,,0,1,4,18,23,Næstved Kommune,4262,Region Sjælland
+2015,Hårup Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8530,Region Midtjylland
+2015,Hastrupskolen,9,26,13,,8,13,0,12,8,1,,4,1,20,90,115,Køge Kommune,4600,Region Sjælland
+2015,Havdrup Skole,10,8,23,,0,2,0,9,19,0,,0,1,18,71,90,Solrød Kommune,4622,Region Sjælland
+2015,Hay Skolen,25,8,2,,5,2,3,15,3,2,,1,4,13,65,83,Københavns Kommune,2450,Region Hovedstaden
+2015,Hedegaard Friskole,1,0,3,,0,0,0,1,7,0,,0,0,0,12,12,Vejle Kommune,7323,Region Syddanmark
+2015,Hedegårdenes Skole,22,2,0,,5,0,0,0,7,0,,1,0,12,36,49,Roskilde Kommune,4000,Region Sjælland
+2015,Hedegårdsskolen,5,1,9,,9,2,0,14,14,1,,1,0,44,55,100,Brønderslev Kommune,9700,Region Nordjylland
+2015,Hedegårdsskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Ballerup Kommune,2750,Region Hovedstaden
+2015,Hedelyskolen,5,0,5,,3,0,0,4,9,0,,1,0,12,26,39,Greve Kommune,2670,Region Sjælland
+2015,Hedensted Skole,12,3,29,,5,6,0,13,62,1,,1,3,15,131,150,Hedensted Kommune,8722,Region Midtjylland
+2015,Hejnsvig Skole,2,7,1,,1,1,0,13,11,0,,0,0,5,36,41,Billund Kommune,7250,Region Syddanmark
+2015,Heldagsskolen I Frederikshavn,0,0,0,,3,0,0,0,2,0,,2,0,1,5,8,Frederikshavn Kommune,9900,Region Nordjylland
+2015,Hellebækskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Helsingør Kommune,3140,Region Hovedstaden
+2015,Hellerup Skole,10,3,15,,10,3,1,1,1,5,,5,0,76,49,130,Gentofte Kommune,2900,Region Hovedstaden
+2015,Helms Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Slagelse Kommune,4220,Region Sjælland
+2015,Helsingør Privatskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Helsingør Kommune,3000,Region Hovedstaden
+2015,Hendriksholm Skole,6,2,3,,10,0,0,8,3,1,,0,0,5,33,38,Rødovre Kommune,2610,Region Hovedstaden
+2015,Herlev Privatskole,14,3,3,,3,1,0,3,11,1,,0,2,5,39,46,Herlev Kommune,2730,Region Hovedstaden
+2015,Herlufsholm Skole og Gods,16,5,4,,1,27,2,1,67,4,,0,7,18,127,152,Næstved Kommune,4700,Region Sjælland
+2015,Herningsholmskolen,6,11,5,,5,3,0,4,23,1,,2,3,20,58,83,Herning Kommune,7400,Region Midtjylland
+2015,Herstedvester Skole,57,15,7,,32,1,0,8,17,23,,5,5,0,160,170,Albertslund Kommune,2620,Region Hovedstaden
+2015,Hestlund Efterskole,2,3,4,,3,1,0,3,16,0,,0,1,6,32,39,Ikast-Brande Kommune,7441,Region Midtjylland
+2015,Hillerød Vest Skolen,13,9,12,,6,4,0,3,45,3,,3,9,15,95,122,Hillerød Kommune,3400,Region Hovedstaden
+2015,Hillerødsholmskolen,13,1,5,,2,4,0,0,31,1,,1,0,17,57,75,Hillerød Kommune,3400,Region Hovedstaden
+2015,Himmelev Skole,35,18,11,,11,15,2,11,48,8,,10,3,28,159,200,Roskilde Kommune,4000,Region Sjælland
+2015,Hindsholmskolen,3,11,2,,3,14,0,2,3,1,,1,0,4,39,44,Kerteminde Kommune,5380,Region Syddanmark
+2015,Hjallerup Skole,15,4,6,,15,5,1,5,39,1,,0,0,19,91,110,Brønderslev kommune,9320,Region Nordjylland
+2015,Hjordkær Skole,4,8,4,,1,3,0,13,28,1,,2,1,6,62,71,Aabenraa Kommune,6230,Region Syddanmark
+2015,Hjørring Ny Steinerskole,1,0,1,,1,0,0,0,3,0,,0,0,7,6,13,Hjørring Kommune,9800,Region Nordjylland
+2015,Hjørring Private Realskole,1,5,14,,3,9,0,9,42,0,,0,0,117,83,200,Hjørring Kommune,9800,Region Nordjylland
+2015,Hobro Friskole,3,0,1,,2,0,0,0,2,11,,0,0,0,19,19,Mariagerfjord Kommune,9500,Region Nordjylland
+2015,Holbæk Lille Skole,22,7,2,,11,7,2,4,16,3,,2,0,12,74,88,Holbæk Kommune,4300,Region Sjælland
+2015,Holbæk Private Realskole,10,1,5,,1,7,0,2,17,0,,0,0,1,43,44,Holbæk Kommune,4300,Region Sjælland
+2015,Holmebækskolen,9,5,3,,4,9,0,3,8,1,,2,2,2,42,48,Køge Kommune,4681,Region Sjælland
+2015,Holmegårdskolen,37,3,14,,4,6,1,25,23,6,,4,0,12,119,135,Hjørring Kommune,9800,Region Nordjylland
+2015,Holmegårdsskolen,19,5,21,,1,2,0,4,2,21,,1,0,8,75,84,Hvidovre Kommune,2650,Region Hovedstaden
+2015,Holsted Skole,24,18,8,,7,16,0,9,28,6,,1,3,21,116,141,Næstved Kommune,4700,Region Sjælland
+2015,Hornbæk Skole,10,4,13,,3,37,0,2,8,8,,3,0,27,85,115,Helsingør Kommune,3100,Region Hovedstaden
+2015,Hornbæk Skole,2,1,9,,0,5,1,2,44,0,,4,0,7,64,75,Randers Kommune,8920,Region Midtjylland
+2015,Hornslet Skole,26,3,6,,1,7,0,18,40,3,,5,0,12,104,121,Syddjurs Kommune,8543,Region Midtjylland
+2015,Hornum Skole,20,1,3,,2,2,1,5,22,2,,0,1,6,58,65,Vesthimmerlands Kommune,9600,Region Nordjylland
+2015,Horsens Byskole,7,14,22,,5,16,0,10,28,3,,3,1,43,105,152,Horsens Kommune,8700,Region Midtjylland
+2015,Horslunde Realskole,4,1,1,,3,0,1,6,21,1,,1,0,1,38,40,Lolland Kommune,4913,Region Sjælland
+2015,Hovedgård Skole,3,13,17,,1,6,1,20,13,12,,4,0,0,86,90,Horsens Kommune,8732,Region Midtjylland
+2015,"Hovedstadens Privatskole, Filipskolen",8,0,3,,5,0,0,0,6,1,,0,0,7,23,30,Københavns Kommune,2300,Region Hovedstaden
+2015,Humlebæk Lille Skole,5,4,0,,9,4,0,0,3,1,,2,1,6,26,35,Fredensborg Kommune,3050,Region Hovedstaden
+2015,Hummeltofteskolen,39,25,7,,9,15,0,3,33,6,,1,3,23,137,164,Lyngby-Taarbæk Kommune,2830,Region Hovedstaden
+2015,Hundested Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Halsnæs Kommune,3390,Region Hovedstaden
+2015,Hurup Skole,20,3,2,,22,9,1,7,52,5,,2,2,25,121,150,Thisted Kommune,7760,Region Nordjylland
+2015,Husum Skole,26,8,2,,5,0,0,7,6,4,,8,4,20,58,90,Københavns Kommune,2700,Region Hovedstaden
+2015,Hvalsø Skole,2,17,7,,16,16,0,4,23,6,,1,0,1,91,93,Lejre Kommune,4330,Region Sjælland
+2015,Hvilsom Friskole,0,3,2,,1,3,0,0,1,11,,1,0,4,21,26,Mariagerfjord Kommune,9500,Region Nordjylland
+2015,Hvinningdalskolen,14,1,12,,2,2,0,1,8,0,,1,0,6,40,47,Silkeborg Kommune,8600,Region Midtjylland
+2015,Hyllehøjskolen,2,6,3,,9,1,0,4,34,0,,0,1,9,59,69,Middelfart Kommune,5500,Region Syddanmark
+2015,Hældagerskolen,29,3,3,,2,10,0,4,49,1,,2,3,9,101,115,Vejle Kommune,7120,Region Syddanmark
+2015,Hærvejsskolen,8,7,11,,7,9,0,3,28,5,,1,1,12,78,92,Aabenraa Kommune,6230,Region Syddanmark
+2015,Højby Friskole,6,1,4,,3,0,0,1,17,5,,3,0,5,37,45,Odense Kommune,5260,Region Syddanmark
+2015,Højdevangens Skole,63,16,9,,17,14,2,23,17,32,,5,8,55,193,261,Københavns Kommune,2300,Region Hovedstaden
+2015,Højelse Skole,5,4,3,,6,0,0,6,15,10,,1,0,0,49,50,Køge Kommune,4623,Region Sjælland
+2015,Højene undervisningssted,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hjørring Kommune,9800,Region Nordjylland
+2015,Højmeskolen,5,7,5,,3,2,1,9,26,2,,2,0,88,60,150,Odense Kommune,5250,Region Syddanmark
+2015,Højslev Skole,7,4,38,,4,12,0,6,40,2,,0,0,15,113,128,Skive Kommune,7840,Region Midtjylland
+2015,Højvangskolen,15,10,10,,4,19,0,11,25,1,,4,0,24,95,123,Horsens Kommune,8700,Region Midtjylland
+2015,Højvangskolen,6,1,7,,1,8,0,5,15,2,,1,4,14,45,64,Aalborg Kommune,9230,Region Nordjylland
+2015,Høng Privatskole,0,2,12,,1,3,0,4,11,3,,0,0,24,36,60,Kalundborg Kommune,4270,Region Sjælland
+2015,Høng Skole,10,6,40,,11,5,4,16,21,27,,1,1,12,140,154,Kalundborg Kommune,4270,Region Sjælland
+2015,Hørby Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Frederikshavn Kommune,9300,Region Nordjylland
+2015,Hørby-Dybvad Skole,0,2,0,,1,3,0,1,17,0,,0,0,0,24,24,Frederikshavn Kommune,9352,Region Nordjylland
+2015,Hørsholm Lille Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hørsholm Kommune,2960,Region Hovedstaden
+2015,Høve Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Odsherred Kommune,4550,Region Sjælland
+2015,Idestrup Privatskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Guldborgsund Kommune,4872,Region Sjælland
+2015,Idrætsefterskolen Lægården,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Holstebro Kommune,7500,Region Midtjylland
+2015,Ikast Nordre Skole,17,6,3,,8,3,0,1,16,2,,1,1,5,56,63,Ikast-Brande Kommune,7430,Region Midtjylland
+2015,Ingstrup Trivselsskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Jammerbugt Kommune,9480,Region Nordjylland
+2015,Iqra Privatskole,6,2,0,,1,2,0,6,0,20,,1,0,2,37,40,Københavns Kommune,2200,Region Hovedstaden
+2015,Isefjordskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Holbæk Kommune,4300,Region Sjælland
+2015,Isefjordskolen - 2,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Holbæk Kommune,4300,Region Sjælland
+2015,"Isefjordskolen, afdeling Holbæk",16,7,8,,8,26,0,2,32,2,,1,3,45,101,150,Holbæk Kommune,4300,Region Sjælland
+2015,Issø-skolen,15,4,2,,10,6,0,13,9,6,,4,0,4,65,73,Svendborg Kommune,5771,Region Syddanmark
+2015,Jakobskolen,2,1,3,,2,1,0,2,1,2,,7,2,49,14,72,Frederiksberg Kommune,1961,Region Hovedstaden
+2015,Jels Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Vejen Kommune,6630,Region Syddanmark
+2015,Jerup Skole,4,0,0,,1,0,0,2,9,0,,0,0,2,16,18,Frederikshavn Kommune,9981,Region Nordjylland
+2015,Jinnah International School,20,1,0,,0,0,0,3,0,2,,0,0,4,26,30,Københavns Kommune,2720,Region Hovedstaden
+2015,Johannesskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hillerød Kommune,3400,Region Hovedstaden
+2015,Juelsminde Skole,22,12,6,,5,10,4,10,53,2,,0,0,30,124,154,Hedensted Kommune,7130,Region Midtjylland
+2015,Jyllinge Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Roskilde Kommune,4040,Region Sjælland
+2015,Kalundborg Friskole,6,6,7,,1,2,1,1,12,1,,0,0,5,37,42,Kalundborg Kommune,4400,Region Sjælland
+2015,Karensmindeskolen,30,7,9,,5,6,1,8,39,2,,3,0,20,107,130,Rebild Kommune,9530,Region Nordjylland
+2015,Karise Skole,8,9,6,,5,22,0,5,14,4,,1,0,0,73,74,Faxe Kommune,4653,Region Sjælland
+2015,Karlslunde Skole,5,1,1,,1,0,1,3,9,0,,1,1,13,21,36,Greve Kommune,2690,Region Sjælland
+2015,Karup Skole,6,3,8,,0,0,0,2,11,0,,0,0,6,30,36,Viborg Kommune,7470,Region Midtjylland
+2015,Kathøj,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Kalundborg Kommune,4400,Region Sjælland
+2015,Kerteminde Byskole,14,13,1,,1,0,1,24,4,5,,4,3,50,63,120,Kerteminde Kommune,5300,Region Syddanmark
+2015,Kibæk Skole,16,0,2,,1,6,0,5,29,2,,1,0,5,61,67,Herning Kommune,6933,Region Midtjylland
+2015,Kildegårdskolen,25,8,1,,4,6,0,36,8,27,,3,2,80,115,200,Herlev Kommune,2730,Region Hovedstaden
+2015,Kildeskolen,3,3,2,,4,8,0,3,4,0,,0,0,13,27,40,Københavns Kommune,2500,Region Hovedstaden
+2015,Kirke Hyllinge Skole,3,3,3,,4,16,2,2,7,2,,1,0,1,42,44,Lejre Kommune,4070,Region Sjælland
+2015,Kirke Saaby Skole,2,0,1,,4,15,0,5,6,0,,1,1,7,33,42,Lejre Kommune,4060,Region Sjælland
+2015,Kirkebjerg Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2720,Region Hovedstaden
+2015,Kirkeskolen,4,1,6,,1,4,1,4,17,9,,4,1,113,47,165,Ringkøbing-Skjern Kommune,6900,Region Midtjylland
+2015,Kjellerup Skole,28,7,6,,17,15,0,11,45,8,,1,0,52,137,190,Silkeborg Kommune,8620,Region Midtjylland
+2015,Klarupskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aalborg Kommune,9270,Region Nordjylland
+2015,Klokkerholm Skole,4,5,11,,1,9,2,9,31,1,,2,0,5,73,80,Brønderslev kommune,9320,Region Nordjylland
+2015,Klostermarksskolen,18,10,3,,1,24,0,3,59,4,,0,0,8,122,130,Aalborg Kommune,9000,Region Nordjylland
+2015,Kolding Friskole,3,10,3,,1,1,1,2,12,1,,1,0,5,34,40,Kolding Kommune,6000,Region Syddanmark
+2015,Kolding Realskole,8,11,5,,0,22,0,7,47,2,,1,0,10,102,113,Kolding Kommune,6000,Region Syddanmark
+2015,Kolind Centralskole,4,5,1,,30,5,0,12,10,3,,5,1,10,70,86,Syddjurs Kommune,8560,Region Midtjylland
+2015,Kon Tiki - Børnenes Skole,2,6,0,,12,0,0,4,4,10,,2,1,0,38,41,Hillerød Kommune,3400,Region Hovedstaden
+2015,Kongehøjskolen,17,106,2,,2,3,1,10,10,4,,0,4,16,155,175,Aabenraa Kommune,6200,Region Syddanmark
+2015,Kongensgaard Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Lemvig Kommune,7620,Region Midtjylland
+2015,Kongerslev Skole,0,0,0,,4,0,1,3,7,0,,0,2,28,15,45,Aalborg Kommune,9293,Region Nordjylland
+2015,Kongsbjergskolen,7,16,3,,19,7,0,0,52,5,,0,1,10,109,120,Kolding Kommune,6640,Region Syddanmark
+2015,Korskildeskolen,1,2,4,,3,7,0,5,19,4,,0,0,3,45,48,Næstved Kommune,4733,Region Sjælland
+2015,Korsvejens Skole,8,4,7,,8,11,1,8,22,6,,2,1,22,75,100,Tårnby Kommune,2770,Region Hovedstaden
+2015,Korup Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Odense Kommune,5210,Region Syddanmark
+2015,Kragelund Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hedensted Kommune,8723,Region Midtjylland
+2015,Kragelundskolen,16,22,35,,12,5,0,4,49,8,,4,0,20,151,175,Aarhus Kommune,8270,Region Midtjylland
+2015,Kratholmskolen,10,4,5,,5,2,1,2,6,3,,0,0,1,38,39,Odense Kommune,5250,Region Syddanmark
+2015,Kroggårdsskolen,10,2,42,,16,6,0,3,38,1,,4,0,12,118,134,Odense Kommune,5270,Region Syddanmark
+2015,"Kulsbjerg Skole, Stensved",13,3,4,,7,6,0,6,32,4,,0,1,19,75,95,Vordingborg Kommune,4773,Region Sjælland
+2015,Kvaglundskolen,7,5,4,,6,16,2,9,22,1,,2,0,12,72,86,Esbjerg Kommune,6705,Region Syddanmark
+2015,Kvikmarkens Privatskole,21,7,13,,3,1,0,8,10,3,,5,0,10,66,81,Gladsaxe Kommune,2860,Region Hovedstaden
+2015,Kystskolen,8,8,5,,8,1,2,15,23,0,,0,0,9,70,79,Nordfyns Kommune,5450,Region Syddanmark
+2015,Køng Idrætsfriskole,3,1,13,,5,0,0,2,2,0,,0,0,9,26,35,Assens Kommune,5620,Region Syddanmark
+2015,Landsbyskolen,1,4,0,,1,4,0,1,8,3,,2,1,4,22,29,Københavns Kommune,2300,Region Hovedstaden
+2015,Langå Skole,28,7,3,,5,10,0,5,24,6,,0,0,6,88,94,Randers Kommune,8870,Region Midtjylland
+2015,Langebjergskolen,32,13,2,,2,8,1,1,19,2,,0,0,15,80,95,Fredensborg Kommune,3050,Region Hovedstaden
+2015,Langelands Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Langeland Kommune,5900,Region Syddanmark
+2015,Langelinieskolen,44,4,0,,6,4,0,2,8,10,,0,0,17,78,95,Københavns Kommune,2100,Region Hovedstaden
+2015,Langhøjskolen,1,1,3,,2,0,0,3,13,0,,0,0,2,23,25,Struer Kommune,7600,Region Midtjylland
+2015,Langmarkskolen,33,2,8,,4,8,0,16,24,2,,0,8,30,97,135,Horsens Kommune,8700,Region Midtjylland
+2015,Langsøskolen,9,3,8,,1,13,0,5,5,0,,3,0,8,44,55,Silkeborg Kommune,8600,Region Midtjylland
+2015,Langtved Friskole,2,0,9,,0,0,0,0,0,0,,1,0,1,11,13,Nyborg Kommune,5540,Region Syddanmark
+2015,Låsby Skole,7,2,7,,4,2,1,1,30,1,,2,2,1,55,60,Skanderborg Kommune,8670,Region Midtjylland
+2015,Lem Stationsskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Ringkøbing-Skjern Kommune,6940,Region Midtjylland
+2015,Lemvig Kristne Friskole,0,3,1,,0,0,1,1,0,0,,0,0,0,6,6,Lemvig Kommune,7620,Region Midtjylland
+2015,Levring Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Silkeborg Kommune,8620,Region Midtjylland
+2015,Lille Næstved Skole,13,65,21,,7,11,1,7,45,3,,1,9,42,173,225,Næstved Kommune,4700,Region Sjælland
+2015,Lille Værløse Skole,6,0,1,,0,0,1,0,5,2,,0,0,0,15,15,Furesø Kommune,3500,Region Hovedstaden
+2015,Lind Skole,24,16,12,,12,8,4,10,54,2,,0,7,29,142,178,Herning Kommune,7400,Region Midtjylland
+2015,Lindeskovskolen,10,1,6,,7,3,0,5,9,8,,0,3,2,49,54,Guldborgsund Kommune,4800,Region Sjælland
+2015,Lindevangskolen,18,12,26,,7,4,0,8,13,8,,3,1,16,96,116,Frederiksberg Kommune,2000,Region Hovedstaden
+2015,Lisbjergskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8200,Region Midtjylland
+2015,Lundby Efterskole,1,0,2,,2,10,1,1,4,0,,0,0,16,21,37,Vordingborg Kommune,4750,Region Sjælland
+2015,Lundehusskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2100,Region Hovedstaden
+2015,Lundgårdskolen,29,7,16,,11,22,0,10,20,4,,5,2,19,119,145,Herning Kommune,7400,Region Midtjylland
+2015,Lykkebo Skole,19,6,6,,3,2,0,5,6,1,,1,5,7,48,61,Københavns Kommune,2500,Region Hovedstaden
+2015,Lykkesgårdskolen,10,1,9,,12,4,0,9,11,10,,2,2,12,66,82,Varde Kommune,6800,Region Syddanmark
+2015,Lyngbjerggårdskolen,2,1,0,,3,0,0,1,5,2,,0,0,2,14,16,Aalborg Kommune,9230,Region Nordjylland
+2015,Lyngby Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
+2015,Lyngholmskolen,38,7,6,,8,3,2,5,14,20,,4,1,17,103,125,Furesø Kommune,3520,Region Hovedstaden
+2015,Lærkeskolen,19,17,32,,9,28,0,8,65,2,,3,1,25,180,209,Egedal Kommune,3660,Region Hovedstaden
+2015,Læsø Skole,1,1,0,,3,1,0,3,19,0,,0,1,5,28,34,Læsø Kommune,9940,Region Nordjylland
+2015,Lødderup Friskole,10,2,7,,1,1,0,0,27,0,,0,0,7,48,55,Morsø Kommune,7900,Region Nordjylland
+2015,Løgstrup Skole,30,14,2,,9,5,0,9,9,1,,3,4,14,79,100,Viborg Kommune,8831,Region Midtjylland
+2015,Løjtegårdsskolen,25,5,5,,3,6,1,15,25,10,,10,0,22,95,127,Tårnby Kommune,2770,Region Hovedstaden
+2015,Løkken undervisningssted,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hjørring Kommune,9480,Region Nordjylland
+2015,Løsning Skole,20,9,14,,12,12,0,16,25,5,,6,1,20,113,140,Hedensted Kommune,8723,Region Midtjylland
+2015,Magleby Fri- og Efterskole,2,1,3,,5,1,0,4,6,2,,1,0,26,24,51,Langeland Kommune,5935,Region Syddanmark
+2015,Maglegårdsskolen,3,16,24,,3,19,0,1,13,1,,0,0,20,80,100,Gentofte Kommune,2900,Region Hovedstaden
+2015,Maglehøjskolen,20,7,18,,0,1,0,7,16,8,,0,5,25,77,107,Egedal Kommune,3650,Region Hovedstaden
+2015,Margretheskolen,8,4,4,,1,5,1,3,10,3,,3,2,5,39,49,Roskilde Kommune,4000,Region Sjælland
+2015,Mariager Skole,20,8,11,,2,9,1,7,9,0,,0,0,0,67,67,Mariagerfjord Kommune,9550,Region Nordjylland
+2015,Mariagerfjord Idrætsskole,0,4,0,,1,3,1,2,4,0,,0,0,0,15,15,Mariagerfjord Kommune,9500,Region Nordjylland
+2015,Marienhoffskolen,12,3,2,,0,3,0,0,3,1,,0,0,3,24,27,Syddjurs Kommune,8550,Region Midtjylland
+2015,Markusskolen,6,2,4,,4,3,5,4,7,2,,0,0,3,37,40,Esbjerg Kommune,6710,Region Syddanmark
+2015,Mellervangskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aalborg Kommune,9000,Region Nordjylland
+2015,Mentiqa-Nordjylland,2,3,3,,1,1,0,1,1,5,,7,0,3,17,27,Aalborg Kommune,9400,Region Nordjylland
+2015,Middelfart Friskole,11,3,1,,3,0,0,1,6,2,,2,0,2,27,31,Middelfart Kommune,5500,Region Syddanmark
+2015,Midtjysk Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Ikast-Brande Kommune,7361,Region Midtjylland
+2015,Midtsjællands Efterskole,7,7,27,,5,0,0,3,26,22,,1,0,12,97,110,Lejre Kommune,4330,Region Sjælland
+2015,"Midtskolen, Bavne afdeling",8,1,6,,4,0,0,16,6,2,,1,0,9,43,53,Faxe Kommune,4690,Region Sjælland
+2015,"Midtskolen, Møllevang afdeling",8,4,13,,2,30,1,0,10,1,,3,0,18,69,90,Faxe Kommune,4683,Region Sjælland
+2015,"Midtskolen, Sofiendal afdeling",7,5,3,,7,8,3,19,17,13,,7,2,21,82,112,Faxe Kommune,4690,Region Sjælland
+2015,Muldbjergskolen,13,10,7,,2,5,4,6,13,20,,1,1,8,80,90,Hjørring Kommune,9800,Region Nordjylland
+2015,Munkebo Skole - mellem nor og fjord,34,15,4,,5,5,1,12,19,5,,11,0,16,100,127,Kerteminde Kommune,5330,Region Syddanmark
+2015,Munkegårdsskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Gentofte Kommune,2870,Region Hovedstaden
+2015,Munkekærskolen,7,12,19,,5,22,0,9,36,2,,8,0,40,112,160,Solrød Kommune,2680,Region Sjælland
+2015,Munkholmskolen,3,3,4,,3,1,1,21,14,3,,2,0,6,53,61,Randers Kommune,8870,Region Midtjylland
+2015,Musikefterskolen i Humble,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Langeland Kommune,5932,Region Syddanmark
+2015,Mølholm Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Vejle Kommune,7100,Region Syddanmark
+2015,"Møn Skole, Stege",26,27,2,,10,2,0,11,22,7,,2,1,25,107,135,Vordingborg Kommune,4780,Region Sjælland
+2015,Mønsted Skole,7,2,2,,18,0,0,2,12,1,,0,0,1,44,45,Viborg Kommune,8800,Region Midtjylland
+2015,Mørdrupskolen,21,3,5,,1,2,0,4,6,3,,0,0,4,45,49,Helsingør Kommune,3060,Region Hovedstaden
+2015,Mørke Skole,8,1,0,,3,2,0,6,8,0,,0,1,7,28,36,Syddjurs Kommune,8544,Region Midtjylland
+2015,Mørkhøj Skole,12,6,7,,6,6,1,4,5,6,,0,0,12,53,65,Gladsaxe Kommune,2860,Region Hovedstaden
+2015,N. Zahles Gymnasieskole,37,21,59,,8,9,1,0,20,7,,0,3,25,162,190,Københavns Kommune,1358,Region Hovedstaden
+2015,N. Zahles Seminarieskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,1361,Region Hovedstaden
+2015,Niels Steensens Gymnasium,18,26,5,,20,26,1,2,22,13,,0,0,42,133,175,Københavns Kommune,2100,Region Hovedstaden
+2015,Nivå Skole,27,11,11,,6,22,6,10,27,1,,0,2,17,121,140,Fredensborg Kommune,2990,Region Hovedstaden
+2015,Nord-Samsø Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Samsø Kommune,8305,Region Hovedstaden
+2015,Nordagerskolen,35,4,2,,7,6,0,15,29,5,,0,5,0,103,108,Faaborg-Midtfyn Kommune,5750,Region Syddanmark
+2015,Nordals skolen,8,0,2,,27,0,0,0,15,0,,2,1,10,52,65,Sønderborg Kommune,6430,Region Syddanmark
+2015,Nordbyskolen,7,5,44,,1,3,0,8,16,0,,0,0,3,84,87,Guldborgsund Kommune,4800,Region Sjælland
+2015,Norddjurs Friskole,3,0,4,,1,0,0,1,0,2,,0,0,49,11,60,Norddjurs Kommune,8500,Region Midtjylland
+2015,Nordregårdsskolen,8,5,7,,3,0,0,6,4,3,,0,1,9,36,46,Tårnby Kommune,2770,Region Hovedstaden
+2015,Nordstjerneskolen,25,6,8,,12,32,0,28,47,17,,5,4,91,175,275,Gribskov Kommune,3200,Region Hovedstaden
+2015,Nordstjerneskolen,20,6,12,,5,6,1,21,38,9,,1,2,54,118,175,Frederikshavn Kommune,9900,Region Nordjylland
+2015,"Nordvestskolen, Ravnsborg afdeling",10,0,0,,4,6,0,13,4,4,,20,0,9,41,70,Lolland Kommune,4913,Region Sjælland
+2015,"Nordvestskolen, Stormark afdeling",9,3,11,,5,34,0,9,9,5,,1,3,13,85,102,Lolland Kommune,4900,Region Sjælland
+2015,Nr Uttrup Skole,12,0,1,,0,2,0,4,13,2,,2,1,35,34,72,Aalborg Kommune,9400,Region Nordjylland
+2015,Nr. Asmindrup Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Odsherred Kommune,4572,Region Sjælland
+2015,Nr. Nissum Skole,8,33,7,,1,1,0,5,5,0,,0,0,20,60,80,Lemvig Kommune,7620,Region Midtjylland
+2015,Ny Hollænderskolen,36,12,30,,3,22,0,5,17,8,,0,4,29,133,166,Frederiksberg Kommune,1855,Region Hovedstaden
+2015,Nyager Skole,13,6,1,,3,5,0,8,19,21,,12,1,37,76,126,Rødovre Kommune,2610,Region Hovedstaden
+2015,Nyborg Heldagsskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Nyborg Kommune,5540,Region Syddanmark
+2015,Nyborg Private Realskole,5,5,11,,0,3,0,3,28,1,,24,0,0,56,80,Nyborg Kommune,5800,Region Syddanmark
+2015,Nydamskolen,3,7,4,,3,8,0,8,68,4,,0,0,11,105,116,Sønderborg Kommune,6400,Region Syddanmark
+2015,Nymarksskolen,10,8,2,,6,2,1,6,33,3,,0,1,8,71,80,Kerteminde Kommune,5300,Region Syddanmark
+2015,Nyrupskolen,14,7,1,,3,9,0,2,33,2,,2,0,17,71,90,Kalundborg Kommune,4400,Region Sjælland
+2015,Nysted Skole,10,4,2,,2,12,1,11,19,4,,6,2,7,65,80,Guldborgsund Kommune,4880,Region Sjælland
+2015,Nærum Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Rudersdal Kommune,2850,Region Hovedstaden
+2015,Næsbjerg Skole,9,2,5,,4,7,1,5,35,2,,1,1,9,70,81,Varde Kommune,6800,Region Syddanmark
+2015,Næsby Skole,27,6,10,,3,5,0,6,8,4,,3,0,7,69,79,Odense Kommune,5270,Region Syddanmark
+2015,Næsgaard Efterskole,2,0,0,,7,2,1,2,3,0,,2,0,7,17,26,Guldborgsund Kommune,4850,Region Sjælland
+2015,Nørbæk Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Randers Kommune,8990,Region Midtjylland
+2015,Nørre Aaby Realskole,5,9,4,,5,5,2,1,32,0,,0,0,6,63,69,Middelfart Kommune,5580,Region Syddanmark
+2015,Nørre Aaby Skole,4,5,4,,2,1,1,2,24,2,,0,0,0,45,45,Middelfart Kommune,5580,Region Syddanmark
+2015,Nørre-Snede Skole,7,0,11,,3,0,0,3,1,0,,0,0,0,25,25,Ikast-Brande Kommune,8766,Region Midtjylland
+2015,Nørreskov-Skolen,9,7,6,,8,17,1,21,14,3,,8,2,9,86,105,Sønderborg Kommune,6430,Region Syddanmark
+2015,Nørrevangsskolen,10,4,0,,11,2,0,4,17,34,,4,0,34,82,120,Randers Kommune,8930,Region Midtjylland
+2015,Nøvlingskov Efterskole,1,5,5,,1,17,0,0,10,0,,0,0,5,39,44,Herning Kommune,7480,Region Midtjylland
+2015,Odder Lille Friskole,10,1,0,,0,1,0,4,2,3,,0,1,4,21,26,Odder Kommune,8300,Region Midtjylland
+2015,Odense Friskole,18,13,13,,6,12,1,3,19,8,,4,2,11,93,110,Odense Kommune,5000,Region Syddanmark
+2015,"Ollerup Efterskole, Sang og Musik",2,2,1,,2,3,0,0,2,11,,0,0,3,23,26,Svendborg Kommune,5762,Region Syddanmark
+2015,Ollerup Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Svendborg Kommune,5762,Region Syddanmark
+2015,Ordrup Skole,24,13,12,,14,8,0,8,50,3,,4,1,19,132,156,Gentofte Kommune,2920,Region Hovedstaden
+2015,Osted Fri og Efterskole,2,6,1,,0,0,1,2,0,11,,1,0,18,23,42,Lejre Kommune,4320,Region Sjælland
+2015,Osted Fri- og Efterskole,1,5,7,,5,1,1,1,17,8,,0,0,4,46,50,Lejre Kommune,4320,Region Sjælland
+2015,Osted Skole,5,3,3,,1,9,1,3,12,1,,3,0,4,38,45,Lejre Kommune,4320,Region Sjælland
+2015,Otterup Realskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Nordfyns Kommune,5450,Region Syddanmark
+2015,Overlund Skole,7,7,2,,1,14,1,10,27,3,,2,1,7,72,82,Viborg Kommune,8800,Region Midtjylland
+2015,Paarup Skole,11,1,18,,3,0,0,0,8,0,,0,0,5,41,46,Odense Kommune,5210,Region Syddanmark
+2015,"Paradisbakkeskolen, Nexø afd.",20,2,5,,8,8,0,9,26,0,,3,0,26,78,107,Bornholms Regionskommune,3730,Region Hovedstaden
+2015,Parkskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Kolding Kommune,6000,Region Syddanmark
+2015,Parkskolen,14,9,9,,2,4,0,3,20,0,,0,6,8,61,75,Struer Kommune,7600,Region Midtjylland
+2015,Petersmindeskolen,5,10,1,,6,1,1,7,14,22,,5,1,10,67,83,Vejle Kommune,7100,Region Syddanmark
+2015,Phønix Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hedensted Kommune,7130,Region Midtjylland
+2015,Pilegårdsskolen,7,5,8,,5,23,0,2,18,2,,3,0,127,70,200,Tårnby Kommune,2770,Region Hovedstaden
+2015,Privatskolen I Frederikshavn,5,2,0,,4,4,1,9,48,0,,1,0,6,73,80,Frederikshavn Kommune,9900,Region Nordjylland
+2015,Præstemarkskolen,26,6,5,,5,18,2,9,45,1,,1,1,14,117,133,Favrskov Kommune,8382,Region Midtjylland
+2015,Præstemoseskolen,20,5,5,,6,3,3,10,10,3,,1,1,7,65,74,Hvidovre Kommune,2650,Region Hovedstaden
+2015,Præstø skole,20,3,6,,3,5,0,5,13,2,,1,0,14,57,72,Vordingborg Kommune,4720,Region Sjælland
+2015,Randers Lille Skole,13,1,0,,3,2,0,0,7,1,,0,2,8,27,37,Randers Kommune,8900,Region Midtjylland
+2015,Randers Realskole,9,1,6,,1,12,2,2,61,3,,0,0,4,97,101,Randers Kommune,8900,Region Midtjylland
+2015,Randersgades Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2100,Region Hovedstaden
+2015,Ranum Skole,2,1,4,,5,1,1,2,8,0,,9,1,0,24,34,Vesthimmerlands Kommune,9681,Region Nordjylland
+2015,Rasmus Rask-Skolen,2,6,7,,1,19,1,9,9,0,,4,2,11,54,71,Odense Kommune,5250,Region Syddanmark
+2015,Rathlouskolen,15,8,4,,5,7,0,1,24,10,,0,0,16,74,90,Odder Kommune,8300,Region Midtjylland
+2015,Ravnshøj Skole,4,2,2,,1,0,0,5,17,0,,0,5,0,31,36,Frederikshavn Kommune,9900,Region Nordjylland
+2015,Riberhus Privatskole,2,4,14,,3,20,3,6,14,1,,0,0,6,67,73,Esbjerg Kommune,6760,Region Syddanmark
+2015,Ringe Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Faaborg-Midtfyn Kommune,5750,Region Syddanmark
+2015,Ringkøbing Skole,40,6,13,,11,14,3,13,79,8,,5,7,33,187,232,Ringkøbing-Skjern Kommune,6950,Region Midtjylland
+2015,Risskov Efterskole & Sansestormerne,15,6,0,,9,6,2,17,11,2,,3,0,17,68,88,Aarhus Kommune,8240,Region Midtjylland
+2015,Rolf Krake Skolen,7,8,10,,3,7,0,7,11,1,,0,0,10,54,64,Holstebro Kommune,7500,Region Midtjylland
+2015,Rosengårdskolen,13,10,2,,3,9,0,2,5,20,,2,0,15,64,81,Odense Kommune,5230,Region Syddanmark
+2015,Roskilde Private Skole,2,4,1,,1,2,0,2,5,0,,1,0,0,17,18,Roskilde Kommune,4000,Region Sjælland
+2015,Roslev Skole,9,3,31,,3,18,0,6,32,8,,6,2,20,110,138,Skive Kommune,7870,Region Midtjylland
+2015,Rosmus Skole,4,3,21,,0,0,0,4,5,2,,0,0,16,39,55,Syddjurs Kommune,8444,Region Midtjylland
+2015,Rudolf Steiner-Skolen i Århus,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8000,Region Midtjylland
+2015,Rundhøjskolen,14,17,3,,3,7,1,2,30,3,,1,0,44,80,125,Aarhus Kommune,8270,Region Midtjylland
+2015,Rungsted private Realskole,11,9,14,,3,10,0,2,42,1,,0,0,19,92,111,Hørsholm Kommune,2960,Region Hovedstaden
+2015,Ryomgaard Realskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Syddjurs Kommune,8550,Region Midtjylland
+2015,Ryslinge Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Faaborg-Midtfyn Kommune,5856,Region Syddanmark
+2015,Rønbækskolen,25,10,10,,10,17,0,2,24,3,,3,2,16,101,122,Favrskov Kommune,8382,Region Midtjylland
+2015,Rønde Skole,29,1,6,,6,10,1,6,17,5,,7,2,20,81,110,Syddjurs Kommune,8410,Region Midtjylland
+2015,"Rønneskolen, afdeling Åvang",7,20,4,,10,5,2,7,15,5,,0,1,24,75,100,Bornholms Regionskommune,3700,Region Hovedstaden
+2015,"Rønneskolen, afdeling Søndermark",3,21,2,,7,4,0,7,20,2,,0,2,12,66,80,Bornholms Regionskommune,3700,Region Hovedstaden
+2015,"Rønneskolen, afdeling Østre",24,1,3,,6,13,0,1,17,5,,0,4,17,70,91,Bornholms Regionskommune,3700,Region Hovedstaden
+2015,Rørkjærskolen,25,6,3,,10,7,0,13,29,8,,0,2,0,101,103,Esbjerg Kommune,6700,Region Syddanmark
+2015,Rørvig Friskole,7,2,0,,6,1,0,2,6,4,,3,1,4,28,36,Odsherred Kommune,4581,Region Sjælland
+2015,Sabro-Korsvejskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8471,Region Midtjylland
+2015,Samsø Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Samsø Kommune,8305,Region Hovedstaden
+2015,Samsøgades Skole,18,4,4,,1,3,1,4,5,22,,1,2,26,62,91,Aarhus Kommune,8000,Region Midtjylland
+2015,Sanderumskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Odense Kommune,5250,Region Syddanmark
+2015,Sankt Annæ Gymnasiums Grundskole,25,15,2,,34,2,0,11,4,16,,9,2,40,109,160,Københavns Kommune,2500,Region Hovedstaden
+2015,Sankt Annæ Skole,7,16,7,,10,9,0,3,48,6,,1,1,8,106,116,Københavns Kommune,2300,Region Hovedstaden
+2015,Sankt Ansgars Skole,18,11,0,,1,2,0,1,2,11,,1,0,5,46,52,Københavns Kommune,2200,Region Hovedstaden
+2015,Sankt Helene Skole,1,1,2,,0,8,0,4,35,2,,1,0,10,53,64,Gribskov Kommune,3210,Region Hovedstaden
+2015,Sct Hans Skole,34,26,1,,14,6,1,3,34,7,,2,5,16,126,149,Odense Kommune,5000,Region Syddanmark
+2015,Sct Ibs Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Horsens Kommune,8700,Region Midtjylland
+2015,Sct Joseph Skole,2,4,1,,4,9,0,7,11,1,,1,0,0,39,40,Ringsted Kommune,4100,Region Sjælland
+2015,Sct. Albani Skole,8,8,5,,0,3,0,4,4,3,,1,0,14,35,50,Odense Kommune,5000,Region Syddanmark
+2015,Sct. Jacobi Skole,8,3,10,,4,56,0,9,27,5,,5,2,23,122,152,Varde Kommune,6800,Region Syddanmark
+2015,Sct. Joseph Søstrenes Skole,15,4,6,,3,3,1,16,16,0,,0,0,13,64,77,Guldborgsund Kommune,4800,Region Sjælland
+2015,Sct. Jørgens Skole,18,22,2,,5,7,2,11,22,11,,1,0,26,100,127,Roskilde Kommune,4000,Region Sjælland
+2015,Sct. Jørgens Skole,34,10,6,,7,4,2,5,31,12,,4,1,4,111,120,Holstebro Kommune,7500,Region Midtjylland
+2015,Sct. Knuds Skole,5,2,3,,5,6,1,6,13,2,,0,3,0,43,46,Fredericia Kommune,7000,Region Syddanmark
+2015,Sct. Mariæ Skole,9,4,3,,1,6,0,5,6,7,,0,1,8,41,50,Aalborg Kommune,9000,Region Nordjylland
+2015,Sct. Nicolai Skole,8,19,3,,21,16,0,8,16,1,,0,3,7,92,102,Køge Kommune,4600,Region Sjælland
+2015,Sct. Norberts Skole,7,5,3,,3,11,1,2,14,1,,0,0,3,47,50,Vejle Kommune,7100,Region Syddanmark
+2015,Sdr. Nærå Friskole og Midtfyns Efterskole,6,2,1,,1,2,0,0,1,0,,0,0,7,13,20,Faaborg-Midtfyn Kommune,5792,Region Syddanmark
+2015,Sdr. Vium Friskole,1,1,0,,0,0,0,1,13,0,,1,1,0,16,18,Ringkøbing-Skjern Kommune,6893,Region Midtjylland
+2015,Sdr.Bjert Centralskole,2,2,2,,0,5,0,1,18,0,,1,0,0,30,31,Kolding Kommune,6091,Region Syddanmark
+2015,Sejs Skole,15,15,5,,12,18,2,5,23,7,,6,8,19,102,135,Silkeborg Kommune,8600,Region Midtjylland
+2015,Sindal undervisningssted,6,15,13,,14,11,2,9,19,2,,2,0,0,91,93,Hjørring Kommune,9870,Region Nordjylland
+2015,Sjølundsskolen,42,25,23,,26,76,0,29,60,15,,1,0,1,296,298,Næstved Kommune,4700,Region Sjælland
+2015,Skåde Skole,10,25,29,,3,6,0,3,21,7,,2,4,13,104,123,Aarhus Kommune,8270,Region Midtjylland
+2015,Skads Skole,4,1,8,,7,3,0,10,11,2,,5,1,48,46,100,Esbjerg Kommune,6705,Region Syddanmark
+2015,Skagen Skole,19,1,13,,5,7,1,16,20,4,,3,0,23,86,112,Frederikshavn Kommune,9990,Region Nordjylland
+2015,Skals Skole,17,5,1,,6,4,2,8,18,1,,3,0,7,62,72,Viborg Kommune,8832,Region Midtjylland
+2015,Skanderup Efterskole,2,3,3,,3,5,0,0,12,5,,1,0,6,33,40,Kolding Kommune,6640,Region Syddanmark
+2015,Skårup Skole,16,10,1,,6,4,0,7,7,3,,1,2,9,54,66,Svendborg Kommune,5881,Region Syddanmark
+2015,Skivehus Skole,16,4,17,,5,2,0,7,33,8,,4,3,5,92,104,Skive Kommune,7800,Region Midtjylland
+2015,Skjern Kristne Friskole,10,3,4,,1,8,13,0,19,0,,2,1,7,58,68,Ringkøbing-Skjern Kommune,6900,Region Midtjylland
+2015,Skjoldhøjskolen,15,0,4,,4,4,0,6,9,5,,10,1,6,47,64,Aarhus Kommune,8381,Region Midtjylland
+2015,"Skole Nord, afdeling Kongeskær",9,1,3,,7,2,2,9,17,18,,4,1,22,68,95,Bornholms Regionskommune,3770,Region Hovedstaden
+2015,Skolecenter Jetsmark,19,4,4,,6,12,0,15,34,2,,0,0,22,96,118,Jammerbugt Kommune,9490,Region Nordjylland
+2015,Skolegades Skole,5,8,7,,4,4,2,8,10,0,,0,0,12,48,60,Brønderslev Kommune,9700,Region Nordjylland
+2015,Skolen I Charlottegården,0,3,1,,2,4,0,4,1,4,,0,1,10,19,30,Københavns Kommune,2400,Region Hovedstaden
+2015,Skolen i Midten,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hedensted Kommune,8783,Region Midtjylland
+2015,Skolen På Nyelandsvej,31,5,2,,21,7,1,3,16,3,,0,2,29,89,120,Frederiksberg Kommune,2000,Region Hovedstaden
+2015,Skolen på Sønderager,3,7,16,,3,4,3,10,57,2,,3,0,29,105,137,Herning Kommune,7400,Region Midtjylland
+2015,Skolen Ved Sundet,32,16,10,,12,10,0,9,26,3,,4,7,31,118,160,Københavns Kommune,2300,Region Hovedstaden
+2015,"Skolen ved Tuse Næs, afdeling Tuse",19,7,13,,7,16,0,7,34,6,,6,4,32,109,151,Holbæk Kommune,4300,Region Sjælland
+2015,Skottegårdsskolen,7,7,4,,6,14,0,16,11,9,,1,1,15,74,91,Tårnby Kommune,2770,Region Hovedstaden
+2015,Skovboskolen,23,0,7,,3,6,0,6,49,1,,0,11,14,95,120,Køge Kommune,4632,Region Sjælland
+2015,Skovbyskolen,54,4,2,,1,7,0,5,16,5,,3,1,12,94,110,Skanderborg Kommune,8464,Region Midtjylland
+2015,Skovgårdsskolen,21,16,11,,11,8,1,6,41,0,,0,0,65,115,180,Gentofte Kommune,2920,Region Hovedstaden
+2015,Skovlund Friskole,0,0,0,,1,1,0,0,7,0,,1,0,9,9,19,Varde Kommune,6823,Region Syddanmark
+2015,Skovsgård Tranum skole,3,7,1,,7,0,0,7,33,0,,1,1,15,58,75,Jammerbugt Kommune,9460,Region Nordjylland
+2015,Skovshoved Skole,3,11,26,,1,12,1,11,13,1,,1,0,20,79,100,Gentofte Kommune,2920,Region Hovedstaden
+2015,Skovvangskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8200,Region Midtjylland
+2015,Skovvangskolen,18,22,7,,5,6,0,4,7,6,,6,3,36,75,120,Allerød Kommune,3450,Region Hovedstaden
+2015,Skovvangskolen,24,20,9,,4,7,0,10,23,7,,2,2,37,104,145,Favrskov Kommune,8450,Region Midtjylland
+2015,Skrødstrup Efterskole,1,1,1,,0,0,3,5,37,0,,1,0,17,48,66,Mariagerfjord Kommune,9550,Region Nordjylland
+2015,Skt Klemensskolen,9,7,1,,2,2,0,3,35,5,,0,1,20,64,85,Odense Kommune,5260,Region Syddanmark
+2015,Skt. Knud Lavard Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
+2015,Skt. Pauls Skole,3,9,2,,5,1,0,1,11,2,,3,2,9,34,48,Høje-Taastrup Kommune,2630,Region Hovedstaden
+2015,Skærbæk Realskole,1,2,5,,1,12,0,1,21,1,,2,0,0,44,46,Tønder Kommune,6780,Region Syddanmark
+2015,Skødstrup Skole,17,12,40,,18,14,0,3,20,4,,1,1,20,128,150,Aarhus Kommune,8541,Region Midtjylland
+2015,Skørbæk-Ejdrup Friskole,3,3,0,,4,4,0,2,13,3,,0,0,3,32,35,Aalborg Kommune,9240,Region Nordjylland
+2015,Skørping Skole,28,12,3,,29,6,0,12,17,6,,1,0,20,113,134,Rebild Kommune,9520,Region Nordjylland
+2015,Sletten Skole,24,7,4,,2,8,0,9,49,7,,4,0,9,110,123,Nordfyns Kommune,5450,Region Syddanmark
+2015,Smidstrup-Skærup Skole,5,3,1,,4,5,0,1,17,1,,3,0,10,37,50,Vejle Kommune,7000,Region Syddanmark
+2015,Snedsted Skole,15,10,12,,6,3,2,16,35,4,,1,1,15,103,120,Thisted Kommune,7752,Region Nordjylland
+2015,Snejbjerg Skole,2,1,1,,1,11,1,1,3,1,,6,0,12,22,40,Herning Kommune,7400,Region Midtjylland
+2015,"Sofielundskolen, afdeling Bjergmarken",31,22,24,,14,10,0,9,27,16,,0,3,37,153,193,Holbæk Kommune,4300,Region Sjælland
+2015,Sofiendalskolen,4,5,8,,2,10,1,1,39,5,,0,1,0,75,76,Aalborg Kommune,9200,Region Nordjylland
+2015,Sofieskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Gladsaxe Kommune,2880,Region Hovedstaden
+2015,Solbakkeskolen,52,0,0,,4,5,0,20,25,3,,17,0,0,109,126,Frederikssund Kommune,3630,Region Hovedstaden
+2015,Solsideskolen,2,1,6,,3,1,0,0,18,0,,2,0,7,31,40,Aalborg Kommune,9400,Region Nordjylland
+2015,Solvangskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Furesø Kommune,3520,Region Hovedstaden
+2015,Sorø Borgerskole,2,16,11,,12,30,0,5,6,2,,4,0,32,84,120,Sorø Kommune,4180,Region Sjælland
+2015,Sorø Gymnastikefterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Sorø Kommune,4180,Region Sjælland
+2015,Sorø Privatskole,9,15,12,,6,22,1,16,37,4,,2,1,19,122,144,Sorø Kommune,4180,Region Sjælland
+2015,Spangsbjergskolen,4,1,0,,9,6,0,4,26,4,,2,1,13,54,70,Esbjerg Kommune,6700,Region Syddanmark
+2015,Spjald Skole,2,0,0,,0,8,0,3,24,1,,0,1,9,38,48,Ringkøbing-Skjern Kommune,6971,Region Midtjylland
+2015,Spjellerup Friskole,4,0,3,,0,4,1,5,6,0,,3,0,4,23,30,Faxe Kommune,4640,Region Sjælland
+2015,Sportsefterskolen SINE,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Tønder Kommune,6240,Region Syddanmark
+2015,Staby Efterskole,8,5,6,,6,6,4,8,46,4,,1,0,2,93,96,Holstebro Kommune,6990,Region Midtjylland
+2015,Stavnsholtskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Furesø Kommune,3520,Region Hovedstaden
+2015,Stengård Skole,6,4,1,,5,2,0,2,11,4,,3,1,4,35,43,Gladsaxe Kommune,2800,Region Hovedstaden
+2015,Stengårdsskolen,25,3,6,,2,3,0,5,16,1,,6,2,7,61,76,Egedal Kommune,3650,Region Hovedstaden
+2015,Stenhus Kostskole,10,11,4,,3,17,0,9,36,6,,3,2,19,96,120,Holbæk Kommune,4300,Region Sjælland
+2015,Stenlille Skole,11,6,1,,3,22,1,3,18,8,,0,0,8,73,81,Sorø Kommune,4295,Region Sjælland
+2015,Stenløse Privatskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Egedal Kommune,3660,Region Hovedstaden
+2015,Stensnæsskolen,1,1,1,,2,0,0,6,13,0,,0,5,5,24,34,Frederikshavn Kommune,9300,Region Nordjylland
+2015,Stilling Skole,37,3,13,,10,15,3,10,32,1,,1,0,14,124,139,Skanderborg Kommune,8660,Region Midtjylland
+2015,Stillinge Skole,4,3,2,,5,3,0,2,16,1,,3,0,4,36,43,Slagelse Kommune,4200,Region Sjælland
+2015,Stjernevejskolen,14,7,3,,2,11,1,3,41,6,,1,0,26,88,115,Hedensted Kommune,8722,Region Midtjylland
+2015,Stoholm Skole,2,1,8,,1,6,0,4,17,1,,1,0,4,40,45,Viborg Kommune,7850,Region Midtjylland
+2015,Store Heddinge Skole,17,1,18,,8,9,1,19,21,2,,5,0,10,96,111,Stevns Kommune,4660,Region Sjælland
+2015,Strandby Skole,4,14,9,,2,1,0,8,21,0,,3,1,7,59,70,Frederikshavn Kommune,9970,Region Nordjylland
+2015,Strandgårdskolen,34,1,7,,4,4,0,3,2,4,,3,1,7,59,70,Ishøj Kommune,2635,Region Hovedstaden
+2015,Strandmølleskolen,20,2,12,,2,0,0,1,9,0,,1,0,5,46,52,Assens Kommune,5610,Region Syddanmark
+2015,Strandskolen,24,9,3,,6,23,1,18,33,0,,0,0,13,117,130,Greve Kommune,2690,Region Sjælland
+2015,Stubbekøbing Skole,4,2,2,,5,4,1,11,12,0,,1,0,11,41,53,Guldborgsund Kommune,4850,Region Sjælland
+2015,Stubbæk Skole,3,2,0,,1,1,0,5,30,4,,1,0,23,46,70,Aabenraa Kommune,6200,Region Syddanmark
+2015,Studsgård Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Herning Kommune,7400,Region Midtjylland
+2015,Suldrup Skole,2,4,1,,2,3,0,12,13,0,,0,0,9,37,46,Rebild Kommune,9541,Region Nordjylland
+2015,Sulsted Skole,11,13,11,,4,7,0,11,11,0,,3,0,19,68,90,Aalborg Kommune,9381,Region Nordjylland
+2015,Sundskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Guldborgsund Kommune,4800,Region Sjælland
+2015,"Svend Gønge-Skolen, Lundby",0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Vordingborg Kommune,4750,Region Sjælland
+2015,Svenstrup Skole,6,2,6,,3,3,0,7,39,4,,0,3,27,70,100,Aalborg Kommune,9230,Region Nordjylland
+2015,Svindinge Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Nyborg Kommune,5853,Region Syddanmark
+2015,Sydbornholms Privatskole,8,1,0,,0,0,1,0,6,2,,0,0,6,18,24,Bornholms Regionskommune,3720,Region Hovedstaden
+2015,Sydvestmors Friskole,0,2,0,,1,0,0,0,5,0,,0,0,4,8,12,Morsø Kommune,7960,Region Nordjylland
+2015,Syvstjerneskolen,15,26,26,,3,2,0,2,11,2,,5,0,21,87,113,Furesø Kommune,3500,Region Hovedstaden
+2015,Sæby Skole,3,5,9,,3,9,1,2,27,7,,1,0,12,66,79,Frederikshavn Kommune,9300,Region Nordjylland
+2015,Sæbygårdskolen,7,7,1,,3,7,3,11,39,3,,5,2,32,81,120,Frederikshavn Kommune,9300,Region Nordjylland
+2015,Søhusskolen,9,3,4,,3,8,0,4,12,9,,0,0,88,52,140,Odense Kommune,5270,Region Syddanmark
+2015,Sølystskolen,20,12,11,,9,10,0,2,25,0,,2,0,20,89,111,Aarhus Kommune,8250,Region Midtjylland
+2015,Sønder Otting Skole,40,17,25,,22,38,4,37,59,26,,14,7,76,268,365,Haderslev Kommune,6100,Region Syddanmark
+2015,Sønderbro Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2300,Region Hovedstaden
+2015,Søndergades Skole,3,8,9,,16,19,0,13,19,4,,0,5,13,91,109,Brønderslev Kommune,9700,Region Nordjylland
+2015,Sønderlandsskolen,35,11,16,,3,0,0,17,31,5,,2,0,30,118,150,Holstebro Kommune,7500,Region Midtjylland
+2015,Søndermarkskolen,3,8,1,,3,3,0,10,38,1,,3,3,7,67,80,Randers Kommune,8940,Region Midtjylland
+2015,Søndermarksskolen,4,7,1,,2,2,0,7,11,2,,1,0,7,36,44,Vejle Kommune,7100,Region Syddanmark
+2015,Sønderrisskolen,15,3,4,,1,15,5,17,21,9,,10,0,8,90,108,Esbjerg Kommune,6710,Region Syddanmark
+2015,Sønderskov-Skolen,10,2,1,,4,21,0,1,15,0,,0,0,3,54,57,Sønderborg Kommune,6400,Region Syddanmark
+2015,Søndervangskolen,17,0,3,,4,2,0,3,2,18,,1,3,16,49,69,Aarhus Kommune,8260,Region Midtjylland
+2015,Søndervangskolen,9,6,0,,11,6,2,20,8,13,,19,18,20,75,132,Favrskov Kommune,8450,Region Midtjylland
+2015,Søndre Skole,20,18,7,,7,14,0,17,23,11,,3,2,15,117,137,Viborg Kommune,8800,Region Midtjylland
+2015,Søndre Skole,11,9,25,,2,11,0,1,9,1,,2,0,24,69,95,Køge Kommune,4600,Region Sjælland
+2015,"Søndre Skole, Holeby",0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Lolland Kommune,4960,Region Sjælland
+2015,"Søndre Skole, Rødbyafdelingen",0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Lolland Kommune,4970,Region Sjælland
+2015,Taastrup Realskole,14,9,15,,17,21,0,7,38,4,,0,7,9,125,141,Høje-Taastrup Kommune,2630,Region Hovedstaden
+2015,Tallerupskolen,14,9,2,,13,1,0,6,19,1,,0,0,6,65,71,Assens Kommune,5690,Region Syddanmark
+2015,Tangsø skole,0,0,2,,0,0,0,0,7,0,,0,0,6,9,15,Lemvig Kommune,7660,Region Midtjylland
+2015,Taps Skole,2,0,1,,2,4,0,2,0,2,,1,0,10,13,24,Kolding Kommune,6070,Region Syddanmark
+2015,Tarm Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Ringkøbing-Skjern Kommune,6880,Region Midtjylland
+2015,Tåsingeskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Svendborg Kommune,5700,Region Syddanmark
+2015,Thise Friskole,2,2,9,,0,3,0,1,7,0,,0,0,1,24,25,Skive Kommune,7870,Region Midtjylland
+2015,Thisted Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Thisted Kommune,7700,Region Nordjylland
+2015,Thomasskolen,12,2,6,,3,6,3,0,6,3,,0,0,1,41,42,Ballerup Kommune,2740,Region Hovedstaden
+2015,Thyborøn Skole,9,2,3,,1,0,0,8,13,0,,1,1,4,36,42,Lemvig Kommune,7680,Region Midtjylland
+2015,Tilst Skole,5,1,3,,5,31,0,3,15,2,,0,1,109,65,175,Aarhus Kommune,8381,Region Midtjylland
+2015,Tinderhøj Skole,15,0,6,,11,0,0,12,10,1,,3,0,32,55,90,Rødovre Kommune,2610,Region Hovedstaden
+2015,Tingbjerg Heldagsskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2700,Region Hovedstaden
+2015,Tingkærskolen,9,5,5,,5,8,0,1,17,1,,4,0,18,51,73,Odense Kommune,5220,Region Syddanmark
+2015,Tinglev Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aabenraa Kommune,6360,Region Syddanmark
+2015,Tingløkkeskolen,26,11,9,,23,5,0,1,30,0,,3,1,11,105,120,Odense Kommune,5250,Region Syddanmark
+2015,Tistrup Skole,3,5,9,,1,1,0,2,35,0,,4,0,0,56,60,Varde Kommune,6862,Region Syddanmark
+2015,Tjæreborg Skole,5,6,34,,8,13,2,6,11,7,,0,1,8,92,101,Esbjerg Kommune,6731,Region Syddanmark
+2015,Tjørnegårdskolen,1,9,0,,1,1,0,6,10,3,,0,0,11,31,42,Roskilde Kommune,4000,Region Sjælland
+2015,Tjørnegårdsskolen,28,7,13,,1,7,0,10,16,2,,0,1,25,84,110,Gentofte Kommune,2820,Region Hovedstaden
+2015,Toftegårdsskolen,21,3,4,,4,4,0,14,8,2,,1,0,14,60,75,Brønderslev Kommune,9740,Region Nordjylland
+2015,Tofthøjskolen,16,5,1,,10,3,0,14,16,3,,0,1,15,68,84,Aalborg Kommune,9280,Region Nordjylland
+2015,Toftlund Skole,2,0,4,,0,18,0,2,7,1,,1,0,5,34,40,Tønder Kommune,6520,Region Syddanmark
+2015,Tolstrup-Stenum Friskole,0,0,1,,1,1,1,5,11,0,,0,0,2,20,22,Brønderslev Kommune,9700,Region Nordjylland
+2015,Tommerup Skole,12,8,1,,0,4,0,4,15,1,,0,0,15,45,60,Assens Kommune,5690,Region Syddanmark
+2015,Tornhøjskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aalborg Kommune,9220,Region Nordjylland
+2015,Torslev Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Frederikshavn Kommune,9750,Region Nordjylland
+2015,Torstedskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Horsens Kommune,8700,Region Midtjylland
+2015,Torstorp Skole,21,11,8,,3,5,0,19,12,8,,9,4,0,87,100,Høje-Taastrup Kommune,2630,Region Hovedstaden
+2015,Tovshøjskolen,28,4,1,,4,0,1,4,4,10,,3,0,7,56,66,Aarhus Kommune,8220,Region Midtjylland
+2015,Tranegårdskolen,4,7,13,,0,10,0,7,3,5,,3,0,18,49,70,Gentofte Kommune,2900,Region Hovedstaden
+2015,Tre Falke Skolen,6,9,28,,7,5,0,0,8,21,,1,0,21,84,106,Frederiksberg Kommune,2000,Region Hovedstaden
+2015,Trekronergade Freinetskole,6,3,0,,6,6,0,0,0,19,,0,0,0,40,40,Københavns Kommune,2500,Region Hovedstaden
+2015,Trekronerskolen,23,24,32,,7,9,0,2,5,7,,0,1,28,109,138,Roskilde Kommune,4000,Region Sjælland
+2015,Trongårdsskolen,17,25,2,,4,12,0,5,21,4,,1,10,10,90,111,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
+2015,Trællerupskolen,1,8,2,,3,15,0,1,6,2,,1,1,5,38,45,Lejre Kommune,4000,Region Sjælland
+2015,Trørødskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Rudersdal Kommune,2950,Region Hovedstaden
+2015,Tungelundskolen,5,3,3,,1,18,0,18,27,1,,2,1,1,76,80,Favrskov Kommune,8881,Region Midtjylland
+2015,Tvis Skole,8,5,77,,5,13,1,6,9,1,,2,1,18,125,146,Holstebro Kommune,7500,Region Midtjylland
+2015,Tybjerg Privatskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Næstved Kommune,4160,Region Sjælland
+2015,"Tølløse Privat- og Efterskole, Baptisternes Skoler",11,7,6,,14,4,3,23,17,11,,35,1,28,96,160,Holbæk Kommune,4340,Region Sjælland
+2015,Tømmerup Fri- og Efterskole,3,7,0,,7,0,0,6,11,2,,3,0,4,36,43,Kalundborg Kommune,4400,Region Sjælland
+2015,Tømmerup Fri- og Efterskole,1,4,2,,1,5,0,1,3,3,,1,0,6,20,27,Kalundborg Kommune,4400,Region Sjælland
+2015,Tønder Overbygningsskole,22,46,35,,29,44,7,42,79,14,,5,5,34,318,362,Tønder Kommune,6270,Region Syddanmark
+2015,Tørring Skole,6,2,10,,3,3,0,10,11,5,,1,0,9,50,60,Hedensted Kommune,7160,Region Midtjylland
+2015,Uglegårdsskolen - Uglegård afdeling,4,15,54,,2,16,1,14,75,3,,4,4,34,184,226,Solrød Kommune,2680,Region Sjælland
+2015,Ulstrup Skole,8,12,5,,8,8,0,8,21,5,,5,0,5,75,85,Favrskov Kommune,8860,Region Midtjylland
+2015,UngVest - en af ungdomsskolerne i Odense,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Odense Kommune,5200,Region Syddanmark
+2015,Vadgård Skole,14,10,5,,6,4,0,6,37,2,,2,0,14,84,100,Gladsaxe Kommune,2860,Region Hovedstaden
+2015,Vadum Skole,8,2,1,,2,1,0,4,21,5,,0,0,22,44,66,Aalborg Kommune,9430,Region Nordjylland
+2015,Vallekilde-Hørve Friskole,1,1,4,,2,11,0,1,9,4,,1,0,7,33,41,Odsherred Kommune,4534,Region Sjælland
+2015,Vallerødskolen,6,5,20,,2,4,0,3,33,4,,1,0,11,77,89,Hørsholm Kommune,2960,Region Hovedstaden
+2015,Vamdrup Skole,4,4,6,,4,16,0,7,15,2,,3,1,3,58,65,Kolding Kommune,6580,Region Syddanmark
+2015,Vandel Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Vejle Kommune,7184,Region Syddanmark
+2015,Vanløse Skole,13,1,1,,7,4,1,0,3,2,,0,0,3,32,35,Københavns Kommune,2720,Region Hovedstaden
+2015,Vardeegnens Gymnasieforberedende Efterskole,2,5,1,,0,6,0,1,2,5,,2,0,31,22,55,Varde Kommune,6800,Region Syddanmark
+2015,Vedbæk Skole,1,16,1,,5,11,0,3,29,0,,1,0,24,66,91,Rudersdal Kommune,2950,Region Hovedstaden
+2015,Vedsted Friskole,3,0,0,,1,0,0,1,7,0,,0,0,0,12,12,Jammerbugt Kommune,9440,Region Nordjylland
+2015,Vejle Friskole,16,7,0,,2,4,0,1,4,2,,2,0,5,36,43,Vejle Kommune,7100,Region Syddanmark
+2015,Vejlebroskolen,39,0,0,,3,5,0,2,10,1,,0,0,14,60,74,Ishøj Kommune,2635,Region Hovedstaden
+2015,Velling Friskole,1,5,0,,0,1,0,2,5,0,,0,0,1,14,15,Ringkøbing-Skjern Kommune,6950,Region Midtjylland
+2015,Vemmelev Skole,12,3,21,,12,3,2,3,17,1,,8,0,3,74,85,Slagelse Kommune,4241,Region Sjælland
+2015,Vestbirk Musik- & Sportsefterskole,6,11,4,,2,6,0,3,9,3,,3,0,8,44,55,Horsens Kommune,8752,Region Midtjylland
+2015,Vestbjerg Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Aalborg Kommune,9380,Region Nordjylland
+2015,Vester Hassing Skole,8,5,7,,2,8,1,1,37,0,,2,0,6,69,77,Aalborg Kommune,9310,Region Nordjylland
+2015,Vester Hornum Skole,5,1,2,,1,4,0,3,13,0,,0,0,6,29,35,Vesthimmerlands Kommune,9640,Region Nordjylland
+2015,Vestermarkskolen,14,15,1,,1,2,0,8,15,1,,6,0,3,57,66,Svendborg Kommune,5762,Region Syddanmark
+2015,Vestre Skole,22,10,6,,6,13,0,15,10,4,,0,4,0,86,90,Viborg Kommune,8800,Region Midtjylland
+2015,Vestre Skole,13,17,12,,10,18,0,14,25,4,,1,2,15,113,131,Norddjurs Kommune,8500,Region Midtjylland
+2015,Vestre Skole,8,3,2,,0,2,2,2,13,1,,0,0,3,33,36,Middelfart Kommune,5500,Region Syddanmark
+2015,Vestre Skole,8,2,20,,24,3,0,2,14,9,,3,2,6,82,93,Silkeborg Kommune,8600,Region Midtjylland
+2015,Vestsalling Skole og Dagtilbud,5,5,7,,6,43,0,1,37,2,,4,3,8,106,121,Skive Kommune,7860,Region Midtjylland
+2015,"Vestskolen, Nordskov afdeling",17,8,23,,12,22,4,13,33,4,,3,3,44,136,186,Faxe Kommune,4690,Region Sjælland
+2015,Viborg Private Realskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Viborg Kommune,8800,Region Midtjylland
+2015,Viby Friskole,4,1,7,,7,1,0,0,14,3,,0,0,0,37,37,Roskilde Kommune,4130,Region Sjælland
+2015,Vigersted Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Ringsted Kommune,4100,Region Sjælland
+2015,Vildbjerg Skole,17,10,4,,8,8,0,12,32,3,,5,1,24,94,124,Herning Kommune,7480,Region Midtjylland
+2015,Vindblæs Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Mariagerfjord Kommune,8970,Region Nordjylland
+2015,Vinderup Realskole,6,5,14,,10,11,0,4,20,4,,0,0,8,74,82,Holstebro Kommune,7830,Region Midtjylland
+2015,Vinding Skole,8,2,4,,2,1,0,3,40,0,,3,2,6,60,71,Herning Kommune,7550,Region Midtjylland
+2015,Virring Skole,7,6,6,,2,3,1,2,40,1,,4,0,5,68,77,Skanderborg Kommune,8660,Region Midtjylland
+2015,Virum Skole,15,27,14,,9,22,2,10,42,11,,10,1,29,152,192,Lyngby-Taarbæk Kommune,2830,Region Hovedstaden
+2015,Vitaskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Esbjerg Kommune,6715,Region Syddanmark
+2015,Vittenbergskolen,5,1,10,,3,18,0,1,9,0,,0,0,73,47,120,Esbjerg Kommune,6760,Region Syddanmark
+2015,Vivild Gymnastik- & Idrætsefterskole,5,2,5,,1,7,0,4,5,2,,1,0,9,31,41,Norddjurs Kommune,8961,Region Midtjylland
+2015,Vokslev Friskole,2,5,1,,2,0,1,4,1,2,,0,0,1,18,19,Aalborg Kommune,9240,Region Nordjylland
+2015,Vonsild Skole,7,4,2,,5,2,0,2,55,0,,2,0,1,77,80,Kolding Kommune,6000,Region Syddanmark
+2015,Vor Frue Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
+2015,Vorbasse Skole,13,3,7,,4,2,0,11,20,6,,0,0,12,66,78,Billund Kommune,6623,Region Syddanmark
+2015,Vorup Skole,6,6,5,,3,2,0,7,47,6,,3,1,0,82,86,Randers Kommune,8940,Region Midtjylland
+2015,Vostrup Efterskole - Skole for Musik og Teater,3,3,1,,3,0,0,1,3,2,,0,0,1,16,17,Ringkøbing-Skjern Kommune,6880,Region Midtjylland
+2015,Vrå undervisningssted,15,12,3,,2,4,0,10,42,8,,0,0,14,96,110,Hjørring Kommune,9760,Region Nordjylland
+2015,Vrigsted Efterskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Hedensted Kommune,7140,Region Midtjylland
+2015,Øbro Fri Skole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2100,Region Hovedstaden
+2015,Ølgod Skole,3,1,16,,0,83,1,4,2,0,,0,6,19,110,135,Varde Kommune,6870,Region Syddanmark
+2015,Ørestad Friskole,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Københavns Kommune,2300,Region Hovedstaden
+2015,Ørstedskolen,9,17,17,,8,17,3,33,38,9,,3,8,30,151,192,Langeland Kommune,5900,Region Syddanmark
+2015,Ørum Skole,6,11,0,,28,6,2,10,14,4,,0,2,17,81,100,Norddjurs Kommune,8586,Region Midtjylland
+2015,Øse Efterskole,5,5,4,,2,6,0,4,2,7,,1,0,0,35,36,Varde Kommune,6800,Region Syddanmark
+2015,Østbirk Skole,8,6,9,,3,3,1,1,21,0,,0,0,18,52,70,Horsens Kommune,8752,Region Midtjylland
+2015,Øster Farimagsgades Skole,2,20,1,,54,7,0,2,4,4,,1,0,10,94,105,Københavns Kommune,2100,Region Hovedstaden
+2015,Øster Jølby Friskole,1,3,1,,0,1,0,1,6,1,,0,0,1,14,15,Morsø Kommune,7950,Region Nordjylland
+2015,Østerhøjskolen,11,12,20,,9,24,0,3,9,14,,1,2,12,102,117,Ballerup Kommune,2750,Region Hovedstaden
+2015,Østervangskolen,15,6,23,,7,1,0,6,14,4,,4,1,0,76,81,Favrskov Kommune,8370,Region Midtjylland
+2015,Østervangsskolen,16,3,7,,3,2,0,5,40,1,,1,2,0,77,80,Roskilde Kommune,4000,Region Sjælland
+2015,Østre Skole,44,9,7,,13,2,2,15,52,1,,7,0,28,145,180,Thisted Kommune,7700,Region Nordjylland
+2015,Østre Skole,2,5,12,,0,5,0,3,13,1,,0,0,97,41,138,Guldborgsund Kommune,4800,Region Sjælland
+2015,Østre Skole,22,7,15,,5,5,0,3,35,6,,1,1,12,98,112,Middelfart Kommune,5500,Region Syddanmark
+2015,Østskolen,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,Faxe Kommune,4640,Region Sjælland
+2015,"Østskolen, Hylleholt afdeling",9,5,6,,2,1,3,3,6,4,,1,0,8,39,48,Faxe Kommune,4654,Region Sjælland
+2015,"Østskolen, Rollo afdeling",13,0,0,,4,15,2,13,8,4,,2,3,21,59,85,Faxe Kommune,4640,Region Sjælland
 2017,10 i Campus,17,0,4,2,4,23,,35,14,4,1,5,0,41,104,150,Varde Kommune,6800,Region Syddanmark
 2017,10. klasse Aabenraa,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,Aabenraa Kommune,6200,Region Syddanmark
 2017,10. Klasse Center Skive,8,2,20,1,3,10,,5,2,2,1,1,0,15,54,70,Skive Kommune,7800,Region Midtjylland
