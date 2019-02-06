@@ -1,5 +1,9 @@
-Resultater af danske skolevalg 2017-2019 på skoleniveau
+Resultater af danske skolevalg 2015-2019 på skoleniveau
 ---
+
+### Hvad er skolevalg?
+
+Skolevalg er blevet afholdt i Danmark hvert andet år siden 2015 for 8., 9. og 10. klasseselever. Mere info på <a href="https://www.skolevalg.dk/">Skolevalg.dk</a>
 
 ### Beskrivelse af data
 
