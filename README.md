@@ -1,35 +1,35 @@
-Resultater af danske skolevalg 2015-2019 på skoleniveau
+Results of the Danish School General Elections 2015-2019
 ---
 
-### Hvad er skolevalg?
+### Description
 
-Skolevalg er blevet afholdt i Danmark hvert andet år siden 2015 for 8., 9. og 10. klasseselever. Mere info på <a href="https://www.skolevalg.dk/">Skolevalg.dk</a>
+Every two years since 2015 a mock general election has been held among 8th, 9th and 10th graders in Denmark. It is voluntary for the schools to participate in the elections. More info at <a href="https://www.skolevalg.dk/">Skolevalg.dk</a> (in Danish).
 
-### Beskrivelse af data
+### Repository content
 
-Filen `skolevalg.csv` indeholder følgende variable:
+The `skolevalg.csv` data file consists of the following variables:
 
-- `year` = Året for skolevalg
-- `skole` = Skole
-- `parti_s` = Antal stemmer på Socialdemokratiet
-- `parti_rv` = Antal stemmer på Det Radikale Venstre
-- `parti_kf` = Antal stemmer på Det Konservative Folkeparti
-- `parti_nb` = Antal stemmer på Nye Borgerlige
-- `parti_sf` = Antal stemmer på Socialistisk Folkeparti (SF)
-- `parti_la` = Antal stemmer på Liberal Alliance
-- `parti_kd` = Antal stemmer på Kristendemokraterne
-- `parti_df` = Antal stemmer på Dansk Folkeparti
-- `parti_v` = Antal stemmer på Venstre
-- `parti_el` = Antal stemmer på Enhedslisten
-- `parti_alt` = Antal stemmer på Alternativet
-- `blanke` = Antal blanke stemmer
-- `ugyldige` = Antal ugyldige stemmer
-- `ikke_stemt` = Antal ikke afgivne stemmer
-- `gyldige_stemmer` = Antal gyldige stemmer
-- `stemmeberettigede` = Antal stemmeberettigede (skoler med 0 stemmeberettigede deltog ikke i valget)
-- `kommune` = Kommune hvor skolen er lokaliseret
-- `postnummer` = Postnummer hvor skolen er lokaliseret
-- `region` = Region hvor skolen er lokaliseret
+- `year` = The year of the school election
+- `school` = School
+- `party_s` = Number of votes for the Social Democratic Party
+- `party_rv` = Number of votes for the Social Liberal Party
+- `party_kf` = Number of votes for the Convervative People's Party
+- `party_nb` = Number of votes for the New Right
+- `party_sf` = Number of votes for the Socialist People's Party
+- `party_la` = Number of votes for the Liberal Alliance
+- `party_kd` = Number of votes for the Christian Democrats
+- `party_df` = Number of votes for the Danish People's Party
+- `party_v` = Number of votes for the Liberal Party
+- `party_el` = Number of votes for the Red-Green Alliance
+- `party_alt` = Number of votes for the Alternative
+- `blank` = Number of blank votes
+- `invalid` = Number of invalid votes
+- `not_voted` = Number of students that have not voted
+- `valid` = Number of valid votes
+- `stemmeberettigede` = Electorate (schools with an electorate of 0 did not participate in the election)
+- `municipality` = Municipality where the school is located
+- `zip_code` = Zip code of the school
+- `region` = Region where the school is located
 
 The following command will load the data into R:
 
