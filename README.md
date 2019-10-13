@@ -30,3 +30,9 @@ Filen `skolevalg.csv` indeholder følgende variable:
 - `kommune` = Kommune hvor skolen er lokaliseret
 - `postnummer` = Postnummer hvor skolen er lokaliseret
 - `region` = Region hvor skolen er lokaliseret
+
+The following command will load the data into R:
+
+``` R
+read.csv(text=RCurl::getURL("https://github.com/Straubinger/skolevalg/edit/master/skolevalg.csv"))
+```
