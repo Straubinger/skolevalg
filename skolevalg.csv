@@ -1,4 +1,4 @@
-year,skole,parti_s,parti_rv,parti_kf,parti_nb,parti_sf,parti_la,parti_kd,parti_df,parti_v,parti__el,parti_alt,blanke,ugyldige,ikke_stemt,gyldige_stemmer,stemmeberettigede,kommune,postnummer,region
+year,school,party_s,party_rv,party_kf,party_nb,party_sf,party_la,party_kd,party_df,party_v,party__el,party_alt,blank,invalid,not_voted,valid,electorate,municipality,zip_code,region
 2015,Aabybro Efterskole,3,2,3,,4,3,0,1,25,2,,0,0,132,43,175,Jammerbugt Kommune,9440,Region Nordjylland
 2015,Aakjærskolen,8,2,17,,4,12,1,1,20,17,,1,0,27,82,110,Skive Kommune,7800,Region Midtjylland
 2015,Aalborg Friskole,9,3,0,,14,0,0,0,6,6,,2,0,8,38,48,Aalborg Kommune,9000,Region Nordjylland
