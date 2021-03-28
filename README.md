@@ -34,5 +34,5 @@ The `skolevalg.csv` data file consists of the following variables:
 The following command will load the data into R:
 
 ``` R
-read.csv(text=getURL("https://github.com/Straubinger/skolevalg/edit/master/skolevalg.csv"))
+read.csv(text=url("https://github.com/Straubinger/skolevalg/edit/master/skolevalg.csv"))
 ```
