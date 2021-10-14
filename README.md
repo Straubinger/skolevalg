@@ -1,4 +1,4 @@
-Results of the Danish School General Elections 2015-2019
+Results of the Danish School General Elections 2015-2021
 ---
 
 ### Description
@@ -16,6 +16,7 @@ The `skolevalg.csv` data file consists of the following variables:
 - `party_kf` = Number of votes for the Convervative People's Party
 - `party_nb` = Number of votes for the New Right
 - `party_sf` = Number of votes for the Socialist People's Party
+- `party_vegan` = Number of votes for the Vegan Party
 - `party_la` = Number of votes for the Liberal Alliance
 - `party_kd` = Number of votes for the Christian Democrats
 - `party_df` = Number of votes for the Danish People's Party
@@ -26,7 +27,7 @@ The `skolevalg.csv` data file consists of the following variables:
 - `invalid` = Number of invalid votes
 - `not_voted` = Number of students that have not voted
 - `valid` = Number of valid votes
-- `stemmeberettigede` = Electorate (schools with an electorate of 0 did not participate in the election)
+- `electorate` = Electorate (schools with an electorate of 0 did not participate in the election)
 - `municipality` = Municipality where the school is located
 - `zip_code` = Zip code of the school
 - `region` = Region where the school is located
