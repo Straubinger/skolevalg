@@ -9,7 +9,7 @@ Every two years since 2015 a mock general election has been held among 8th, 9th 
 
 The `skolevalg.csv` data file consists of the following variables:
 
-- `year` = The year of the school election
+- `date` = Date of the school election
 - `school` = School
 - `party_s` = Number of votes for the Social Democratic Party
 - `party_rv` = Number of votes for the Social Liberal Party
