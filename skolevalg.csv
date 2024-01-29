@@ -1,4 +1,4 @@
-date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,party_kd,party_df,party_v,party__el,party_alt,blank,invalid,not_voted,valid,electorate,municipality,zip_code,region
+date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,party_kd,party_df,party_v,party_el,party_alt,blank,invalid,not_voted,valid,electorate,municipality,zip_code,region
 2015-01-29,Aabybro Efterskole,3,2,3,,4,,3,0,1,25,2,,0,0,132,43,175,Jammerbugt Kommune,9440,Region Nordjylland
 2015-01-29,Aakjærskolen,8,2,17,,4,,12,1,1,20,17,,1,0,27,82,110,Skive Kommune,7800,Region Midtjylland
 2015-01-29,Aalborg Friskole,9,3,0,,14,,0,0,0,6,6,,2,0,8,38,48,Aalborg Kommune,9000,Region Nordjylland
@@ -55,7 +55,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Bakkelandets Friskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Horsens Kommune,8740,Region Midtjylland
 2015-01-29,Bakkeskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Esbjerg Kommune,6705,Region Syddanmark
 2015-01-29,Bakkevejens Skole,6,12,13,,19,,26,1,12,7,1,,2,0,21,97,120,Esbjerg Kommune,6740,Region Syddanmark
-2015-01-29,"Balle Friskole, Balle Musik- & Idrætsefterskole",12,18,14,,3,,1,0,2,3,0,,0,0,11,53,64,Vejle Kommune,7182,Region Syddanmark
+"2015-01-29,""Balle Friskole, Balle Musik- & Idrætsefterskole"",12,18,14,,3,,1,0,2,3,0,,0,0,11,53,64,Vejle Kommune,7182,Region Syddanmark"
 2015-01-29,Ballerup Ny Skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Ballerup Kommune,2750,Region Hovedstaden
 2015-01-29,Balleskolen,3,10,6,,2,,6,0,5,17,0,,0,0,7,49,56,Silkeborg Kommune,8600,Region Midtjylland
 2015-01-29,Balletskolen,8,5,2,,1,,0,0,3,9,1,,0,0,0,29,29,Holstebro Kommune,7500,Region Midtjylland
@@ -71,7 +71,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Bjergby Friskole,2,4,7,,2,,2,0,4,18,0,,0,0,6,39,45,Morsø Kommune,7950,Region Nordjylland
 2015-01-29,Bjergsnæs Efterskole,11,8,12,,2,,29,0,10,41,7,,7,3,26,120,156,Viborg Kommune,8800,Region Midtjylland
 2015-01-29,Bjerregrav Skole,3,4,4,,1,,0,0,3,2,0,,0,0,4,17,21,Randers Kommune,8920,Region Midtjylland
-2015-01-29,"Blåbjergskolen, Nr. Nebel afd.",4,3,4,,2,,1,4,14,44,2,,3,8,26,78,115,Varde Kommune,6830,Region Syddanmark
+"2015-01-29,""Blåbjergskolen, Nr. Nebel afd."",4,3,4,,2,,1,4,14,44,2,,3,8,26,78,115,Varde Kommune,6830,Region Syddanmark"
 2015-01-29,Blågård Skole,18,0,0,,0,,1,0,0,0,18,,1,0,20,37,58,Københavns Kommune,2200,Region Hovedstaden
 2015-01-29,Blåvandshuk Skole,8,4,2,,3,,25,1,11,38,1,,3,2,11,93,109,Varde Kommune,6840,Region Syddanmark
 2015-01-29,Blicherskolen,6,1,3,,9,,3,0,8,22,0,,1,1,9,52,63,Randers Kommune,8981,Region Midtjylland
@@ -87,7 +87,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Bramsnæsvigskolen,2,1,1,,4,,26,0,7,14,4,,3,2,14,59,78,Lejre Kommune,4070,Region Sjælland
 2015-01-29,Breum Skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Skive Kommune,7870,Region Midtjylland
 2015-01-29,Broager Skole,2,2,4,,2,,3,0,4,4,1,,0,3,3,22,28,Sønderborg Kommune,6310,Region Syddanmark
-2015-01-29,"Brovandeskolen, Den Lille Skole i Skagen",0,0,1,,10,,10,0,9,2,0,,0,0,3,32,35,Frederikshavn Kommune,9990,Region Nordjylland
+"2015-01-29,""Brovandeskolen, Den Lille Skole i Skagen"",0,0,1,,10,,10,0,9,2,0,,0,0,3,32,35,Frederikshavn Kommune,9990,Region Nordjylland"
 2015-01-29,Brovst Skole,8,9,0,,4,,4,1,11,39,0,,1,0,17,76,94,Jammerbugt Kommune,9460,Region Nordjylland
 2015-01-29,Bryndum Skole,15,1,17,,2,,5,0,6,10,2,,0,1,10,58,69,Esbjerg Kommune,6715,Region Syddanmark
 2015-01-29,Brædstrup Skole,33,1,24,,4,,4,1,1,26,1,,3,3,17,95,118,Horsens Kommune,8740,Region Midtjylland
@@ -101,7 +101,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Buddinge Skole,12,12,16,,8,,11,0,1,16,7,,0,0,7,83,90,Gladsaxe Kommune,2860,Region Hovedstaden
 2015-01-29,Bylderup Skole,2,6,3,,0,,2,3,19,12,2,,3,0,8,49,60,Aabenraa Kommune,6372,Region Syddanmark
 2015-01-29,Byplanvejens Skole,18,1,14,,5,,1,0,7,4,0,,4,0,6,50,60,Aalborg Kommune,9210,Region Nordjylland
-2015-01-29,"Byskovskolen, afd. Benløse",25,23,17,,4,,1,1,36,32,13,,2,1,5,152,160,Ringsted Kommune,4100,Region Sjælland
+"2015-01-29,""Byskovskolen, afd. Benløse"",25,23,17,,4,,1,1,36,32,13,,2,1,5,152,160,Ringsted Kommune,4100,Region Sjælland"
 2015-01-29,Bække Skole,12,1,1,,3,,4,0,4,22,1,,2,7,6,48,63,Vejen Kommune,6622,Region Syddanmark
 2015-01-29,Bækkegårdsskolen,8,4,3,,3,,11,1,4,41,0,,0,0,0,75,75,Egedal Kommune,3650,Region Hovedstaden
 2015-01-29,Bøgballe Friskole,2,0,26,,0,,0,4,1,9,0,,0,1,5,42,48,Hedensted Kommune,7171,Region Midtjylland
@@ -143,7 +143,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Engholmskolen,8,5,18,,5,,7,0,1,16,1,,0,0,14,61,75,Allerød Kommune,3450,Region Hovedstaden
 2015-01-29,Englystskolen,14,10,3,,2,,9,1,16,13,7,,5,0,30,75,110,Vejle Kommune,7080,Region Syddanmark
 2015-01-29,Engstrandskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Hvidovre Kommune,2650,Region Hovedstaden
-2015-01-29,"Erhvervsskolen Nordsjælland, grundskoleafd. Helsingør",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Helsingør Kommune,3000,Region Hovedstaden
+"2015-01-29,""Erhvervsskolen Nordsjælland, grundskoleafd. Helsingør"",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Helsingør Kommune,3000,Region Hovedstaden"
 2015-01-29,Eriksminde Efterskole,9,4,0,,8,,0,0,1,0,10,,2,0,3,32,37,Odder Kommune,8300,Region Midtjylland
 2015-01-29,Erritsø Fællesskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Fredericia Kommune,7000,Region Syddanmark
 2015-01-29,Esajasskolen,16,0,2,,1,,6,2,1,18,0,,1,0,15,46,62,Hvidovre Kommune,2650,Region Hovedstaden
@@ -167,8 +167,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Fredericia Realskole,7,2,5,,1,,11,2,4,30,1,,0,0,0,63,63,Fredericia Kommune,7000,Region Syddanmark
 2015-01-29,Frederiks Skole,9,5,0,,0,,2,1,1,30,0,,3,0,6,48,57,Viborg Kommune,7470,Region Midtjylland
 2015-01-29,Frederiksberg Skole,19,9,2,,5,,3,0,6,45,8,,4,0,27,97,128,Sorø Kommune,4180,Region Sjælland
-2015-01-29,"Frederiksværk skole, Enghave",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Halsnæs Kommune,3300,Region Hovedstaden
-2015-01-29,"Frederiksværk Skole, Melby",17,15,0,,3,,2,0,18,15,6,,3,0,19,76,98,Halsnæs Kommune,3370,Region Hovedstaden
+"2015-01-29,""Frederiksværk skole, Enghave"",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Halsnæs Kommune,3300,Region Hovedstaden"
+"2015-01-29,""Frederiksværk Skole, Melby"",17,15,0,,3,,2,0,18,15,6,,3,0,19,76,98,Halsnæs Kommune,3370,Region Hovedstaden"
 2015-01-29,Frijsenborg Efterskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Favrskov Kommune,8450,Region Midtjylland
 2015-01-29,Frijsendal Friskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Favrskov Kommune,8450,Region Midtjylland
 2015-01-29,Frisholm Skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Silkeborg Kommune,8653,Region Midtjylland
@@ -196,10 +196,10 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Gladsaxe Privatskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Gladsaxe Kommune,2800,Region Hovedstaden
 2015-01-29,Glamsbjergskolen,10,1,3,,3,,3,0,6,22,2,,2,0,10,50,62,Assens Kommune,5620,Region Syddanmark
 2015-01-29,Glostrup skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Glostrup Kommune,2600,Region Hovedstaden
-2015-01-29,"Glostrup skole, Nordvangskolen",7,9,3,,6,,4,1,4,26,3,,7,0,18,63,88,Glostrup Kommune,2600,Region Hovedstaden
-2015-01-29,"Glostrup Skole, Skovvang",18,6,4,,12,,7,0,7,4,2,,1,0,33,60,94,Glostrup Kommune,2600,Region Hovedstaden
-2015-01-29,"Glostrup skole, Søndervang",16,6,12,,3,,20,0,1,13,0,,4,0,7,71,82,Glostrup Kommune,2600,Region Hovedstaden
-2015-01-29,"Glostrup Skole, Vestervang",26,3,2,,6,,2,0,4,2,0,,0,5,16,45,66,Glostrup Kommune,2600,Region Hovedstaden
+"2015-01-29,""Glostrup skole, Nordvangskolen"",7,9,3,,6,,4,1,4,26,3,,7,0,18,63,88,Glostrup Kommune,2600,Region Hovedstaden"
+"2015-01-29,""Glostrup Skole, Skovvang"",18,6,4,,12,,7,0,7,4,2,,1,0,33,60,94,Glostrup Kommune,2600,Region Hovedstaden"
+"2015-01-29,""Glostrup skole, Søndervang"",16,6,12,,3,,20,0,1,13,0,,4,0,7,71,82,Glostrup Kommune,2600,Region Hovedstaden"
+"2015-01-29,""Glostrup Skole, Vestervang"",26,3,2,,6,,2,0,4,2,0,,0,5,16,45,66,Glostrup Kommune,2600,Region Hovedstaden"
 2015-01-29,Gram Efterskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Haderslev Kommune,6510,Region Syddanmark
 2015-01-29,Gråsten Friskole,0,4,4,,0,,2,0,0,2,1,,6,0,1,13,20,Sønderborg Kommune,6300,Region Syddanmark
 2015-01-29,Gråsten Skole,19,7,0,,4,,28,0,8,19,6,,1,1,0,91,93,Sønderborg Kommune,6300,Region Syddanmark
@@ -227,7 +227,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Hampelandskolen,12,4,3,,4,,6,1,11,16,2,,2,0,24,59,85,Egedal Kommune,3650,Region Hovedstaden
 2015-01-29,Hanebjerg Skole,11,9,27,,18,,4,1,5,15,6,,9,1,7,96,113,Hillerød Kommune,3400,Region Hovedstaden
 2015-01-29,Hannæsskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Thisted Kommune,7741,Region Nordjylland
-2015-01-29,"Hans Rømer Skolen, Afdeling Aaker",17,7,3,,12,,15,0,11,16,10,,5,0,29,91,125,Bornholms Regionskommune,3720,Region Hovedstaden
+"2015-01-29,""Hans Rømer Skolen, Afdeling Aaker"",17,7,3,,12,,15,0,11,16,10,,5,0,29,91,125,Bornholms Regionskommune,3720,Region Hovedstaden"
 2015-01-29,Hanssted Skole,7,2,1,,33,,9,1,2,6,8,,3,0,29,69,101,Københavns Kommune,2500,Region Hovedstaden
 2015-01-29,Hanstholm Friskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Thisted Kommune,7730,Region Nordjylland
 2015-01-29,Hanstholm Skole,4,8,1,,2,,2,1,4,21,0,,5,0,12,43,60,Thisted Kommune,7730,Region Nordjylland
@@ -279,7 +279,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Horsens Byskole,7,14,22,,5,,16,0,10,28,3,,3,1,43,105,152,Horsens Kommune,8700,Region Midtjylland
 2015-01-29,Horslunde Realskole,4,1,1,,3,,0,1,6,21,1,,1,0,1,38,40,Lolland Kommune,4913,Region Sjælland
 2015-01-29,Hovedgård Skole,3,13,17,,1,,6,1,20,13,12,,4,0,0,86,90,Horsens Kommune,8732,Region Midtjylland
-2015-01-29,"Hovedstadens Privatskole, Filipskolen",8,0,3,,5,,0,0,0,6,1,,0,0,7,23,30,Københavns Kommune,2300,Region Hovedstaden
+"2015-01-29,""Hovedstadens Privatskole, Filipskolen"",8,0,3,,5,,0,0,0,6,1,,0,0,7,23,30,Københavns Kommune,2300,Region Hovedstaden"
 2015-01-29,Humlebæk Lille Skole,5,4,0,,9,,4,0,0,3,1,,2,1,6,26,35,Fredensborg Kommune,3050,Region Hovedstaden
 2015-01-29,Hummeltofteskolen,39,25,7,,9,,15,0,3,33,6,,1,3,23,137,164,Lyngby-Taarbæk Kommune,2830,Region Hovedstaden
 2015-01-29,Hundested Skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Halsnæs Kommune,3390,Region Hovedstaden
@@ -312,7 +312,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Iqra Privatskole,6,2,0,,1,,2,0,6,0,20,,1,0,2,37,40,Københavns Kommune,2200,Region Hovedstaden
 2015-01-29,Isefjordskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Holbæk Kommune,4300,Region Sjælland
 2015-01-29,Isefjordskolen - 2,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Holbæk Kommune,4300,Region Sjælland
-2015-01-29,"Isefjordskolen, afdeling Holbæk",16,7,8,,8,,26,0,2,32,2,,1,3,45,101,150,Holbæk Kommune,4300,Region Sjælland
+"2015-01-29,""Isefjordskolen, afdeling Holbæk"",16,7,8,,8,,26,0,2,32,2,,1,3,45,101,150,Holbæk Kommune,4300,Region Sjælland"
 2015-01-29,Issø-skolen,15,4,2,,10,,6,0,13,9,6,,4,0,4,65,73,Svendborg Kommune,5771,Region Syddanmark
 2015-01-29,Jakobskolen,2,1,3,,2,,1,0,2,1,2,,7,2,49,14,72,Frederiksberg Kommune,1961,Region Hovedstaden
 2015-01-29,Jels Skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Vejen Kommune,6630,Region Syddanmark
@@ -354,7 +354,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Kragelundskolen,16,22,35,,12,,5,0,4,49,8,,4,0,20,151,175,Aarhus Kommune,8270,Region Midtjylland
 2015-01-29,Kratholmskolen,10,4,5,,5,,2,1,2,6,3,,0,0,1,38,39,Odense Kommune,5250,Region Syddanmark
 2015-01-29,Kroggårdsskolen,10,2,42,,16,,6,0,3,38,1,,4,0,12,118,134,Odense Kommune,5270,Region Syddanmark
-2015-01-29,"Kulsbjerg Skole, Stensved",13,3,4,,7,,6,0,6,32,4,,0,1,19,75,95,Vordingborg Kommune,4773,Region Sjælland
+"2015-01-29,""Kulsbjerg Skole, Stensved"",13,3,4,,7,,6,0,6,32,4,,0,1,19,75,95,Vordingborg Kommune,4773,Region Sjælland"
 2015-01-29,Kvaglundskolen,7,5,4,,6,,16,2,9,22,1,,2,0,12,72,86,Esbjerg Kommune,6705,Region Syddanmark
 2015-01-29,Kvikmarkens Privatskole,21,7,13,,3,,1,0,8,10,3,,5,0,10,66,81,Gladsaxe Kommune,2860,Region Hovedstaden
 2015-01-29,Kystskolen,8,8,5,,8,,1,2,15,23,0,,0,0,9,70,79,Nordfyns Kommune,5450,Region Syddanmark
@@ -406,9 +406,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Middelfart Friskole,11,3,1,,3,,0,0,1,6,2,,2,0,2,27,31,Middelfart Kommune,5500,Region Syddanmark
 2015-01-29,Midtjysk Efterskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Ikast-Brande Kommune,7361,Region Midtjylland
 2015-01-29,Midtsjællands Efterskole,7,7,27,,5,,0,0,3,26,22,,1,0,12,97,110,Lejre Kommune,4330,Region Sjælland
-2015-01-29,"Midtskolen, Bavne afdeling",8,1,6,,4,,0,0,16,6,2,,1,0,9,43,53,Faxe Kommune,4690,Region Sjælland
-2015-01-29,"Midtskolen, Møllevang afdeling",8,4,13,,2,,30,1,0,10,1,,3,0,18,69,90,Faxe Kommune,4683,Region Sjælland
-2015-01-29,"Midtskolen, Sofiendal afdeling",7,5,3,,7,,8,3,19,17,13,,7,2,21,82,112,Faxe Kommune,4690,Region Sjælland
+"2015-01-29,""Midtskolen, Bavne afdeling"",8,1,6,,4,,0,0,16,6,2,,1,0,9,43,53,Faxe Kommune,4690,Region Sjælland"
+"2015-01-29,""Midtskolen, Møllevang afdeling"",8,4,13,,2,,30,1,0,10,1,,3,0,18,69,90,Faxe Kommune,4683,Region Sjælland"
+"2015-01-29,""Midtskolen, Sofiendal afdeling"",7,5,3,,7,,8,3,19,17,13,,7,2,21,82,112,Faxe Kommune,4690,Region Sjælland"
 2015-01-29,Muldbjergskolen,13,10,7,,2,,5,4,6,13,20,,1,1,8,80,90,Hjørring Kommune,9800,Region Nordjylland
 2015-01-29,Munkebo Skole - mellem nor og fjord,34,15,4,,5,,5,1,12,19,5,,11,0,16,100,127,Kerteminde Kommune,5330,Region Syddanmark
 2015-01-29,Munkegårdsskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Gentofte Kommune,2870,Region Hovedstaden
@@ -416,7 +416,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Munkholmskolen,3,3,4,,3,,1,1,21,14,3,,2,0,6,53,61,Randers Kommune,8870,Region Midtjylland
 2015-01-29,Musikefterskolen i Humble,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Langeland Kommune,5932,Region Syddanmark
 2015-01-29,Mølholm Skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Vejle Kommune,7100,Region Syddanmark
-2015-01-29,"Møn Skole, Stege",26,27,2,,10,,2,0,11,22,7,,2,1,25,107,135,Vordingborg Kommune,4780,Region Sjælland
+"2015-01-29,""Møn Skole, Stege"",26,27,2,,10,,2,0,11,22,7,,2,1,25,107,135,Vordingborg Kommune,4780,Region Sjælland"
 2015-01-29,Mønsted Skole,7,2,2,,18,,0,0,2,12,1,,0,0,1,44,45,Viborg Kommune,8800,Region Midtjylland
 2015-01-29,Mørdrupskolen,21,3,5,,1,,2,0,4,6,3,,0,0,4,45,49,Helsingør Kommune,3060,Region Hovedstaden
 2015-01-29,Mørke Skole,8,1,0,,3,,2,0,6,8,0,,0,1,7,28,36,Syddjurs Kommune,8544,Region Midtjylland
@@ -433,8 +433,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Nordregårdsskolen,8,5,7,,3,,0,0,6,4,3,,0,1,9,36,46,Tårnby Kommune,2770,Region Hovedstaden
 2015-01-29,Nordstjerneskolen,25,6,8,,12,,32,0,28,47,17,,5,4,91,175,275,Gribskov Kommune,3200,Region Hovedstaden
 2015-01-29,Nordstjerneskolen,20,6,12,,5,,6,1,21,38,9,,1,2,54,118,175,Frederikshavn Kommune,9900,Region Nordjylland
-2015-01-29,"Nordvestskolen, Ravnsborg afdeling",10,0,0,,4,,6,0,13,4,4,,20,0,9,41,70,Lolland Kommune,4913,Region Sjælland
-2015-01-29,"Nordvestskolen, Stormark afdeling",9,3,11,,5,,34,0,9,9,5,,1,3,13,85,102,Lolland Kommune,4900,Region Sjælland
+"2015-01-29,""Nordvestskolen, Ravnsborg afdeling"",10,0,0,,4,,6,0,13,4,4,,20,0,9,41,70,Lolland Kommune,4913,Region Sjælland"
+"2015-01-29,""Nordvestskolen, Stormark afdeling"",9,3,11,,5,,34,0,9,9,5,,1,3,13,85,102,Lolland Kommune,4900,Region Sjælland"
 2015-01-29,Nr Uttrup Skole,12,0,1,,0,,2,0,4,13,2,,2,1,35,34,72,Aalborg Kommune,9400,Region Nordjylland
 2015-01-29,Nr. Asmindrup Friskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Odsherred Kommune,4572,Region Sjælland
 2015-01-29,Nr. Nissum Skole,8,33,7,,1,,1,0,5,5,0,,0,0,20,60,80,Lemvig Kommune,7620,Region Midtjylland
@@ -459,7 +459,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Nøvlingskov Efterskole,1,5,5,,1,,17,0,0,10,0,,0,0,5,39,44,Herning Kommune,7480,Region Midtjylland
 2015-01-29,Odder Lille Friskole,10,1,0,,0,,1,0,4,2,3,,0,1,4,21,26,Odder Kommune,8300,Region Midtjylland
 2015-01-29,Odense Friskole,18,13,13,,6,,12,1,3,19,8,,4,2,11,93,110,Odense Kommune,5000,Region Syddanmark
-2015-01-29,"Ollerup Efterskole, Sang og Musik",2,2,1,,2,,3,0,0,2,11,,0,0,3,23,26,Svendborg Kommune,5762,Region Syddanmark
+"2015-01-29,""Ollerup Efterskole, Sang og Musik"",2,2,1,,2,,3,0,0,2,11,,0,0,3,23,26,Svendborg Kommune,5762,Region Syddanmark"
 2015-01-29,Ollerup Friskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Svendborg Kommune,5762,Region Syddanmark
 2015-01-29,Ordrup Skole,24,13,12,,14,,8,0,8,50,3,,4,1,19,132,156,Gentofte Kommune,2920,Region Hovedstaden
 2015-01-29,Osted Fri og Efterskole,2,6,1,,0,,0,1,2,0,11,,1,0,18,23,42,Lejre Kommune,4320,Region Sjælland
@@ -468,7 +468,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Otterup Realskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Nordfyns Kommune,5450,Region Syddanmark
 2015-01-29,Overlund Skole,7,7,2,,1,,14,1,10,27,3,,2,1,7,72,82,Viborg Kommune,8800,Region Midtjylland
 2015-01-29,Paarup Skole,11,1,18,,3,,0,0,0,8,0,,0,0,5,41,46,Odense Kommune,5210,Region Syddanmark
-2015-01-29,"Paradisbakkeskolen, Nexø afd.",20,2,5,,8,,8,0,9,26,0,,3,0,26,78,107,Bornholms Regionskommune,3730,Region Hovedstaden
+"2015-01-29,""Paradisbakkeskolen, Nexø afd."",20,2,5,,8,,8,0,9,26,0,,3,0,26,78,107,Bornholms Regionskommune,3730,Region Hovedstaden"
 2015-01-29,Parkskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Kolding Kommune,6000,Region Syddanmark
 2015-01-29,Parkskolen,14,9,9,,2,,4,0,3,20,0,,0,6,8,61,75,Struer Kommune,7600,Region Midtjylland
 2015-01-29,Petersmindeskolen,5,10,1,,6,,1,1,7,14,22,,5,1,10,67,83,Vejle Kommune,7100,Region Syddanmark
@@ -501,9 +501,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Ryslinge Friskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Faaborg-Midtfyn Kommune,5856,Region Syddanmark
 2015-01-29,Rønbækskolen,25,10,10,,10,,17,0,2,24,3,,3,2,16,101,122,Favrskov Kommune,8382,Region Midtjylland
 2015-01-29,Rønde Skole,29,1,6,,6,,10,1,6,17,5,,7,2,20,81,110,Syddjurs Kommune,8410,Region Midtjylland
-2015-01-29,"Rønneskolen, afdeling Åvang",7,20,4,,10,,5,2,7,15,5,,0,1,24,75,100,Bornholms Regionskommune,3700,Region Hovedstaden
-2015-01-29,"Rønneskolen, afdeling Søndermark",3,21,2,,7,,4,0,7,20,2,,0,2,12,66,80,Bornholms Regionskommune,3700,Region Hovedstaden
-2015-01-29,"Rønneskolen, afdeling Østre",24,1,3,,6,,13,0,1,17,5,,0,4,17,70,91,Bornholms Regionskommune,3700,Region Hovedstaden
+"2015-01-29,""Rønneskolen, afdeling Åvang"",7,20,4,,10,,5,2,7,15,5,,0,1,24,75,100,Bornholms Regionskommune,3700,Region Hovedstaden"
+"2015-01-29,""Rønneskolen, afdeling Søndermark"",3,21,2,,7,,4,0,7,20,2,,0,2,12,66,80,Bornholms Regionskommune,3700,Region Hovedstaden"
+"2015-01-29,""Rønneskolen, afdeling Østre"",24,1,3,,6,,13,0,1,17,5,,0,4,17,70,91,Bornholms Regionskommune,3700,Region Hovedstaden"
 2015-01-29,Rørkjærskolen,25,6,3,,10,,7,0,13,29,8,,0,2,0,101,103,Esbjerg Kommune,6700,Region Syddanmark
 2015-01-29,Rørvig Friskole,7,2,0,,6,,1,0,2,6,4,,3,1,4,28,36,Odsherred Kommune,4581,Region Sjælland
 2015-01-29,Sabro-Korsvejskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Aarhus Kommune,8471,Region Midtjylland
@@ -541,7 +541,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Skivehus Skole,16,4,17,,5,,2,0,7,33,8,,4,3,5,92,104,Skive Kommune,7800,Region Midtjylland
 2015-01-29,Skjern Kristne Friskole,10,3,4,,1,,8,13,0,19,0,,2,1,7,58,68,Ringkøbing-Skjern Kommune,6900,Region Midtjylland
 2015-01-29,Skjoldhøjskolen,15,0,4,,4,,4,0,6,9,5,,10,1,6,47,64,Aarhus Kommune,8381,Region Midtjylland
-2015-01-29,"Skole Nord, afdeling Kongeskær",9,1,3,,7,,2,2,9,17,18,,4,1,22,68,95,Bornholms Regionskommune,3770,Region Hovedstaden
+"2015-01-29,""Skole Nord, afdeling Kongeskær"",9,1,3,,7,,2,2,9,17,18,,4,1,22,68,95,Bornholms Regionskommune,3770,Region Hovedstaden"
 2015-01-29,Skolecenter Jetsmark,19,4,4,,6,,12,0,15,34,2,,0,0,22,96,118,Jammerbugt Kommune,9490,Region Nordjylland
 2015-01-29,Skolegades Skole,5,8,7,,4,,4,2,8,10,0,,0,0,12,48,60,Brønderslev Kommune,9700,Region Nordjylland
 2015-01-29,Skolen I Charlottegården,0,3,1,,2,,4,0,4,1,4,,0,1,10,19,30,Københavns Kommune,2400,Region Hovedstaden
@@ -549,7 +549,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Skolen På Nyelandsvej,31,5,2,,21,,7,1,3,16,3,,0,2,29,89,120,Frederiksberg Kommune,2000,Region Hovedstaden
 2015-01-29,Skolen på Sønderager,3,7,16,,3,,4,3,10,57,2,,3,0,29,105,137,Herning Kommune,7400,Region Midtjylland
 2015-01-29,Skolen Ved Sundet,32,16,10,,12,,10,0,9,26,3,,4,7,31,118,160,Københavns Kommune,2300,Region Hovedstaden
-2015-01-29,"Skolen ved Tuse Næs, afdeling Tuse",19,7,13,,7,,16,0,7,34,6,,6,4,32,109,151,Holbæk Kommune,4300,Region Sjælland
+"2015-01-29,""Skolen ved Tuse Næs, afdeling Tuse"",19,7,13,,7,,16,0,7,34,6,,6,4,32,109,151,Holbæk Kommune,4300,Region Sjælland"
 2015-01-29,Skottegårdsskolen,7,7,4,,6,,14,0,16,11,9,,1,1,15,74,91,Tårnby Kommune,2770,Region Hovedstaden
 2015-01-29,Skovboskolen,23,0,7,,3,,6,0,6,49,1,,0,11,14,95,120,Køge Kommune,4632,Region Sjælland
 2015-01-29,Skovbyskolen,54,4,2,,1,,7,0,5,16,5,,3,1,12,94,110,Skanderborg Kommune,8464,Region Midtjylland
@@ -572,7 +572,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Smidstrup-Skærup Skole,5,3,1,,4,,5,0,1,17,1,,3,0,10,37,50,Vejle Kommune,7000,Region Syddanmark
 2015-01-29,Snedsted Skole,15,10,12,,6,,3,2,16,35,4,,1,1,15,103,120,Thisted Kommune,7752,Region Nordjylland
 2015-01-29,Snejbjerg Skole,2,1,1,,1,,11,1,1,3,1,,6,0,12,22,40,Herning Kommune,7400,Region Midtjylland
-2015-01-29,"Sofielundskolen, afdeling Bjergmarken",31,22,24,,14,,10,0,9,27,16,,0,3,37,153,193,Holbæk Kommune,4300,Region Sjælland
+"2015-01-29,""Sofielundskolen, afdeling Bjergmarken"",31,22,24,,14,,10,0,9,27,16,,0,3,37,153,193,Holbæk Kommune,4300,Region Sjælland"
 2015-01-29,Sofiendalskolen,4,5,8,,2,,10,1,1,39,5,,0,1,0,75,76,Aalborg Kommune,9200,Region Nordjylland
 2015-01-29,Sofieskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Gladsaxe Kommune,2880,Region Hovedstaden
 2015-01-29,Solbakkeskolen,52,0,0,,4,,5,0,20,25,3,,17,0,0,109,126,Frederikssund Kommune,3630,Region Hovedstaden
@@ -608,7 +608,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Suldrup Skole,2,4,1,,2,,3,0,12,13,0,,0,0,9,37,46,Rebild Kommune,9541,Region Nordjylland
 2015-01-29,Sulsted Skole,11,13,11,,4,,7,0,11,11,0,,3,0,19,68,90,Aalborg Kommune,9381,Region Nordjylland
 2015-01-29,Sundskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Guldborgsund Kommune,4800,Region Sjælland
-2015-01-29,"Svend Gønge-Skolen, Lundby",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Vordingborg Kommune,4750,Region Sjælland
+"2015-01-29,""Svend Gønge-Skolen, Lundby"",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Vordingborg Kommune,4750,Region Sjælland"
 2015-01-29,Svenstrup Skole,6,2,6,,3,,3,0,7,39,4,,0,3,27,70,100,Aalborg Kommune,9230,Region Nordjylland
 2015-01-29,Svindinge Friskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Nyborg Kommune,5853,Region Syddanmark
 2015-01-29,Sydbornholms Privatskole,8,1,0,,0,,0,1,0,6,2,,0,0,6,18,24,Bornholms Regionskommune,3720,Region Hovedstaden
@@ -630,8 +630,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Søndervangskolen,9,6,0,,11,,6,2,20,8,13,,19,18,20,75,132,Favrskov Kommune,8450,Region Midtjylland
 2015-01-29,Søndre Skole,20,18,7,,7,,14,0,17,23,11,,3,2,15,117,137,Viborg Kommune,8800,Region Midtjylland
 2015-01-29,Søndre Skole,11,9,25,,2,,11,0,1,9,1,,2,0,24,69,95,Køge Kommune,4600,Region Sjælland
-2015-01-29,"Søndre Skole, Holeby",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Lolland Kommune,4960,Region Sjælland
-2015-01-29,"Søndre Skole, Rødbyafdelingen",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Lolland Kommune,4970,Region Sjælland
+"2015-01-29,""Søndre Skole, Holeby"",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Lolland Kommune,4960,Region Sjælland"
+"2015-01-29,""Søndre Skole, Rødbyafdelingen"",0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Lolland Kommune,4970,Region Sjælland"
 2015-01-29,Taastrup Realskole,14,9,15,,17,,21,0,7,38,4,,0,7,9,125,141,Høje-Taastrup Kommune,2630,Region Hovedstaden
 2015-01-29,Tallerupskolen,14,9,2,,13,,1,0,6,19,1,,0,0,6,65,71,Assens Kommune,5690,Region Syddanmark
 2015-01-29,Tangsø skole,0,0,2,,0,,0,0,0,7,0,,0,0,6,9,15,Lemvig Kommune,7660,Region Midtjylland
@@ -672,7 +672,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Tungelundskolen,5,3,3,,1,,18,0,18,27,1,,2,1,1,76,80,Favrskov Kommune,8881,Region Midtjylland
 2015-01-29,Tvis Skole,8,5,77,,5,,13,1,6,9,1,,2,1,18,125,146,Holstebro Kommune,7500,Region Midtjylland
 2015-01-29,Tybjerg Privatskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Næstved Kommune,4160,Region Sjælland
-2015-01-29,"Tølløse Privat- og Efterskole, Baptisternes Skoler",11,7,6,,14,,4,3,23,17,11,,35,1,28,96,160,Holbæk Kommune,4340,Region Sjælland
+"2015-01-29,""Tølløse Privat- og Efterskole, Baptisternes Skoler"",11,7,6,,14,,4,3,23,17,11,,35,1,28,96,160,Holbæk Kommune,4340,Region Sjælland"
 2015-01-29,Tømmerup Fri- og Efterskole,3,7,0,,7,,0,0,6,11,2,,3,0,4,36,43,Kalundborg Kommune,4400,Region Sjælland
 2015-01-29,Tømmerup Fri- og Efterskole,1,4,2,,1,,5,0,1,3,3,,1,0,6,20,27,Kalundborg Kommune,4400,Region Sjælland
 2015-01-29,Tønder Overbygningsskole,22,46,35,,29,,44,7,42,79,14,,5,5,34,318,362,Tønder Kommune,6270,Region Syddanmark
@@ -704,7 +704,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Vestre Skole,8,3,2,,0,,2,2,2,13,1,,0,0,3,33,36,Middelfart Kommune,5500,Region Syddanmark
 2015-01-29,Vestre Skole,8,2,20,,24,,3,0,2,14,9,,3,2,6,82,93,Silkeborg Kommune,8600,Region Midtjylland
 2015-01-29,Vestsalling Skole og Dagtilbud,5,5,7,,6,,43,0,1,37,2,,4,3,8,106,121,Skive Kommune,7860,Region Midtjylland
-2015-01-29,"Vestskolen, Nordskov afdeling",17,8,23,,12,,22,4,13,33,4,,3,3,44,136,186,Faxe Kommune,4690,Region Sjælland
+"2015-01-29,""Vestskolen, Nordskov afdeling"",17,8,23,,12,,22,4,13,33,4,,3,3,44,136,186,Faxe Kommune,4690,Region Sjælland"
 2015-01-29,Viborg Private Realskole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Viborg Kommune,8800,Region Midtjylland
 2015-01-29,Viby Friskole,4,1,7,,7,,1,0,0,14,3,,0,0,0,37,37,Roskilde Kommune,4130,Region Sjælland
 2015-01-29,Vigersted Skole,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Ringsted Kommune,4100,Region Sjælland
@@ -741,8 +741,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2015-01-29,Østre Skole,2,5,12,,0,,5,0,3,13,1,,0,0,97,41,138,Guldborgsund Kommune,4800,Region Sjælland
 2015-01-29,Østre Skole,22,7,15,,5,,5,0,3,35,6,,1,1,12,98,112,Middelfart Kommune,5500,Region Syddanmark
 2015-01-29,Østskolen,0,0,0,,0,,0,0,0,0,0,,0,0,0,0,0,Faxe Kommune,4640,Region Sjælland
-2015-01-29,"Østskolen, Hylleholt afdeling",9,5,6,,2,,1,3,3,6,4,,1,0,8,39,48,Faxe Kommune,4654,Region Sjælland
-2015-01-29,"Østskolen, Rollo afdeling",13,0,0,,4,,15,2,13,8,4,,2,3,21,59,85,Faxe Kommune,4640,Region Sjælland
+"2015-01-29,""Østskolen, Hylleholt afdeling"",9,5,6,,2,,1,3,3,6,4,,1,0,8,39,48,Faxe Kommune,4654,Region Sjælland"
+"2015-01-29,""Østskolen, Rollo afdeling"",13,0,0,,4,,15,2,13,8,4,,2,3,21,59,85,Faxe Kommune,4640,Region Sjælland"
 2017-02-02,10 i Campus,17,0,4,2,4,,23,,35,14,4,1,5,0,41,104,150,Varde Kommune,6800,Region Syddanmark
 2017-02-02,10. klasse Aabenraa,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Aabenraa Kommune,6200,Region Syddanmark
 2017-02-02,10. Klasse Center Skive,8,2,20,1,3,,10,,5,2,2,1,1,0,15,54,70,Skive Kommune,7800,Region Midtjylland
@@ -752,7 +752,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Aabybro Efterskole,3,2,1,0,0,,12,,3,11,1,0,1,0,11,33,45,Jammerbugt Kommune,9440,Region Nordjylland
 2017-02-02,Aakjærskolen,9,4,36,2,1,,5,,5,7,1,0,1,1,13,70,85,Skive Kommune,7800,Region Midtjylland
 2017-02-02,Aalborg Friskole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Aalborg Kommune,9000,Region Nordjylland
-2017-02-02,"Aarhus Business College, EUX Business & EUD Business",4,1,0,0,0,,2,,3,1,1,0,0,1,5,12,18,Aarhus Kommune,8260,Region Midtjylland
+"2017-02-02,""Aarhus Business College, EUX Business & EUD Business"",4,1,0,0,0,,2,,3,1,1,0,0,1,5,12,18,Aarhus Kommune,8260,Region Midtjylland"
 2017-02-02,Aars Skole,7,9,9,0,3,,7,,21,20,5,1,4,0,9,82,95,Vesthimmerlands Kommune,9600,Region Nordjylland
 2017-02-02,Aarupskolen,15,14,12,1,1,,6,,11,21,1,3,0,1,11,85,97,Assens Kommune,5560,Region Syddanmark
 2017-02-02,Absalons Skole,15,21,9,0,5,,19,,4,5,3,20,2,0,32,101,135,Roskilde Kommune,4000,Region Sjælland
@@ -807,7 +807,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Bjergby Friskole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Morsø Kommune,7950,Region Nordjylland
 2017-02-02,Bjerget Efterskole,12,5,3,0,8,,7,,1,4,5,7,7,0,6,52,65,Thisted Kommune,7741,Region Nordjylland
 2017-02-02,Blåbjerg Friskole,0,1,1,0,0,,0,,8,8,1,1,1,0,1,20,22,Varde Kommune,6854,Region Syddanmark
-2017-02-02,"Blåbjergskolen, Nr. Nebel afd.",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Varde Kommune,6830,Region Syddanmark
+"2017-02-02,""Blåbjergskolen, Nr. Nebel afd."",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Varde Kommune,6830,Region Syddanmark"
 2017-02-02,Blågård Skole,0,2,0,0,0,,0,,0,0,21,0,0,0,3,23,26,Københavns Kommune,2200,Region Hovedstaden
 2017-02-02,Blicherskolen,0,7,8,0,1,,4,,2,22,1,0,2,0,7,45,54,Randers Kommune,8981,Region Midtjylland
 2017-02-02,Blære Friskole,0,4,0,0,0,,2,,6,10,0,2,0,0,0,24,24,Vesthimmerlands Kommune,9600,Region Nordjylland
@@ -825,7 +825,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Broager Skole,22,10,0,5,4,,12,,22,48,10,4,17,2,0,137,156,Sønderborg Kommune,6310,Region Syddanmark
 2017-02-02,Brobyskolerne,11,6,21,3,4,,4,,12,9,0,4,6,0,0,74,80,Faaborg-Midtfyn Kommune,5672,Region Syddanmark
 2017-02-02,Broskolen,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Slagelse Kommune,4220,Region Sjælland
-2017-02-02,"Brovandeskolen, Den Lille Skole i Skagen",1,1,10,0,1,,2,,2,15,0,2,0,0,6,34,40,Frederikshavn Kommune,9990,Region Nordjylland
+"2017-02-02,""Brovandeskolen, Den Lille Skole i Skagen"",1,1,10,0,1,,2,,2,15,0,2,0,0,6,34,40,Frederikshavn Kommune,9990,Region Nordjylland"
 2017-02-02,Brovst Skole,5,9,17,1,2,,0,,6,30,9,2,2,0,13,81,96,Jammerbugt Kommune,9460,Region Nordjylland
 2017-02-02,Bryrup Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Silkeborg Kommune,8654,Region Midtjylland
 2017-02-02,Brædstrup Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Horsens Kommune,8740,Region Midtjylland
@@ -839,7 +839,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Byhaveskolen,1,0,2,0,1,,0,,3,0,1,1,1,0,2,9,12,Svendborg Kommune,5700,Region Syddanmark
 2017-02-02,Bylderup Skole,6,2,7,1,0,,4,,15,27,0,0,2,0,12,62,76,Aabenraa Kommune,6372,Region Syddanmark
 2017-02-02,Byplanvejens Skole,15,5,2,0,6,,7,,1,13,2,0,0,3,12,51,66,Aalborg Kommune,9210,Region Nordjylland
-2017-02-02,"Byskovskolen, afd. Benløse",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Ringsted Kommune,4100,Region Sjælland
+"2017-02-02,""Byskovskolen, afd. Benløse"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Ringsted Kommune,4100,Region Sjælland"
 2017-02-02,Bække Skole,2,9,7,0,4,,5,,8,10,2,1,4,0,20,48,72,Vejen Kommune,6622,Region Syddanmark
 2017-02-02,Bækkegårdsskolen,7,7,20,0,7,,13,,8,3,3,2,0,0,20,70,90,Egedal Kommune,3650,Region Hovedstaden
 2017-02-02,Campusskolen,58,43,44,1,14,,27,,19,71,9,36,2,3,86,322,413,Ringsted Kommune,4100,Region Sjælland
@@ -859,14 +859,14 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Deutsche Privatschule Apenrade,16,12,2,2,2,,5,,13,8,1,3,1,0,1,64,66,Aabenraa Kommune,6200,Region Syddanmark
 2017-02-02,Deutsche Schule Sonderburg,10,5,1,0,1,,6,,1,5,3,0,0,0,4,32,36,Sønderborg Kommune,6400,Region Syddanmark
 2017-02-02,Deutsche Schule Tingleff,7,8,8,0,0,,12,,1,4,0,0,1,2,7,40,50,Aabenraa Kommune,6360,Region Syddanmark
-2017-02-02,"Distrikt Nord, Aalbæk skoleafdeling",1,4,2,1,0,,6,,9,2,1,2,1,1,6,28,36,Frederikshavn Kommune,9982,Region Nordjylland
-2017-02-02,"Distrikt Nord, Skagen skoleafdeling",5,4,7,0,6,,30,,14,17,1,2,2,0,22,86,110,Frederikshavn Kommune,9990,Region Nordjylland
-2017-02-02,"Distrikt Nord, Strandby skoleafdeling",15,4,3,0,1,,8,,15,31,1,1,0,0,16,79,95,Frederikshavn Kommune,9970,Region Nordjylland
+"2017-02-02,""Distrikt Nord, Aalbæk skoleafdeling"",1,4,2,1,0,,6,,9,2,1,2,1,1,6,28,36,Frederikshavn Kommune,9982,Region Nordjylland"
+"2017-02-02,""Distrikt Nord, Skagen skoleafdeling"",5,4,7,0,6,,30,,14,17,1,2,2,0,22,86,110,Frederikshavn Kommune,9990,Region Nordjylland"
+"2017-02-02,""Distrikt Nord, Strandby skoleafdeling"",15,4,3,0,1,,8,,15,31,1,1,0,0,16,79,95,Frederikshavn Kommune,9970,Region Nordjylland"
 2017-02-02,Distrikt Vest,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Frederikshavn Kommune,9900,Region Nordjylland
-2017-02-02,"Distrikt Vest, Bangsbostrand afdeling",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Frederikshavn Kommune,9900,Region Nordjylland
-2017-02-02,"Distrikt Vest, Ravnshøj skoleafdeling",2,2,6,1,2,,9,,4,4,2,4,3,0,5,36,44,Frederikshavn Kommune,9900,Region Nordjylland
-2017-02-02,"Distrikt Øst, Frydenstrand skoleafdeling",11,5,25,0,5,,13,,10,26,13,3,3,0,28,111,142,Frederikshavn Kommune,9900,Region Nordjylland
-2017-02-02,"Distrikt Øst, Nordstjernen skoleafdeling",22,5,11,0,16,,31,,10,37,9,12,3,4,29,153,189,Frederikshavn Kommune,9900,Region Nordjylland
+"2017-02-02,""Distrikt Vest, Bangsbostrand afdeling"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Frederikshavn Kommune,9900,Region Nordjylland"
+"2017-02-02,""Distrikt Vest, Ravnshøj skoleafdeling"",2,2,6,1,2,,9,,4,4,2,4,3,0,5,36,44,Frederikshavn Kommune,9900,Region Nordjylland"
+"2017-02-02,""Distrikt Øst, Frydenstrand skoleafdeling"",11,5,25,0,5,,13,,10,26,13,3,3,0,28,111,142,Frederikshavn Kommune,9900,Region Nordjylland"
+"2017-02-02,""Distrikt Øst, Nordstjernen skoleafdeling"",22,5,11,0,16,,31,,10,37,9,12,3,4,29,153,189,Frederikshavn Kommune,9900,Region Nordjylland"
 2017-02-02,Distriktsskole Smørum,52,40,11,2,13,,32,,17,32,9,13,5,4,40,221,270,Egedal Kommune,2765,Region Hovedstaden
 2017-02-02,Distriktsskolen,3,22,3,1,1,,15,,12,10,2,7,3,1,10,76,90,Tønder Kommune,6240,Region Syddanmark
 2017-02-02,Dragør Ungdomsskole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Dragør Kommune,2791,Region Hovedstaden
@@ -893,7 +893,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Esbjerg Ungdomsskole,5,0,0,0,0,,0,,12,15,9,0,0,0,0,41,41,Esbjerg Kommune,6700,Region Syddanmark
 2017-02-02,Eskilstrup Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Guldborgsund Kommune,4863,Region Sjælland
 2017-02-02,Fanø Skole,5,2,5,0,0,,2,,0,4,8,3,0,0,1,29,30,Fanø Kommune,6720,Region Syddanmark
-2017-02-02,"Farsø Efterskole, Eftersk. ved Risgårde Bredning",9,3,8,4,0,,23,,23,6,3,3,8,0,8,82,98,Vesthimmerlands Kommune,9640,Region Nordjylland
+"2017-02-02,""Farsø Efterskole, Eftersk. ved Risgårde Bredning"",9,3,8,4,0,,23,,23,6,3,3,8,0,8,82,98,Vesthimmerlands Kommune,9640,Region Nordjylland"
 2017-02-02,Farsø Skole,2,7,30,2,2,,7,,6,42,5,2,2,5,13,105,125,Vesthimmerlands Kommune,9640,Region Nordjylland
 2017-02-02,Fårvang Skole,12,17,3,3,10,,7,,1,27,2,3,1,1,43,85,130,Silkeborg Kommune,8882,Region Midtjylland
 2017-02-02,Faxehus Efterskole,8,2,0,0,7,,5,,4,3,17,22,8,0,7,68,83,Faxe Kommune,4654,Region Sjælland
@@ -928,7 +928,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Gammelgaardsskolen,9,10,6,0,4,,4,,0,1,3,4,1,0,0,41,42,Aarhus Kommune,8230,Region Midtjylland
 2017-02-02,Ganløse Skole,2,2,4,1,0,,3,,1,4,0,5,0,0,548,22,570,Egedal Kommune,3660,Region Hovedstaden
 2017-02-02,Gåsetårnskolen,54,14,38,1,7,,22,,22,56,3,7,5,8,63,224,300,Vordingborg Kommune,4760,Region Sjælland
-2017-02-02,"Gåsetårnskolen, Iselinge",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4760,Region Sjælland
+"2017-02-02,""Gåsetårnskolen, Iselinge"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4760,Region Sjælland"
 2017-02-02,Gedved Skole,2,4,13,0,0,,7,,3,5,0,0,1,0,1,34,36,Horsens Kommune,8751,Region Midtjylland
 2017-02-02,Gentofte Kommunes Ungdomsskole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Gentofte Kommune,2900,Region Hovedstaden
 2017-02-02,Gentofte Skole,15,18,6,2,3,,25,,5,18,1,5,0,0,36,98,134,Gentofte Kommune,2820,Region Hovedstaden
@@ -940,8 +940,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Gladsaxe Privatskole,3,10,6,0,0,,3,,2,3,0,4,1,0,5,31,37,Gladsaxe Kommune,2800,Region Hovedstaden
 2017-02-02,Gladsaxe Skole,12,28,23,0,12,,15,,4,9,3,6,3,0,5,112,120,Gladsaxe Kommune,2860,Region Hovedstaden
 2017-02-02,Glamsbjergskolen,0,8,17,1,3,,11,,9,18,11,4,4,3,15,82,104,Assens Kommune,5620,Region Syddanmark
-2017-02-02,"Glostrup skole, Nordvang",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Glostrup Kommune,2600,Region Hovedstaden
-2017-02-02,"Glostrup skole, Søndervang",9,5,3,0,5,,2,,3,34,1,10,2,5,10,72,89,Glostrup Kommune,2600,Region Hovedstaden
+"2017-02-02,""Glostrup skole, Nordvang"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Glostrup Kommune,2600,Region Hovedstaden"
+"2017-02-02,""Glostrup skole, Søndervang"",9,5,3,0,5,,2,,3,34,1,10,2,5,10,72,89,Glostrup Kommune,2600,Region Hovedstaden"
 2017-02-02,Gram Skole,5,6,2,0,2,,5,,0,12,1,1,2,0,14,34,50,Haderslev Kommune,6510,Region Syddanmark
 2017-02-02,Gregers Krabbe Friskolen,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Rebild Kommune,9520,Region Nordjylland
 2017-02-02,Gribskolen,2,10,0,0,0,,3,,4,9,1,2,4,0,65,31,100,Gribskov Kommune,3230,Region Hovedstaden
@@ -988,17 +988,17 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Hjordkær Skole,7,3,8,0,2,,3,,6,6,2,0,3,1,0,37,41,Aabenraa Kommune,6230,Region Syddanmark
 2017-02-02,Hjørring Private Realskole,20,10,23,5,17,,40,,12,101,6,5,5,0,34,239,278,Hjørring Kommune,9800,Region Nordjylland
 2017-02-02,Holbergskolen,8,1,5,0,3,,3,,3,3,12,12,0,0,0,50,50,Københavns Kommune,2400,Region Hovedstaden
-2017-02-02,"Holbæk By Skole, afdeling Bjergmark",25,52,1,1,17,,23,,10,14,1,3,6,4,35,147,192,Holbæk Kommune,4300,Region Sjælland
+"2017-02-02,""Holbæk By Skole, afdeling Bjergmark"",25,52,1,1,17,,23,,10,14,1,3,6,4,35,147,192,Holbæk Kommune,4300,Region Sjælland"
 2017-02-02,Holbæk Private Realskole,6,6,7,2,1,,7,,2,7,0,0,0,0,6,38,44,Holbæk Kommune,4300,Region Sjælland
 2017-02-02,Holmebækskolen,5,7,4,0,5,,0,,2,12,1,7,0,0,6,43,49,Køge Kommune,4681,Region Sjælland
 2017-02-02,Holte-Hus Efterskole,2,5,2,0,0,,1,,3,11,1,5,0,0,5,30,35,Rudersdal Kommune,2840,Region Hovedstaden
 2017-02-02,Hornbæk Skole,7,11,13,0,4,,11,,6,27,1,3,2,0,15,83,100,Randers Kommune,8920,Region Midtjylland
 2017-02-02,Hornslet Skole,13,11,19,0,4,,13,,18,22,5,6,2,7,15,111,135,Syddjurs Kommune,8543,Region Midtjylland
 2017-02-02,Hornum Skole,14,3,4,1,1,,4,,5,11,2,3,1,0,9,48,58,Vesthimmerlands Kommune,9600,Region Nordjylland
-2017-02-02,"Horsens Byskole, folkeskoleafdeling",6,3,13,0,1,,11,,7,0,4,6,2,1,30,51,84,Horsens Kommune,8700,Region Midtjylland
+"2017-02-02,""Horsens Byskole, folkeskoleafdeling"",6,3,13,0,1,,11,,7,0,4,6,2,1,30,51,84,Horsens Kommune,8700,Region Midtjylland"
 2017-02-02,Horslunde Realskole,3,0,5,0,2,,2,,5,7,0,1,1,1,6,25,33,Lolland Kommune,4913,Region Sjælland
 2017-02-02,Hovedgård Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Horsens Kommune,8732,Region Midtjylland
-2017-02-02,"Hovedgård Skole, folkeskoleafdeling",17,7,2,1,1,,11,,7,10,2,10,0,4,24,68,96,Horsens Kommune,8732,Region Midtjylland
+"2017-02-02,""Hovedgård Skole, folkeskoleafdeling"",17,7,2,1,1,,11,,7,10,2,10,0,4,24,68,96,Horsens Kommune,8732,Region Midtjylland"
 2017-02-02,Hover/Thorsted Friskole,1,0,0,0,0,,0,,1,6,0,2,0,0,0,10,10,Ringkøbing-Skjern Kommune,6980,Region Midtjylland
 2017-02-02,Humlebæk Lille Skole,3,6,2,0,3,,1,,0,2,6,1,0,0,8,24,32,Fredensborg Kommune,3050,Region Hovedstaden
 2017-02-02,Humlebæk Skole,15,28,4,1,7,,20,,4,17,8,18,0,2,21,122,145,Fredensborg Kommune,3050,Region Hovedstaden
@@ -1046,14 +1046,14 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Kirke Hyllinge Skole,5,4,15,0,5,,12,,6,10,4,2,1,4,7,63,75,Lejre Kommune,4070,Region Sjælland
 2017-02-02,Kirke Saaby Skole,9,4,9,0,0,,11,,1,7,0,1,0,0,0,42,42,Lejre Kommune,4060,Region Sjælland
 2017-02-02,Kirkebjerg Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Københavns Kommune,2720,Region Hovedstaden
-2017-02-02,"Kirstinebjergskolen, Havepladsvej",29,8,5,1,2,,16,,13,42,25,5,7,6,55,146,214,Fredericia Kommune,7000,Region Syddanmark
+"2017-02-02,""Kirstinebjergskolen, Havepladsvej"",29,8,5,1,2,,16,,13,42,25,5,7,6,55,146,214,Fredericia Kommune,7000,Region Syddanmark"
 2017-02-02,Kirstinedalsskolen,7,5,4,1,4,,14,,0,9,3,2,0,0,9,49,58,Køge Kommune,4600,Region Sjælland
 2017-02-02,Kjellerup Skole,8,7,33,1,12,,9,,14,37,1,1,4,0,14,123,141,Silkeborg Kommune,8620,Region Midtjylland
 2017-02-02,Klarup Skole,10,16,4,0,2,,3,,4,7,0,2,0,0,0,48,48,Aalborg Kommune,9270,Region Nordjylland
 2017-02-02,Klostermarksskolen,6,21,5,1,9,,10,,1,20,0,6,0,1,12,79,92,Roskilde Kommune,4000,Region Sjælland
 2017-02-02,Klovborg Friskole,1,2,2,0,0,,1,,6,3,0,3,0,0,0,18,18,Ikast-Brande Kommune,8765,Region Midtjylland
 2017-02-02,Kobberbakkeskolen,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
-2017-02-02,"Kobberbakkeskolen, afd. Sjølund",13,8,12,0,3,,10,,11,17,13,6,3,1,0,93,97,Næstved Kommune,4700,Region Sjælland
+"2017-02-02,""Kobberbakkeskolen, afd. Sjølund"",13,8,12,0,3,,10,,11,17,13,6,3,1,0,93,97,Næstved Kommune,4700,Region Sjælland"
 2017-02-02,Kokkedal Skole,33,30,3,1,3,,13,,9,11,15,6,2,0,16,124,142,Fredensborg Kommune,2980,Region Hovedstaden
 2017-02-02,Kolding Friskole,5,1,2,0,0,,4,,0,12,0,2,1,0,10,26,37,Kolding Kommune,6000,Region Syddanmark
 2017-02-02,Kolding Realskole,28,8,6,4,4,,17,,2,47,4,11,1,2,25,131,159,Kolding Kommune,6000,Region Syddanmark
@@ -1074,7 +1074,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Krogårdskolen,17,0,8,2,3,,2,,3,6,1,1,2,0,2,43,47,Greve Kommune,2670,Region Sjælland
 2017-02-02,Kroggårdsskolen,13,33,31,0,0,,3,,7,10,6,5,2,0,16,108,126,Odense Kommune,5270,Region Syddanmark
 2017-02-02,Kulsbjerg Skole,19,5,6,1,3,,5,,3,8,4,3,1,2,16,57,76,Vordingborg Kommune,4773,Region Sjælland
-2017-02-02,"Kulsbjerg Skole, Stensved",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4773,Region Sjælland
+"2017-02-02,""Kulsbjerg Skole, Stensved"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4773,Region Sjælland"
 2017-02-02,Kvikmarkens Privatskole,10,25,1,0,3,,10,,1,9,6,2,0,0,13,67,80,Gladsaxe Kommune,2860,Region Hovedstaden
 2017-02-02,Kystskolen,11,0,8,1,0,,5,,6,10,2,1,0,0,4,44,48,Nordfyns Kommune,5450,Region Syddanmark
 2017-02-02,Københavns Idrætsefterskole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Københavns Kommune,2450,Region Hovedstaden
@@ -1090,7 +1090,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Laursens Realskole,11,7,4,2,1,,21,,0,6,0,5,1,1,6,57,65,Aarhus Kommune,8000,Region Midtjylland
 2017-02-02,Lille Egede Friskole,8,6,2,0,0,,1,,1,14,0,0,0,0,8,32,40,Slagelse Kommune,4242,Region Sjælland
 2017-02-02,Lille Næstved Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
-2017-02-02,"Lille Næstved Skole, afd. Herlufsholmsvej",7,12,45,4,2,,65,,10,35,4,7,5,3,38,191,237,Næstved Kommune,4700,Region Sjælland
+"2017-02-02,""Lille Næstved Skole, afd. Herlufsholmsvej"",7,12,45,4,2,,65,,10,35,4,7,5,3,38,191,237,Næstved Kommune,4700,Region Sjælland"
 2017-02-02,Lille Værløse Skole,19,9,4,6,5,,6,,3,10,3,6,3,0,10,71,84,Furesø Kommune,3500,Region Hovedstaden
 2017-02-02,Lillerød Skole,11,0,0,1,0,,3,,0,2,0,0,0,0,53,17,70,Allerød Kommune,3450,Region Hovedstaden
 2017-02-02,Lind Skole,25,5,24,3,1,,13,,20,52,2,5,1,4,12,150,167,Herning Kommune,7400,Region Midtjylland
@@ -1106,7 +1106,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Lundtofte Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
 2017-02-02,Lykkebo Skole,21,6,1,0,8,,3,,4,4,7,13,1,0,1,67,69,Københavns Kommune,2500,Region Hovedstaden
 2017-02-02,Lykkesgårdskolen,3,21,11,1,6,,9,,8,5,1,5,0,4,16,70,90,Varde Kommune,6800,Region Syddanmark
-2017-02-02,"Lyngby 10. klasse, Knord",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
+"2017-02-02,""Lyngby 10. klasse, Knord"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden"
 2017-02-02,Lynge Skole,13,12,22,5,6,,26,,5,38,1,5,1,1,20,133,155,Allerød Kommune,3540,Region Hovedstaden
 2017-02-02,Lyngholmskolen,7,5,2,0,2,,8,,0,2,2,2,1,0,16,30,47,Furesø Kommune,3520,Region Hovedstaden
 2017-02-02,Lærkeskolen,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Egedal Kommune,3660,Region Hovedstaden
@@ -1131,9 +1131,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Mentiqa-Nordjylland,0,5,0,0,2,,3,,5,4,1,1,3,0,2,21,26,Aalborg Kommune,9400,Region Nordjylland
 2017-02-02,Middelfart Friskole,0,7,0,0,1,,2,,2,5,6,3,5,0,3,26,34,Middelfart Kommune,5500,Region Syddanmark
 2017-02-02,Midtsjællands Efterskole,15,31,2,3,14,,4,,6,3,9,13,3,0,10,100,113,Lejre Kommune,4330,Region Sjælland
-2017-02-02,"Midtskolen, Bavne afdeling",14,2,7,0,1,,3,,2,17,1,2,0,0,4,49,53,Faxe Kommune,4690,Region Sjælland
-2017-02-02,"Midtskolen, Møllevang afdeling",5,3,4,0,0,,3,,7,5,0,0,0,0,7,27,34,Faxe Kommune,4683,Region Sjælland
-2017-02-02,"Midtskolen, Sofiendal afdeling",1,9,5,0,8,,9,,6,13,13,7,2,2,35,71,110,Faxe Kommune,4690,Region Sjælland
+"2017-02-02,""Midtskolen, Bavne afdeling"",14,2,7,0,1,,3,,2,17,1,2,0,0,4,49,53,Faxe Kommune,4690,Region Sjælland"
+"2017-02-02,""Midtskolen, Møllevang afdeling"",5,3,4,0,0,,3,,7,5,0,0,0,0,7,27,34,Faxe Kommune,4683,Region Sjælland"
+"2017-02-02,""Midtskolen, Sofiendal afdeling"",1,9,5,0,8,,9,,6,13,13,7,2,2,35,71,110,Faxe Kommune,4690,Region Sjælland"
 2017-02-02,Muldbjerg undervisningssted,33,8,25,4,6,,14,,23,9,25,9,0,2,22,156,180,Hjørring Kommune,9800,Region Nordjylland
 2017-02-02,Munkebo Skole - mellem nor og fjord,18,5,5,2,7,,3,,14,11,2,3,6,4,15,70,95,Kerteminde Kommune,5330,Region Syddanmark
 2017-02-02,Munkegårdsskolen,7,9,25,1,12,,3,,1,2,15,0,0,0,11,75,86,Gentofte Kommune,2870,Region Hovedstaden
@@ -1142,10 +1142,10 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Munkholmskolen,6,2,6,0,0,,4,,6,15,0,0,3,0,11,39,53,Randers Kommune,8870,Region Midtjylland
 2017-02-02,Musikefterskolen i Humble,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Langeland Kommune,5932,Region Syddanmark
 2017-02-02,Mølholm Skole,8,37,6,0,3,,10,,4,13,1,3,1,0,14,85,100,Vejle Kommune,7100,Region Syddanmark
-2017-02-02,"Møn Skole, Stege",10,3,8,0,0,,1,,3,9,2,3,4,1,16,39,60,Vordingborg Kommune,4780,Region Sjælland
+"2017-02-02,""Møn Skole, Stege"",10,3,8,0,0,,1,,3,9,2,3,4,1,16,39,60,Vordingborg Kommune,4780,Region Sjælland"
 2017-02-02,Mørdrupskolen,15,9,9,0,0,,8,,1,1,0,4,1,0,7,47,55,Helsingør Kommune,3060,Region Hovedstaden
 2017-02-02,Mørkhøj Skole,6,2,2,0,3,,2,,4,1,22,1,6,1,0,43,50,Gladsaxe Kommune,2860,Region Hovedstaden
-2017-02-02,"NEXT Uddannelse København, 10. klasse",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Ballerup Kommune,2750,Region Hovedstaden
+"2017-02-02,""NEXT Uddannelse København, 10. klasse"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Ballerup Kommune,2750,Region Hovedstaden"
 2017-02-02,Nibe Skole,24,12,20,0,7,,4,,10,28,12,1,1,1,20,118,140,Aalborg Kommune,9240,Region Nordjylland
 2017-02-02,Niels Ebbesen Skolen,27,23,22,3,4,,14,,23,47,4,24,1,4,19,191,215,Skanderborg Kommune,8660,Region Midtjylland
 2017-02-02,Niels Steensens Gymnasium,24,41,11,7,11,,25,,3,14,18,12,2,1,21,166,190,Københavns Kommune,2100,Region Hovedstaden
@@ -1158,8 +1158,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Nordskolen - afdeling Nykøbing,25,5,2,8,0,,15,,15,8,8,12,2,1,41,98,142,Odsherred Kommune,4500,Region Sjælland
 2017-02-02,Nordstjerneskolen,6,10,19,1,5,,17,,12,20,12,6,14,2,56,108,180,Gribskov Kommune,3200,Region Hovedstaden
 2017-02-02,Nordvestskolen,5,1,12,2,2,,7,,10,13,3,5,0,1,14,60,75,Helsingør Kommune,3000,Region Hovedstaden
-2017-02-02,"Nordvestskolen, Ravnsborg afdeling",18,0,9,1,2,,1,,10,1,0,0,1,2,11,42,56,Lolland Kommune,4913,Region Sjælland
-2017-02-02,"Nordvestskolen, Stormark afdeling",8,4,25,0,1,,1,,12,29,9,2,1,0,11,91,103,Lolland Kommune,4900,Region Sjælland
+"2017-02-02,""Nordvestskolen, Ravnsborg afdeling"",18,0,9,1,2,,1,,10,1,0,0,1,2,11,42,56,Lolland Kommune,4913,Region Sjælland"
+"2017-02-02,""Nordvestskolen, Stormark afdeling"",8,4,25,0,1,,1,,12,29,9,2,1,0,11,91,103,Lolland Kommune,4900,Region Sjælland"
 2017-02-02,Nr Lyndelse Friskole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Faaborg-Midtfyn Kommune,5792,Region Syddanmark
 2017-02-02,Nr. Nissum Skole,12,0,14,0,1,,4,,0,7,0,0,1,0,7,38,46,Lemvig Kommune,7620,Region Midtjylland
 2017-02-02,Ny Hollænderskolen,27,24,7,1,11,,14,,0,14,4,20,7,3,30,122,162,Frederiksberg Kommune,1855,Region Hovedstaden
@@ -1210,7 +1210,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Roslev Skole,9,6,44,3,2,,15,,2,24,2,0,0,4,7,107,118,Skive Kommune,7870,Region Midtjylland
 2017-02-02,Rosmus Skole,6,15,15,0,3,,6,,7,4,0,12,0,1,12,68,81,Syddjurs Kommune,8444,Region Midtjylland
 2017-02-02,Rudolf Steiner skolen i Silkeborg,0,1,0,0,1,,0,,0,0,3,13,0,0,3,18,21,Silkeborg Kommune,8600,Region Midtjylland
-2017-02-02,"Rudolf Steiner Skolen, Skanderborg",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Skanderborg Kommune,8660,Region Midtjylland
+"2017-02-02,""Rudolf Steiner Skolen, Skanderborg"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Skanderborg Kommune,8660,Region Midtjylland"
 2017-02-02,Ruds Vedby Skole,5,5,2,0,1,,1,,4,6,1,1,1,1,7,26,35,Sorø Kommune,4291,Region Sjælland
 2017-02-02,Rundhøjskolen,11,2,7,1,0,,3,,13,7,3,9,1,1,14,56,72,Aarhus Kommune,8270,Region Midtjylland
 2017-02-02,Rungsted Private Realskole,10,28,23,1,0,,45,,3,13,2,1,0,1,43,126,170,Hørsholm Kommune,2960,Region Hovedstaden
@@ -1220,8 +1220,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Rødding Skole,14,5,6,3,1,,11,,15,28,0,7,7,2,18,90,117,Vejen Kommune,6630,Region Syddanmark
 2017-02-02,Rønbækskolen,12,21,17,2,7,,31,,1,11,7,11,2,0,21,120,143,Favrskov Kommune,8382,Region Midtjylland
 2017-02-02,Rønneskolen,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Bornholms Regionskommune,3700,Region Hovedstaden
-2017-02-02,"Rønneskolen, afdeling Åvang",14,1,17,0,9,,13,,19,12,15,2,3,0,17,102,122,Bornholms Regionskommune,3700,Region Hovedstaden
-2017-02-02,"Rønneskolen, afdeling Søndermark",15,2,11,2,2,,29,,13,21,5,3,1,3,24,103,131,Bornholms Regionskommune,3700,Region Hovedstaden
+"2017-02-02,""Rønneskolen, afdeling Åvang"",14,1,17,0,9,,13,,19,12,15,2,3,0,17,102,122,Bornholms Regionskommune,3700,Region Hovedstaden"
+"2017-02-02,""Rønneskolen, afdeling Søndermark"",15,2,11,2,2,,29,,13,21,5,3,1,3,24,103,131,Bornholms Regionskommune,3700,Region Hovedstaden"
 2017-02-02,Rørvig Friskole,1,4,2,1,1,,0,,2,1,1,13,0,0,7,26,33,Odsherred Kommune,4581,Region Sjælland
 2017-02-02,Sabro-Korsvejskolen,4,13,6,0,1,,0,,6,7,1,7,13,1,1,45,60,Aarhus Kommune,8471,Region Midtjylland
 2017-02-02,Salix Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Københavns Kommune,2500,Region Hovedstaden
@@ -1322,12 +1322,12 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Stubbæk Skole,4,8,0,0,4,,0,,10,14,1,0,2,0,5,41,48,Aabenraa Kommune,6200,Region Syddanmark
 2017-02-02,Studie 10,58,9,11,0,14,,36,,13,2,2,3,9,0,18,148,175,Esbjerg Kommune,6715,Region Syddanmark
 2017-02-02,Suldrup Skole,9,5,4,1,1,,11,,11,5,0,1,4,0,6,48,58,Rebild Kommune,9541,Region Nordjylland
-2017-02-02,"Svend Gønge-Skolen, Lundby",6,5,5,2,0,,6,,16,18,0,1,0,0,6,59,65,Vordingborg Kommune,4750,Region Sjælland
+"2017-02-02,""Svend Gønge-Skolen, Lundby"",6,5,5,2,0,,6,,16,18,0,1,0,0,6,59,65,Vordingborg Kommune,4750,Region Sjælland"
 2017-02-02,Sydbornholms Privatskole,5,0,0,0,2,,3,,5,1,0,4,0,0,5,20,25,Bornholms Regionskommune,3720,Region Hovedstaden
 2017-02-02,Syddjurs Friskole,6,15,3,0,0,,1,,2,2,0,3,1,0,5,32,38,Syddjurs Kommune,8410,Region Midtjylland
-2017-02-02,"Sydskolen, afdeling Asnæs",15,5,11,0,1,,4,,8,23,4,1,5,1,0,72,78,Odsherred Kommune,4550,Region Sjælland
-2017-02-02,"Sydskolen, afdeling Fårevejle",2,0,1,1,0,,5,,9,13,0,0,1,3,17,31,52,Odsherred Kommune,4540,Region Sjælland
-2017-02-02,"Sydskolen, afdeling Vig",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Odsherred Kommune,4560,Region Sjælland
+"2017-02-02,""Sydskolen, afdeling Asnæs"",15,5,11,0,1,,4,,8,23,4,1,5,1,0,72,78,Odsherred Kommune,4550,Region Sjælland"
+"2017-02-02,""Sydskolen, afdeling Fårevejle"",2,0,1,1,0,,5,,9,13,0,0,1,3,17,31,52,Odsherred Kommune,4540,Region Sjælland"
+"2017-02-02,""Sydskolen, afdeling Vig"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Odsherred Kommune,4560,Region Sjælland"
 2017-02-02,Sydvestmors Friskole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Morsø Kommune,7960,Region Nordjylland
 2017-02-02,Syvstjerneskolen,2,38,10,8,3,,10,,6,9,0,10,0,0,0,96,96,Furesø Kommune,3500,Region Hovedstaden
 2017-02-02,Søagerskolen,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Egedal Kommune,2765,Region Hovedstaden
@@ -1344,7 +1344,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Søndervangskolen,22,3,14,4,4,,8,,23,2,13,1,0,1,22,94,117,Favrskov Kommune,8450,Region Midtjylland
 2017-02-02,Søndre Skole,15,2,40,1,0,,2,,0,27,0,0,5,2,16,87,110,Viborg Kommune,8800,Region Midtjylland
 2017-02-02,Søndre Skole,14,10,13,0,11,,9,,8,12,8,2,0,0,6,87,93,Køge Kommune,4600,Region Sjælland
-2017-02-02,"Søndre Skole, Rødby",10,1,2,0,0,,28,,24,8,5,2,8,2,15,80,105,Lolland Kommune,4970,Region Sjælland
+"2017-02-02,""Søndre Skole, Rødby"",10,1,2,0,0,,28,,24,8,5,2,8,2,15,80,105,Lolland Kommune,4970,Region Sjælland"
 2017-02-02,Taastrup Realskole,20,39,2,0,0,,11,,12,10,9,1,2,3,41,104,150,Høje-Taastrup Kommune,2630,Region Hovedstaden
 2017-02-02,Tallerupskolen,17,11,10,1,3,,4,,7,20,12,2,3,0,0,87,90,Assens Kommune,5690,Region Syddanmark
 2017-02-02,Tangsø skole,1,1,8,0,0,,4,,1,5,0,1,0,0,1,21,22,Lemvig Kommune,7660,Region Midtjylland
@@ -1372,13 +1372,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Trongårdsskolen,4,45,23,3,5,,21,,8,13,7,5,5,10,29,134,178,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
 2017-02-02,Trællerupskolen,8,11,4,0,1,,15,,3,2,5,0,8,1,7,49,65,Lejre Kommune,4000,Region Sjælland
 2017-02-02,Tvis Skole,26,11,3,6,3,,8,,21,26,2,4,0,0,0,110,110,Holstebro Kommune,7500,Region Midtjylland
-2017-02-02,"Tølløse Privat- og Efterskole, Baptisternes Skoler",30,12,3,0,4,,16,,19,8,15,14,9,1,36,121,167,Holbæk Kommune,4340,Region Sjælland
+"2017-02-02,""Tølløse Privat- og Efterskole, Baptisternes Skoler"",30,12,3,0,4,,16,,19,8,15,14,9,1,36,121,167,Holbæk Kommune,4340,Region Sjælland"
 2017-02-02,Tømmerup Fri- og Efterskole,4,2,0,3,6,,0,,12,6,1,3,0,2,3,37,42,Kalundborg Kommune,4400,Region Sjælland
 2017-02-02,Tømmerup Fri- og Efterskole,15,10,0,0,6,,4,,8,2,6,7,1,0,14,58,73,Kalundborg Kommune,4400,Region Sjælland
 2017-02-02,Tønder Overbygningsskole,17,20,111,5,15,,20,,20,24,7,5,14,7,60,244,325,Tønder Kommune,6270,Region Syddanmark
 2017-02-02,Tønning-Træden Friskole,4,0,5,0,0,,7,,2,3,1,0,1,0,2,22,25,Horsens Kommune,8740,Region Midtjylland
 2017-02-02,Tørring Skole,6,6,22,0,24,,26,,10,22,4,8,4,2,16,128,150,Hedensted Kommune,7160,Region Midtjylland
-2017-02-02,"UCSJ, Campus Roskilde",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Roskilde Kommune,4000,Region Sjælland
+"2017-02-02,""UCSJ, Campus Roskilde"",0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Roskilde Kommune,4000,Region Sjælland"
 2017-02-02,Uddannelsescenter Nygård - 10.Klasseskolen,9,1,3,0,0,,4,,1,3,2,0,3,0,0,23,26,Brøndby Kommune,2605,Region Hovedstaden
 2017-02-02,Uglegårdsskolen,20,10,8,12,8,,55,,10,31,9,11,3,4,29,174,210,Solrød Kommune,2680,Region Sjælland
 2017-02-02,Uhre Friskole,5,3,4,0,0,,2,,2,9,0,0,2,0,2,25,29,Ikast-Brande Kommune,7330,Region Midtjylland
@@ -1409,7 +1409,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Vestre Skole,20,12,5,3,6,,9,,9,7,4,9,0,3,3,84,90,Silkeborg Kommune,8600,Region Midtjylland
 2017-02-02,Vestre Skole,8,3,4,2,3,,6,,3,12,3,18,1,0,7,62,70,Middelfart Kommune,5500,Region Syddanmark
 2017-02-02,Vestsalling Skole og Dagtilbud,9,10,34,0,2,,2,,5,22,1,2,4,0,9,87,100,Skive Kommune,7860,Region Midtjylland
-2017-02-02,"Vestskolen, Nordskov afdeling",32,26,21,5,6,,37,,10,31,2,7,1,1,31,177,210,Faxe Kommune,4690,Region Sjælland
+"2017-02-02,""Vestskolen, Nordskov afdeling"",32,26,21,5,6,,37,,10,31,2,7,1,1,31,177,210,Faxe Kommune,4690,Region Sjælland"
 2017-02-02,Vibeholmskolen,11,11,5,0,1,,16,,0,5,9,8,0,0,0,66,66,Ishøj Kommune,2635,Region Hovedstaden
 2017-02-02,Vibeskolen,18,3,2,0,23,,3,,12,10,17,0,4,0,0,88,92,Nyborg Kommune,5540,Region Syddanmark
 2017-02-02,Viby Skole,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,Aarhus Kommune,8260,Region Midtjylland
@@ -1437,9 +1437,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2017-02-02,Østre Skole,16,4,7,2,0,,12,,2,15,13,6,1,0,14,77,92,Middelfart Kommune,5500,Region Syddanmark
 2017-02-02,Østre Skole,5,4,19,0,8,,2,,5,36,3,3,4,0,13,85,102,Thisted Kommune,7700,Region Nordjylland
 2017-02-02,Østre Skole,16,6,1,0,2,,18,,16,20,8,6,1,2,5,93,101,Guldborgsund Kommune,4800,Region Sjælland
-2017-02-02,"Østskolen, afd. Hylleholt",11,4,20,0,13,,3,,2,6,8,4,0,0,9,71,80,Faxe Kommune,4654,Region Sjælland
-2017-02-02,"Østskolen, afd. Karise",16,8,1,0,4,,2,,9,13,4,1,1,0,16,58,75,Faxe Kommune,4653,Region Sjælland
-2017-02-02,"Østskolen, afd. Rollo",6,3,0,0,0,,33,,3,3,2,0,0,1,0,50,51,Faxe Kommune,4640,Region Sjælland
+"2017-02-02,""Østskolen, afd. Hylleholt"",11,4,20,0,13,,3,,2,6,8,4,0,0,9,71,80,Faxe Kommune,4654,Region Sjælland"
+"2017-02-02,""Østskolen, afd. Karise"",16,8,1,0,4,,2,,9,13,4,1,1,0,16,58,75,Faxe Kommune,4653,Region Sjælland"
+"2017-02-02,""Østskolen, afd. Rollo"",6,3,0,0,0,,33,,3,3,2,0,0,1,0,50,51,Faxe Kommune,4640,Region Sjælland"
 2019-01-31,10 i Campus,30,3,5,8,2,,5,3,19,16,2,5,5,2,20,98,125,Varde Kommune,6800,Region Syddanmark
 2019-01-31,10. klasse Aabenraa,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Aabenraa Kommune,6200,Region Syddanmark
 2019-01-31,10. klasse Campus Køge,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Køge Kommune,4600,Region Sjælland
@@ -1495,7 +1495,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Assentoftskolen,23,13,3,3,0,,16,0,1,50,0,1,1,0,14,110,125,Randers Kommune,8960,Region Midtjylland
 2019-01-31,Atheneskolen,4,13,7,1,3,,0,0,0,7,0,0,1,0,4,35,40,Gladsaxe Kommune,2860,Region Hovedstaden
 2019-01-31,Augustenborg Skole,17,9,2,2,2,,8,3,14,7,3,2,7,1,17,69,94,Sønderborg Kommune,6440,Region Syddanmark
-2019-01-31,"Aulum-Hodsager Skole, Aulum",17,5,12,1,0,,1,0,2,32,0,1,0,0,7,71,78,Herning Kommune,7490,Region Midtjylland
+"2019-01-31,""Aulum-Hodsager Skole, Aulum"",17,5,12,1,0,,1,0,2,32,0,1,0,0,7,71,78,Herning Kommune,7490,Region Midtjylland"
 2019-01-31,Auning Skole,23,10,0,6,2,,8,3,25,9,2,6,5,0,19,94,118,Norddjurs Kommune,8963,Region Midtjylland
 2019-01-31,Avedøre Skole,4,25,4,1,1,,14,1,3,9,5,2,0,0,61,69,130,Hvidovre Kommune,2650,Region Hovedstaden
 2019-01-31,Baggesenskolen,15,1,6,0,3,,9,1,7,36,1,3,3,1,24,82,110,Slagelse Kommune,4220,Region Sjælland
@@ -1525,8 +1525,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Bjerget Efterskole,6,8,4,0,4,,4,2,6,5,6,5,4,0,5,50,59,Thisted Kommune,7741,Region Nordjylland
 2019-01-31,Bjørnehøjskolen,2,3,14,0,0,,1,0,3,11,0,0,3,1,0,34,38,Gribskov Kommune,3200,Region Hovedstaden
 2019-01-31,Blåbjergskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Varde Kommune,6830,Region Syddanmark
-2019-01-31,"Blåbjergskolen, Lunde-Kvong afdeling",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Varde Kommune,6830,Region Syddanmark
-2019-01-31,"Blåbjergskolen, Nr. Nebel afd.",10,7,6,0,1,,7,1,35,13,2,0,0,0,16,82,98,Varde Kommune,6830,Region Syddanmark
+"2019-01-31,""Blåbjergskolen, Lunde-Kvong afdeling"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Varde Kommune,6830,Region Syddanmark"
+"2019-01-31,""Blåbjergskolen, Nr. Nebel afd."",10,7,6,0,1,,7,1,35,13,2,0,0,0,16,82,98,Varde Kommune,6830,Region Syddanmark"
 2019-01-31,Blåvandshuk Skole,31,9,10,4,5,,10,6,45,27,7,4,3,5,29,158,195,Varde Kommune,6840,Region Syddanmark
 2019-01-31,Blicherskolen,32,3,1,0,0,,10,0,3,29,2,0,4,0,6,80,90,Randers Kommune,8981,Region Midtjylland
 2019-01-31,Blovstrød Skole,23,0,6,0,4,,1,0,5,14,3,2,2,0,6,58,66,Allerød Kommune,3450,Region Hovedstaden
@@ -1543,7 +1543,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Brobyskolerne,10,7,9,1,3,,9,0,12,10,0,3,5,1,2,64,72,Faaborg-Midtfyn Kommune,5672,Region Syddanmark
 2019-01-31,Brorsonskolen,20,5,10,1,1,,14,2,12,25,2,4,0,0,10,96,106,Varde Kommune,6800,Region Syddanmark
 2019-01-31,Broskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Slagelse Kommune,4220,Region Sjælland
-2019-01-31,"Brovandeskolen, Den Lille Skole i Skagen",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Frederikshavn Kommune,9990,Region Nordjylland
+"2019-01-31,""Brovandeskolen, Den Lille Skole i Skagen"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Frederikshavn Kommune,9990,Region Nordjylland"
 2019-01-31,Brovst Skole,7,17,3,0,0,,0,0,10,18,0,0,1,0,11,55,67,Jammerbugt Kommune,9460,Region Nordjylland
 2019-01-31,Bryndum Skole Aura,4,2,2,2,1,,4,0,7,11,4,0,0,0,39,37,76,Esbjerg Kommune,6715,Region Syddanmark
 2019-01-31,Brædstrup Skole,15,10,15,2,1,,11,2,15,14,1,4,3,1,14,90,108,Horsens Kommune,8740,Region Midtjylland
@@ -1561,7 +1561,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Byplanvejens Skole,24,4,1,0,10,,1,0,4,14,0,3,1,0,4,61,66,Aalborg Kommune,9210,Region Nordjylland
 2019-01-31,Byskolen,7,17,3,0,1,,0,1,7,1,1,3,1,0,23,41,65,Helsingør Kommune,3000,Region Hovedstaden
 2019-01-31,Byskovskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Ringsted Kommune,4100,Region Sjælland
-2019-01-31,"Byskovskolen, afd. Benløse",16,6,25,3,4,,2,1,6,9,2,3,5,2,24,77,108,Ringsted Kommune,4100,Region Sjælland
+"2019-01-31,""Byskovskolen, afd. Benløse"",16,6,25,3,4,,2,1,6,9,2,3,5,2,24,77,108,Ringsted Kommune,4100,Region Sjælland"
 2019-01-31,Bække Skole,10,7,4,0,0,,0,2,3,17,0,2,0,0,2,45,47,Vejen Kommune,6622,Region Syddanmark
 2019-01-31,Bækkegårdsskolen,21,7,6,2,2,,3,0,5,7,1,5,0,0,0,59,59,Egedal Kommune,3650,Region Hovedstaden
 2019-01-31,Bøgeskovskolen,15,5,28,0,4,,7,3,15,16,1,7,1,0,18,101,120,Viborg Kommune,8850,Region Midtjylland
@@ -1585,18 +1585,18 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Deutsche Privatschule Apenrade,5,5,5,0,0,,13,0,2,14,2,0,0,0,6,46,52,Aabenraa Kommune,6200,Region Syddanmark
 2019-01-31,Deutsche Schule Sonderburg,10,3,0,0,9,,14,0,1,8,3,3,1,0,5,51,57,Sønderborg Kommune,6400,Region Syddanmark
 2019-01-31,DIA Privatskole,5,5,1,0,0,,17,0,0,1,5,0,0,1,12,34,47,Københavns Kommune,2200,Region Hovedstaden
-2019-01-31,"Distrikt Nord, Aalbæk skoleafdeling",2,1,3,0,1,,0,0,7,4,4,0,0,3,20,22,45,Frederikshavn Kommune,9982,Region Nordjylland
-2019-01-31,"Distrikt Nord, Skagen skoleafdeling",28,0,23,3,5,,8,0,8,1,1,0,1,0,6,77,84,Frederikshavn Kommune,9990,Region Nordjylland
-2019-01-31,"Distrikt Nord, Strandby skoleafdeling",19,6,9,1,3,,5,2,12,14,2,1,1,0,17,74,92,Frederikshavn Kommune,9970,Region Nordjylland
+"2019-01-31,""Distrikt Nord, Aalbæk skoleafdeling"",2,1,3,0,1,,0,0,7,4,4,0,0,3,20,22,45,Frederikshavn Kommune,9982,Region Nordjylland"
+"2019-01-31,""Distrikt Nord, Skagen skoleafdeling"",28,0,23,3,5,,8,0,8,1,1,0,1,0,6,77,84,Frederikshavn Kommune,9990,Region Nordjylland"
+"2019-01-31,""Distrikt Nord, Strandby skoleafdeling"",19,6,9,1,3,,5,2,12,14,2,1,1,0,17,74,92,Frederikshavn Kommune,9970,Region Nordjylland"
 2019-01-31,Distrikt Vest,4,2,8,0,0,,0,0,10,13,1,0,1,0,8,38,47,Frederikshavn Kommune,9900,Region Nordjylland
-2019-01-31,"Distrikt Vest, Bangsbostrand afdeling",19,13,26,0,2,,5,2,14,13,8,0,2,0,21,102,125,Frederikshavn Kommune,9900,Region Nordjylland
-2019-01-31,"Distrikt Vest, Ravnshøj skoleafdeling",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Frederikshavn Kommune,9900,Region Nordjylland
-2019-01-31,"Distrikt Øst, Frydenstrand skoleafdeling",11,7,9,1,18,,11,0,25,43,2,0,2,3,30,127,162,Frederikshavn Kommune,9900,Region Nordjylland
-2019-01-31,"Distrikt Øst, Nordstjernen skoleafdeling",24,12,0,0,14,,14,5,2,28,3,6,3,0,35,108,146,Frederikshavn Kommune,9900,Region Nordjylland
+"2019-01-31,""Distrikt Vest, Bangsbostrand afdeling"",19,13,26,0,2,,5,2,14,13,8,0,2,0,21,102,125,Frederikshavn Kommune,9900,Region Nordjylland"
+"2019-01-31,""Distrikt Vest, Ravnshøj skoleafdeling"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Frederikshavn Kommune,9900,Region Nordjylland"
+"2019-01-31,""Distrikt Øst, Frydenstrand skoleafdeling"",11,7,9,1,18,,11,0,25,43,2,0,2,3,30,127,162,Frederikshavn Kommune,9900,Region Nordjylland"
+"2019-01-31,""Distrikt Øst, Nordstjernen skoleafdeling"",24,12,0,0,14,,14,5,2,28,3,6,3,0,35,108,146,Frederikshavn Kommune,9900,Region Nordjylland"
 2019-01-31,Distriktsskolen,4,2,5,2,1,,0,3,5,42,1,0,0,0,16,65,81,Tønder Kommune,6240,Region Syddanmark
-2019-01-31,"Distriktsskolen Vest, Stormarkafdelingen",37,9,5,1,5,,3,1,12,21,2,1,2,1,24,97,124,Lolland Kommune,4900,Region Sjælland
-2019-01-31,"Distriktsskolen Øst, Borgerskoleafdelingen",33,2,21,4,12,,25,1,19,3,6,1,7,0,12,127,146,Lolland Kommune,4930,Region Sjælland
-2019-01-31,"Distriktsskolen Øst, Rødbyafdelingen",7,5,5,7,3,,1,3,6,5,2,0,0,0,50,44,94,Lolland Kommune,4970,Region Sjælland
+"2019-01-31,""Distriktsskolen Vest, Stormarkafdelingen"",37,9,5,1,5,,3,1,12,21,2,1,2,1,24,97,124,Lolland Kommune,4900,Region Sjælland"
+"2019-01-31,""Distriktsskolen Øst, Borgerskoleafdelingen"",33,2,21,4,12,,25,1,19,3,6,1,7,0,12,127,146,Lolland Kommune,4930,Region Sjælland"
+"2019-01-31,""Distriktsskolen Øst, Rødbyafdelingen"",7,5,5,7,3,,1,3,6,5,2,0,0,0,50,44,94,Lolland Kommune,4970,Region Sjælland"
 2019-01-31,Dragør Skole,13,7,5,0,1,,17,3,4,18,0,2,0,0,9,70,79,Dragør Kommune,2791,Region Hovedstaden
 2019-01-31,Dronninggårdskolen,4,8,6,0,11,,28,0,2,9,0,1,1,0,5,69,75,Rudersdal Kommune,2840,Region Hovedstaden
 2019-01-31,Dronninglund Skole,14,31,39,0,0,,3,3,15,23,2,3,1,0,16,133,150,Brønderslev Kommune,9330,Region Nordjylland
@@ -1624,11 +1624,11 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Enghavegård Skole,39,16,13,1,16,,23,1,10,26,9,17,10,5,46,171,232,Gladsaxe Kommune,2860,Region Hovedstaden
 2019-01-31,Enghaveskolen - Faaborg Friskole,9,4,3,0,14,,2,0,3,3,19,6,2,0,2,63,67,Faaborg-Midtfyn Kommune,5600,Region Syddanmark
 2019-01-31,Engstrandskolen,35,4,7,6,8,,9,1,20,11,9,13,7,1,56,123,187,Hvidovre Kommune,2650,Region Hovedstaden
-2019-01-31,"Erritsø Fællesskole, Erritsø Bygade",59,10,22,1,5,,10,2,8,35,10,2,13,3,109,164,289,Fredericia Kommune,7000,Region Syddanmark
+"2019-01-31,""Erritsø Fællesskole, Erritsø Bygade"",59,10,22,1,5,,10,2,8,35,10,2,13,3,109,164,289,Fredericia Kommune,7000,Region Syddanmark"
 2019-01-31,Esbjerg Ungdomsskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Esbjerg Kommune,6715,Region Syddanmark
 2019-01-31,Fanø Skole,8,0,19,1,1,,7,0,2,2,3,6,2,1,6,49,58,Fanø Kommune,6720,Region Syddanmark
 2019-01-31,Farstrup Skole,1,2,4,0,0,,1,1,7,3,1,1,12,1,2,21,36,Aalborg Kommune,9240,Region Nordjylland
-2019-01-31,"Farsø Efterskole, Eftersk. ved Risgårde Bredning",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Vesthimmerlands Kommune,9640,Region Nordjylland
+"2019-01-31,""Farsø Efterskole, Eftersk. ved Risgårde Bredning"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Vesthimmerlands Kommune,9640,Region Nordjylland"
 2019-01-31,Farsø Skole,15,7,32,1,2,,0,0,22,10,6,0,7,0,28,95,130,Vesthimmerlands Kommune,9640,Region Nordjylland
 2019-01-31,Fårup Skole,10,1,1,1,5,,2,0,27,2,1,2,0,1,2,52,55,Randers Kommune,8990,Region Midtjylland
 2019-01-31,Fårvang Skole,12,4,7,0,0,,26,2,7,19,1,1,0,0,16,79,95,Silkeborg Kommune,8882,Region Midtjylland
@@ -1641,10 +1641,10 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Firkløverskolen,9,0,4,0,1,,1,1,4,3,1,2,0,0,14,26,40,Randers Kommune,8920,Region Midtjylland
 2019-01-31,Fjerritslev Skole,45,15,1,0,8,,28,0,15,28,0,3,3,3,0,143,149,Jammerbugt Kommune,9690,Region Nordjylland
 2019-01-31,Fjordbakkeskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Fredericia Kommune,7000,Region Syddanmark
-2019-01-31,"Fjordbakkeskolen, afdeling Taulov",28,14,14,2,4,,17,1,11,18,11,6,7,0,21,126,154,Fredericia Kommune,7000,Region Syddanmark
+"2019-01-31,""Fjordbakkeskolen, afdeling Taulov"",28,14,14,2,4,,17,1,11,18,11,6,7,0,21,126,154,Fredericia Kommune,7000,Region Syddanmark"
 2019-01-31,Fjordlandsskolen,16,17,12,0,2,,12,0,9,13,1,0,2,0,27,82,111,Frederikssund Kommune,4050,Region Hovedstaden
 2019-01-31,Fjordskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Aabenraa Kommune,6200,Region Syddanmark
-2019-01-31,"Fladsåskolen, afd. Mogenstrup",26,5,9,7,4,,4,3,7,11,2,1,0,0,6,79,85,Næstved Kommune,4700,Region Sjælland
+"2019-01-31,""Fladsåskolen, afd. Mogenstrup"",26,5,9,7,4,,4,3,7,11,2,1,0,0,6,79,85,Næstved Kommune,4700,Region Sjælland"
 2019-01-31,Forberedelsesskolen,23,10,2,2,1,,17,1,12,20,2,3,4,0,13,93,110,Randers Kommune,8900,Region Midtjylland
 2019-01-31,Forlev Friskole,6,1,3,3,0,,0,1,6,13,2,1,0,0,4,36,40,Slagelse Kommune,4241,Region Sjælland
 2019-01-31,Forældreskolen i Aarhus,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Aarhus Kommune,8000,Region Midtjylland
@@ -1654,8 +1654,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Frederiksberg Privatskole,24,15,6,2,6,,20,2,6,20,2,5,5,0,0,108,113,Rødovre Kommune,2610,Region Hovedstaden
 2019-01-31,Frederiksborg Byskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Hillerød Kommune,3400,Region Hovedstaden
 2019-01-31,Frederiksodde Skole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Fredericia Kommune,7000,Region Syddanmark
-2019-01-31,"Frederiksodde skole, Indre Ringvej",1,5,1,0,3,,1,0,0,0,0,3,4,0,5,14,23,Fredericia Kommune,7000,Region Syddanmark
-2019-01-31,"Frederiksodde skole, Ullerupdalvej",1,2,0,0,0,,0,0,2,0,0,0,0,0,3,5,8,Fredericia Kommune,7000,Region Syddanmark
+"2019-01-31,""Frederiksodde skole, Indre Ringvej"",1,5,1,0,3,,1,0,0,0,0,3,4,0,5,14,23,Fredericia Kommune,7000,Region Syddanmark"
+"2019-01-31,""Frederiksodde skole, Ullerupdalvej"",1,2,0,0,0,,0,0,2,0,0,0,0,0,3,5,8,Fredericia Kommune,7000,Region Syddanmark"
 2019-01-31,Frederikssund Private Realskole,17,13,37,0,0,,7,1,14,23,4,4,3,0,21,120,144,Frederikssund Kommune,3600,Region Hovedstaden
 2019-01-31,Frederiksværk Skole,34,4,2,0,0,,5,0,17,18,1,3,35,0,0,84,119,Halsnæs Kommune,3300,Region Hovedstaden
 2019-01-31,Frejlev Skole,20,6,10,1,1,,15,0,3,66,1,0,7,0,0,123,130,Aalborg Kommune,9200,Region Nordjylland
@@ -1667,13 +1667,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Friskolen Østerlars,8,0,2,0,0,,0,2,3,2,10,11,1,0,7,38,46,Bornholms Regionskommune,3760,Region Hovedstaden
 2019-01-31,Frydenhøjskolen,15,19,1,0,14,,13,0,1,8,5,0,2,3,34,76,115,Hvidovre Kommune,2650,Region Hovedstaden
 2019-01-31,Frøstruphave Efterskole,5,2,12,2,0,,2,18,0,6,0,0,0,1,11,47,59,Varde Kommune,6830,Region Syddanmark
-2019-01-31,"Funder-Kragelund Skole, Silkeborg",30,2,6,3,4,,3,3,16,7,1,0,2,1,8,75,86,Silkeborg Kommune,8600,Region Midtjylland
+"2019-01-31,""Funder-Kragelund Skole, Silkeborg"",30,2,6,3,4,,3,3,16,7,1,0,2,1,8,75,86,Silkeborg Kommune,8600,Region Midtjylland"
 2019-01-31,Fællesskolen Favrdal-Fjelstrup,82,32,25,11,22,,19,8,23,34,28,10,48,8,53,294,403,Haderslev Kommune,6100,Region Syddanmark
 2019-01-31,Gadstrup Skole,16,4,3,0,3,,7,1,4,13,3,5,7,4,9,59,79,Roskilde Kommune,4621,Region Sjælland
 2019-01-31,Gammelgaardsskolen,24,38,2,0,12,,2,0,0,3,4,7,0,0,9,92,101,Aarhus Kommune,8230,Region Midtjylland
 2019-01-31,Gandrup Skole,30,2,3,0,1,,1,0,20,4,0,0,5,3,12,61,81,Aalborg Kommune,9362,Region Nordjylland
 2019-01-31,Gåsetårnskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4760,Region Sjælland
-2019-01-31,"Gåsetårnskolen, Iselinge",103,17,21,1,7,,10,12,28,8,15,7,4,5,39,229,277,Vordingborg Kommune,4760,Region Sjælland
+"2019-01-31,""Gåsetårnskolen, Iselinge"",103,17,21,1,7,,10,12,28,8,15,7,4,5,39,229,277,Vordingborg Kommune,4760,Region Sjælland"
 2019-01-31,Gedved Skole,24,5,6,0,1,,1,0,6,10,1,2,0,2,6,56,64,Horsens Kommune,8751,Region Midtjylland
 2019-01-31,Gentofte Kommunes Ungdomsskole,2,1,2,0,0,,0,0,0,0,1,0,0,0,4,6,10,Gentofte Kommune,2900,Region Hovedstaden
 2019-01-31,Gentofte Skole,13,23,7,10,2,,10,2,9,11,2,3,5,0,21,92,118,Gentofte Kommune,2820,Region Hovedstaden
@@ -1687,10 +1687,10 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Gladsaxe Privatskole,6,4,12,0,0,,1,1,0,2,0,0,3,0,6,26,35,Gladsaxe Kommune,2800,Region Hovedstaden
 2019-01-31,Gladsaxe Skole,42,13,17,0,5,,15,0,1,4,2,2,8,0,12,101,121,Gladsaxe Kommune,2860,Region Hovedstaden
 2019-01-31,Glamsbjergskolen,43,15,2,1,3,,7,2,7,10,3,15,1,4,17,108,130,Assens Kommune,5620,Region Syddanmark
-2019-01-31,"Glostrup skole, Nordvang",32,1,23,0,1,,3,0,12,8,3,4,1,2,2,87,92,Glostrup Kommune,2600,Region Hovedstaden
-2019-01-31,"Glostrup Skole, Skovvang",8,10,8,2,9,,19,1,5,23,2,1,3,0,11,88,102,Glostrup Kommune,2600,Region Hovedstaden
-2019-01-31,"Glostrup skole, Søndervang",23,11,6,1,7,,10,1,9,2,6,3,3,1,7,79,90,Glostrup Kommune,2600,Region Hovedstaden
-2019-01-31,"Glostrup Skole, Vestervang",12,5,2,0,6,,11,0,5,1,9,0,2,0,8,51,61,Glostrup Kommune,2600,Region Hovedstaden
+"2019-01-31,""Glostrup skole, Nordvang"",32,1,23,0,1,,3,0,12,8,3,4,1,2,2,87,92,Glostrup Kommune,2600,Region Hovedstaden"
+"2019-01-31,""Glostrup Skole, Skovvang"",8,10,8,2,9,,19,1,5,23,2,1,3,0,11,88,102,Glostrup Kommune,2600,Region Hovedstaden"
+"2019-01-31,""Glostrup skole, Søndervang"",23,11,6,1,7,,10,1,9,2,6,3,3,1,7,79,90,Glostrup Kommune,2600,Region Hovedstaden"
+"2019-01-31,""Glostrup Skole, Vestervang"",12,5,2,0,6,,11,0,5,1,9,0,2,0,8,51,61,Glostrup Kommune,2600,Region Hovedstaden"
 2019-01-31,Gludsted Friskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Ikast-Brande Kommune,7361,Region Midtjylland
 2019-01-31,Godhavn-Uddannelses- og Erhvervscenter.,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Gribskov Kommune,3220,Region Hovedstaden
 2019-01-31,Gram Skole,1,1,0,0,0,,4,0,3,11,1,0,2,0,4,21,27,Haderslev Kommune,6510,Region Syddanmark
@@ -1775,15 +1775,15 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Hjørring Private Realskole,21,33,132,1,2,,15,2,8,46,3,1,0,2,36,264,302,Hjørring Kommune,9800,Region Nordjylland
 2019-01-31,Hjørring Skolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Hjørring Kommune,9800,Region Nordjylland
 2019-01-31,Hobro Søndre Skole og MF10,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Mariagerfjord Kommune,9500,Region Nordjylland
-2019-01-31,"Holbæk By Skole, afdeling Absalon",23,23,2,0,1,,18,0,1,7,1,1,6,4,3,77,90,Holbæk Kommune,4300,Region Sjælland
-2019-01-31,"Holbæk By Skole, afdeling Bjergmark",42,8,17,2,5,,12,7,13,13,10,17,3,5,37,146,191,Holbæk Kommune,4300,Region Sjælland
+"2019-01-31,""Holbæk By Skole, afdeling Absalon"",23,23,2,0,1,,18,0,1,7,1,1,6,4,3,77,90,Holbæk Kommune,4300,Region Sjælland"
+"2019-01-31,""Holbæk By Skole, afdeling Bjergmark"",42,8,17,2,5,,12,7,13,13,10,17,3,5,37,146,191,Holbæk Kommune,4300,Region Sjælland"
 2019-01-31,Holbæk Lilleskole,18,8,4,2,14,,5,0,3,3,6,22,3,3,44,85,135,Holbæk Kommune,4300,Region Sjælland
 2019-01-31,Holbæk Private Realskole,6,7,7,0,1,,1,0,3,15,0,1,0,0,3,41,44,Holbæk Kommune,4300,Region Sjælland
 2019-01-31,Holbæk Ungdomscenter,30,10,4,2,6,,16,0,29,13,9,9,12,1,59,128,200,Holbæk Kommune,4300,Region Sjælland
 2019-01-31,Holmeagerskolen,8,2,0,0,2,,21,0,2,16,10,2,3,0,9,63,75,Greve Kommune,2670,Region Sjælland
 2019-01-31,Holmebækskolen,4,6,3,3,13,,10,1,1,21,1,2,1,0,1,65,67,Køge Kommune,4681,Region Sjælland
 2019-01-31,Holmegaardskolen,15,2,15,0,6,,0,0,3,21,2,1,2,0,5,65,72,Næstved Kommune,4684,Region Sjælland
-2019-01-31,"Holmegaardskolen, afd. Fensmark",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4684,Region Sjælland
+"2019-01-31,""Holmegaardskolen, afd. Fensmark"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4684,Region Sjælland"
 2019-01-31,Holmegårdsskolen,25,11,9,0,3,,3,1,2,24,7,1,0,2,12,86,100,Hvidovre Kommune,2650,Region Hovedstaden
 2019-01-31,Holstebro Friskole,10,5,7,0,1,,1,0,5,3,3,2,0,0,8,37,45,Holstebro Kommune,7500,Region Midtjylland
 2019-01-31,Hornbæk Skole,20,18,16,3,0,,11,1,2,3,15,1,2,3,5,90,100,Helsingør Kommune,3100,Region Hovedstaden
@@ -1791,13 +1791,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Hornslet Skole,29,3,8,0,9,,3,1,14,11,21,17,0,5,12,116,133,Syddjurs Kommune,8543,Region Midtjylland
 2019-01-31,Hornum Skole,2,1,5,0,14,,0,1,3,6,2,0,1,0,2,34,37,Vesthimmerlands Kommune,9600,Region Nordjylland
 2019-01-31,Horsens Byskole,32,11,8,1,8,,17,1,9,11,5,3,1,6,17,106,130,Horsens Kommune,8700,Region Midtjylland
-2019-01-31,"Horsens Byskole, folkeskoleafdeling",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Horsens Kommune,8700,Region Midtjylland
+"2019-01-31,""Horsens Byskole, folkeskoleafdeling"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Horsens Kommune,8700,Region Midtjylland"
 2019-01-31,Horslunde Realskole,18,2,1,0,0,,0,0,3,10,1,0,1,0,0,35,36,Lolland Kommune,4913,Region Sjælland
 2019-01-31,Hotherskolen,14,6,26,0,2,,0,1,7,13,1,1,9,1,10,71,91,Stevns Kommune,4652,Region Sjælland
 2019-01-31,Hovedgård Skole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Horsens Kommune,8732,Region Midtjylland
-2019-01-31,"Hovedgård Skole, folkeskoleafdeling",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Horsens Kommune,8732,Region Midtjylland
-2019-01-31,"Hovedgård Skole, specialskoleafdeling",3,0,0,2,0,,5,1,2,2,1,0,1,0,5,16,22,Horsens Kommune,8732,Region Midtjylland
-2019-01-31,"Hovedstadens Privatskole, Filipskolen",9,1,1,0,1,,2,0,0,5,0,0,0,0,2,19,21,Københavns Kommune,2300,Region Hovedstaden
+"2019-01-31,""Hovedgård Skole, folkeskoleafdeling"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Horsens Kommune,8732,Region Midtjylland"
+"2019-01-31,""Hovedgård Skole, specialskoleafdeling"",3,0,0,2,0,,5,1,2,2,1,0,1,0,5,16,22,Horsens Kommune,8732,Region Midtjylland"
+"2019-01-31,""Hovedstadens Privatskole, Filipskolen"",9,1,1,0,1,,2,0,0,5,0,0,0,0,2,19,21,Københavns Kommune,2300,Region Hovedstaden"
 2019-01-31,Humlebæk Lille Skole,6,3,2,0,3,,0,0,0,0,5,9,1,0,1,28,30,Fredensborg Kommune,3050,Region Hovedstaden
 2019-01-31,Humlebæk Skole,33,15,8,0,2,,3,2,1,23,10,10,4,2,10,107,123,Fredensborg Kommune,3050,Region Hovedstaden
 2019-01-31,Humlehøj-Skolen,20,6,2,1,2,,4,1,2,6,3,3,0,2,21,50,73,Sønderborg Kommune,6400,Region Syddanmark
@@ -1823,11 +1823,11 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Højmarkskolen,21,9,5,1,1,,7,5,23,11,6,12,1,4,10,101,116,Vejen Kommune,6670,Region Syddanmark
 2019-01-31,Højmeskolen,16,7,27,3,3,,6,2,2,34,0,2,4,1,19,102,126,Odense Kommune,5250,Region Syddanmark
 2019-01-31,Højslev Skole,31,14,26,5,4,,3,2,17,26,0,2,0,1,11,130,142,Skive Kommune,7840,Region Midtjylland
-2019-01-31,"Højvangskolen, folkeskoleafdeling",38,4,5,10,10,,8,0,8,20,4,3,4,2,21,110,137,Horsens Kommune,8700,Region Midtjylland
+"2019-01-31,""Højvangskolen, folkeskoleafdeling"",38,4,5,10,10,,8,0,8,20,4,3,4,2,21,110,137,Horsens Kommune,8700,Region Midtjylland"
 2019-01-31,Høng Privatskole,6,3,14,0,1,,6,0,4,6,0,0,0,0,5,40,45,Kalundborg Kommune,4270,Region Sjælland
 2019-01-31,Høng Skole,1,8,33,0,4,,13,0,5,14,2,1,2,0,24,81,107,Kalundborg Kommune,4270,Region Sjælland
 2019-01-31,Hørup Centralskole,29,10,2,7,3,,22,1,8,21,0,0,0,4,0,103,107,Sønderborg Kommune,6470,Region Syddanmark
-2019-01-31,"IBC, 10. klasse",2,4,2,1,1,,12,0,4,5,1,0,3,0,0,32,35,Kolding Kommune,6000,Region Syddanmark
+"2019-01-31,""IBC, 10. klasse"",2,4,2,1,1,,12,0,4,5,1,0,3,0,0,32,35,Kolding Kommune,6000,Region Syddanmark"
 2019-01-31,Ida Holsts Skole,10,3,15,1,0,,9,0,2,20,0,0,0,0,1,60,61,Svendborg Kommune,5700,Region Syddanmark
 2019-01-31,Ikast Nordre Skole,15,7,12,1,1,,3,1,9,51,2,0,1,0,14,102,117,Ikast-Brande Kommune,7430,Region Midtjylland
 2019-01-31,Ikast-Brande Ungdomscenter,5,1,3,0,0,,0,4,3,6,0,0,0,0,3,22,25,Ikast-Brande Kommune,7430,Region Midtjylland
@@ -1847,13 +1847,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Kastrupgårdsskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Tårnby Kommune,2770,Region Hovedstaden
 2019-01-31,Katrinedals Skole,8,22,6,0,20,,5,0,1,2,14,3,0,0,0,81,81,Københavns Kommune,2720,Region Hovedstaden
 2019-01-31,Katrinedalskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Holbæk Kommune,4300,Region Sjælland
-2019-01-31,"Katrinedalskolen, afdeling Svinninge",25,2,9,2,1,,3,1,35,2,5,2,4,2,24,87,117,Holbæk Kommune,4520,Region Sjælland
-2019-01-31,"Katrinedalskolen, afdeling Tuse",38,2,28,1,10,,9,1,7,8,4,1,5,0,23,109,137,Holbæk Kommune,4300,Region Sjælland
+"2019-01-31,""Katrinedalskolen, afdeling Svinninge"",25,2,9,2,1,,3,1,35,2,5,2,4,2,24,87,117,Holbæk Kommune,4520,Region Sjælland"
+"2019-01-31,""Katrinedalskolen, afdeling Tuse"",38,2,28,1,10,,9,1,7,8,4,1,5,0,23,109,137,Holbæk Kommune,4300,Region Sjælland"
 2019-01-31,Kerteminde Byskole,5,12,22,5,15,,4,2,1,14,10,2,4,1,13,92,110,Kerteminde Kommune,5300,Region Syddanmark
 2019-01-31,Kerteminde Efterskole,10,17,3,1,5,,3,0,8,21,22,3,6,1,8,93,108,Kerteminde Kommune,5300,Region Syddanmark
 2019-01-31,Kibæk Skole,0,9,0,0,0,,2,2,15,19,2,0,3,2,14,49,68,Herning Kommune,6933,Region Midtjylland
-2019-01-31,"Kildedamsskolen, afdeling Tølløse",16,9,14,1,1,,10,0,7,24,4,2,3,1,3,88,95,Holbæk Kommune,4340,Region Sjælland
-2019-01-31,"Kildedamsskolen, afdeling Vipperød",14,11,20,0,9,,4,0,3,5,1,5,4,0,12,72,88,Holbæk Kommune,4390,Region Sjælland
+"2019-01-31,""Kildedamsskolen, afdeling Tølløse"",16,9,14,1,1,,10,0,7,24,4,2,3,1,3,88,95,Holbæk Kommune,4340,Region Sjælland"
+"2019-01-31,""Kildedamsskolen, afdeling Vipperød"",14,11,20,0,9,,4,0,3,5,1,5,4,0,12,72,88,Holbæk Kommune,4390,Region Sjælland"
 2019-01-31,Kildegård Privatskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Gentofte Kommune,2900,Region Hovedstaden
 2019-01-31,Kildegårdskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Herlev Kommune,2730,Region Hovedstaden
 2019-01-31,KILDEN- Børne- og Ungeunivers,10,9,6,0,2,,1,0,12,19,1,1,2,0,0,61,63,Rebild Kommune,9574,Region Nordjylland
@@ -1862,13 +1862,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Kirke Hyllinge Skole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Lejre Kommune,4070,Region Sjælland
 2019-01-31,Kirke Saaby Skole,3,12,0,0,0,,9,1,0,11,1,0,0,0,6,37,43,Lejre Kommune,4060,Region Sjælland
 2019-01-31,Kirkeskolen,11,1,5,2,6,,8,1,23,11,1,5,1,2,5,74,82,Ringkøbing-Skjern Kommune,6900,Region Midtjylland
-2019-01-31,"Kirstinebjergskolen, Havepladsvej",58,15,20,1,6,,11,3,28,37,6,3,0,4,87,188,279,Fredericia Kommune,7000,Region Syddanmark
+"2019-01-31,""Kirstinebjergskolen, Havepladsvej"",58,15,20,1,6,,11,3,28,37,6,3,0,4,87,188,279,Fredericia Kommune,7000,Region Syddanmark"
 2019-01-31,Kirstinedalsskolen,6,16,10,0,1,,19,0,6,24,3,1,5,0,9,86,100,Køge Kommune,4600,Region Sjælland
 2019-01-31,Klokkerholm Skole,3,8,12,0,0,,1,0,1,21,1,2,0,0,11,49,60,Brønderslev Kommune,9320,Region Nordjylland
 2019-01-31,Klostermarken Skole,2,1,2,1,0,,2,0,0,1,0,0,0,0,7,9,16,Slagelse Kommune,4200,Region Sjælland
 2019-01-31,Klostermarksskolen,28,7,15,0,4,,12,1,6,14,2,3,0,4,10,92,106,Roskilde Kommune,4000,Region Sjælland
 2019-01-31,Kobberbakkeskolen,64,4,25,6,87,,8,0,14,16,7,3,1,1,0,234,236,Næstved Kommune,4700,Region Sjælland
-2019-01-31,"Kobberbakkeskolen, afd. Sjølund",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
+"2019-01-31,""Kobberbakkeskolen, afd. Sjølund"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland"
 2019-01-31,Kokkedal Skole,27,6,5,0,3,,3,2,9,15,1,4,10,2,13,75,100,Fredensborg Kommune,2980,Region Hovedstaden
 2019-01-31,Kolding Friskole,17,2,0,0,1,,2,0,0,3,0,2,2,0,6,27,35,Kolding Kommune,6000,Region Syddanmark
 2019-01-31,Kolding Realskole,29,34,86,4,0,,16,2,25,123,7,10,2,11,40,336,389,Kolding Kommune,6000,Region Syddanmark
@@ -1888,7 +1888,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Krebs' Skole,1,10,0,3,0,,2,0,0,12,2,4,0,0,4,34,38,Københavns Kommune,2100,Region Hovedstaden
 2019-01-31,Krogårdskolen,16,6,3,1,0,,10,1,9,27,2,2,1,2,37,77,117,Greve Kommune,2670,Region Sjælland
 2019-01-31,Kroggårdsskolen,25,10,9,0,18,,1,1,5,36,12,3,8,0,29,120,157,Odense Kommune,5270,Region Syddanmark
-2019-01-31,"Kulsbjerg Skole, Stensved",32,18,30,0,10,,3,0,5,25,3,1,5,0,43,127,175,Vordingborg Kommune,4773,Region Sjælland
+"2019-01-31,""Kulsbjerg Skole, Stensved"",32,18,30,0,10,,3,0,5,25,3,1,5,0,43,127,175,Vordingborg Kommune,4773,Region Sjælland"
 2019-01-31,Kundby Friskole,4,0,4,0,0,,3,0,5,0,0,0,0,0,0,16,16,Holbæk Kommune,4520,Region Sjælland
 2019-01-31,Kvaglundskolen Signatur,10,12,4,2,1,,4,1,0,0,9,3,0,0,9,46,55,Esbjerg Kommune,6705,Region Syddanmark
 2019-01-31,Kvikmarkens Privatskole,13,11,3,0,7,,2,1,2,6,2,11,2,1,18,58,79,Gladsaxe Kommune,2860,Region Hovedstaden
@@ -1904,7 +1904,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Langtved Friskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Nyborg Kommune,5540,Region Syddanmark
 2019-01-31,Låsby Skole,8,4,11,1,1,,12,0,6,21,0,2,1,0,20,66,87,Skanderborg Kommune,8670,Region Midtjylland
 2019-01-31,Lille Egede Friskole,11,7,8,2,2,,0,0,0,19,2,3,1,0,10,54,65,Slagelse Kommune,4242,Region Sjælland
-2019-01-31,"Lille Næstved Skole, afd. Herlufsholmsvej",22,11,38,0,72,,12,1,11,33,1,3,1,1,0,204,206,Næstved Kommune,4700,Region Sjælland
+"2019-01-31,""Lille Næstved Skole, afd. Herlufsholmsvej"",22,11,38,0,72,,12,1,11,33,1,3,1,1,0,204,206,Næstved Kommune,4700,Region Sjælland"
 2019-01-31,Lille Værløse Skole,12,3,5,3,2,,3,1,1,1,1,1,1,0,6,33,40,Furesø Kommune,3500,Region Hovedstaden
 2019-01-31,Lillebæltskolen,21,16,2,1,4,,9,1,7,16,1,7,6,0,5,85,96,Middelfart Kommune,5500,Region Syddanmark
 2019-01-31,Lillevang Skole,43,11,71,5,3,,4,1,4,4,19,2,2,8,27,167,204,Allerød Kommune,3450,Region Hovedstaden
@@ -1919,7 +1919,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Lundgårdskolen,25,31,22,1,7,,34,0,1,34,0,0,3,0,42,155,200,Herning Kommune,7400,Region Midtjylland
 2019-01-31,Lundskolen,4,13,5,0,3,,2,0,0,11,2,3,0,0,13,43,56,Horsens Kommune,8700,Region Midtjylland
 2019-01-31,Lynge Skole,18,5,2,2,1,,31,1,14,30,3,20,0,2,11,127,140,Allerød Kommune,3540,Region Hovedstaden
-2019-01-31,"Lynghedeskolen, afdeling Søndre",18,7,1,0,2,,10,1,21,7,0,1,2,1,13,68,84,Billund Kommune,7200,Region Syddanmark
+"2019-01-31,""Lynghedeskolen, afdeling Søndre"",18,7,1,0,2,,10,1,21,7,0,1,2,1,13,68,84,Billund Kommune,7200,Region Syddanmark"
 2019-01-31,Lyngholmskolen,43,8,24,7,4,,3,3,10,8,2,2,5,1,21,114,141,Furesø Kommune,3520,Region Hovedstaden
 2019-01-31,Lyshøjskolen,50,26,22,2,16,,50,2,2,24,2,1,0,0,22,197,219,Kolding Kommune,6000,Region Syddanmark
 2019-01-31,Lystrup Skole,42,20,9,3,3,,4,7,9,19,4,4,1,2,0,124,127,Aarhus Kommune,8520,Region Midtjylland
@@ -1945,9 +1945,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Mellervangskolen,20,8,2,1,1,,0,0,13,2,6,1,2,0,4,54,60,Aalborg Kommune,9220,Region Nordjylland
 2019-01-31,Mentiqa-Nordjylland,1,0,6,2,2,,6,0,0,9,1,0,0,1,14,27,42,Aalborg Kommune,9400,Region Nordjylland
 2019-01-31,Middelfart Friskole,2,17,3,0,3,,3,0,1,7,1,0,0,0,0,37,37,Middelfart Kommune,5500,Region Syddanmark
-2019-01-31,"Midtskolen, Bavne afdeling",6,2,17,0,0,,11,0,1,11,0,1,0,0,17,49,66,Faxe Kommune,4690,Region Sjælland
-2019-01-31,"Midtskolen, Møllevang afdeling",1,1,12,1,0,,20,1,3,1,3,0,3,0,0,43,46,Faxe Kommune,4683,Region Sjælland
-2019-01-31,"Midtskolen, Sofiendal afdeling",9,2,27,1,3,,21,0,8,4,6,0,3,0,56,81,140,Faxe Kommune,4690,Region Sjælland
+"2019-01-31,""Midtskolen, Bavne afdeling"",6,2,17,0,0,,11,0,1,11,0,1,0,0,17,49,66,Faxe Kommune,4690,Region Sjælland"
+"2019-01-31,""Midtskolen, Møllevang afdeling"",1,1,12,1,0,,20,1,3,1,3,0,3,0,0,43,46,Faxe Kommune,4683,Region Sjælland"
+"2019-01-31,""Midtskolen, Sofiendal afdeling"",9,2,27,1,3,,21,0,8,4,6,0,3,0,56,81,140,Faxe Kommune,4690,Region Sjælland"
 2019-01-31,Mina Hindholm Efterskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4250,Region Sjælland
 2019-01-31,Mosedeskolen,25,40,5,0,6,,5,0,1,15,0,1,0,2,40,98,140,Greve Kommune,2670,Region Sjælland
 2019-01-31,Mou Skole,5,4,3,0,4,,2,3,3,0,2,10,0,0,13,36,49,Aalborg Kommune,9280,Region Nordjylland
@@ -1959,7 +1959,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Munkevængets Skole,14,2,0,4,1,,1,2,7,2,5,2,0,2,5,40,47,Kolding Kommune,6000,Region Syddanmark
 2019-01-31,Munkholmskolen,15,5,7,0,6,,4,0,0,15,1,6,3,6,3,59,71,Randers Kommune,8870,Region Midtjylland
 2019-01-31,Møn skole,10,3,14,1,5,,11,0,5,3,0,5,3,0,12,57,72,Vordingborg Kommune,4780,Region Sjælland
-2019-01-31,"Møn Skole, Stege",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4780,Region Sjælland
+"2019-01-31,""Møn Skole, Stege"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4780,Region Sjælland"
 2019-01-31,Mørke Skole,4,7,1,0,3,,5,0,2,1,1,3,2,0,27,27,56,Syddjurs Kommune,8544,Region Midtjylland
 2019-01-31,Mørkhøj Skole,21,8,15,0,2,,0,0,2,4,2,2,4,0,15,56,75,Gladsaxe Kommune,2860,Region Hovedstaden
 2019-01-31,N. Zahles Gymnasieskole,33,18,49,1,36,,5,0,2,4,2,7,2,1,37,157,197,Københavns Kommune,1358,Region Hovedstaden
@@ -2041,7 +2041,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Roslev Skole,15,17,18,0,1,,6,0,8,22,3,1,1,6,10,91,108,Skive Kommune,7870,Region Midtjylland
 2019-01-31,Rosmus Skole,4,3,2,0,4,,11,0,1,19,7,1,0,0,23,52,75,Syddjurs Kommune,8444,Region Midtjylland
 2019-01-31,Rudersdal Lilleskole,2,0,2,4,0,,0,0,2,0,2,1,0,0,6,13,19,Rudersdal Kommune,2840,Region Hovedstaden
-2019-01-31,"Rudolf Steiner skolen i Gentofte, Vidar Skolen (HF)",8,8,0,1,1,,3,2,0,2,50,37,4,0,24,112,140,Gentofte Kommune,2820,Region Hovedstaden
+"2019-01-31,""Rudolf Steiner skolen i Gentofte, Vidar Skolen (HF)"",8,8,0,1,1,,3,2,0,2,50,37,4,0,24,112,140,Gentofte Kommune,2820,Region Hovedstaden"
 2019-01-31,Rungsted Private Realskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Hørsholm Kommune,2960,Region Hovedstaden
 2019-01-31,Rungsted Skole,9,4,3,0,1,,2,0,4,15,0,1,0,0,11,39,50,Hørsholm Kommune,2960,Region Hovedstaden
 2019-01-31,Rynkevangskolen,3,3,2,0,1,,1,0,8,3,1,5,6,2,5,27,40,Kalundborg Kommune,4400,Region Sjælland
@@ -2103,7 +2103,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Skovsgård Tranum skole,27,2,7,0,0,,1,2,5,2,1,4,4,0,13,51,68,Jammerbugt Kommune,9460,Region Nordjylland
 2019-01-31,Skovshoved Skole,10,5,9,0,2,,1,0,3,7,1,1,0,0,3,39,42,Gentofte Kommune,2920,Region Hovedstaden
 2019-01-31,Skovvejens Skole,91,10,16,2,13,,9,0,8,15,7,6,3,0,24,177,204,Ballerup Kommune,2750,Region Hovedstaden
-2019-01-31,"Skovvejens Skole, afdeling Kildebjerg",6,7,11,2,4,,8,0,2,7,1,0,3,0,8,48,59,Holbæk Kommune,4440,Region Sjælland
+"2019-01-31,""Skovvejens Skole, afdeling Kildebjerg"",6,7,11,2,4,,8,0,2,7,1,0,3,0,8,48,59,Holbæk Kommune,4440,Region Sjælland"
 2019-01-31,Skrødstrup Efterskole,1,0,0,0,3,,1,0,0,3,0,1,0,0,24,9,33,Mariagerfjord Kommune,9550,Region Nordjylland
 2019-01-31,Skt Klemensskolen,6,8,0,0,1,,2,0,11,18,12,0,0,0,4,58,62,Odense Kommune,5260,Region Syddanmark
 2019-01-31,Skt. Josefs Skole,2,1,0,0,0,,4,0,3,7,1,0,0,0,222,18,240,Roskilde Kommune,4000,Region Sjælland
@@ -2156,12 +2156,12 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Suldrup Skole,7,4,9,0,6,,2,0,6,15,0,0,0,0,6,49,55,Rebild Kommune,9541,Region Nordjylland
 2019-01-31,Sulsted Skole,20,20,10,0,3,,5,2,6,9,0,1,2,0,9,76,87,Aalborg Kommune,9381,Region Nordjylland
 2019-01-31,SUNDskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Guldborgsund Kommune,4800,Region Sjælland
-2019-01-31,"Susåskolen, afd. Holsted",36,7,30,5,3,,11,2,8,31,2,0,0,4,18,135,157,Næstved Kommune,4700,Region Sjælland
+"2019-01-31,""Susåskolen, afd. Holsted"",36,7,30,5,3,,11,2,8,31,2,0,0,4,18,135,157,Næstved Kommune,4700,Region Sjælland"
 2019-01-31,Svebølle Skole,8,0,17,0,3,,5,0,3,2,1,0,0,0,21,39,60,Kalundborg Kommune,4470,Region Sjælland
-2019-01-31,"Svend Gønge-Skolen, Lundby",10,2,6,0,4,,3,0,21,7,0,4,1,5,10,57,73,Vordingborg Kommune,4750,Region Sjælland
+"2019-01-31,""Svend Gønge-Skolen, Lundby"",10,2,6,0,4,,3,0,21,7,0,4,1,5,10,57,73,Vordingborg Kommune,4750,Region Sjælland"
 2019-01-31,Svenstrup Skole,16,24,2,0,1,,4,0,11,26,3,1,1,0,11,88,100,Aalborg Kommune,9230,Region Nordjylland
 2019-01-31,Sydkystens Privatskole,7,2,0,0,6,,4,0,2,16,1,0,0,0,4,38,42,Solrød Kommune,2680,Region Sjælland
-2019-01-31,"Sydskolen, afdeling Asnæs",32,3,12,1,5,,14,0,29,1,2,9,6,0,36,108,150,Odsherred Kommune,4550,Region Sjælland
+"2019-01-31,""Sydskolen, afdeling Asnæs"",32,3,12,1,5,,14,0,29,1,2,9,6,0,36,108,150,Odsherred Kommune,4550,Region Sjælland"
 2019-01-31,Synscenter Refsnæs - Skolen,1,0,0,0,2,,0,1,0,0,2,0,0,0,1,6,7,Kalundborg Kommune,4400,Region Sjælland
 2019-01-31,Syvstjerneskolen,10,15,7,0,3,,12,1,3,11,2,16,0,0,0,80,80,Furesø Kommune,3500,Region Hovedstaden
 2019-01-31,Søborg Skole,30,10,4,0,1,,2,2,7,9,7,17,5,1,16,89,111,Gladsaxe Kommune,2860,Region Hovedstaden
@@ -2190,7 +2190,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Tårs Skole,24,6,8,0,4,,4,3,18,7,1,2,0,1,12,77,90,Hjørring Kommune,9830,Region Nordjylland
 2019-01-31,Tarup Skole,13,7,10,0,4,,0,0,1,10,0,0,0,0,10,45,55,Odense Kommune,5210,Region Syddanmark
 2019-01-31,Tåsingeskolen,38,23,12,1,5,,7,0,6,20,17,12,9,6,19,141,175,Svendborg Kommune,5700,Region Syddanmark
-2019-01-31,"TEC , 10. klassecenter",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Frederiksberg Kommune,2000,Region Hovedstaden
+"2019-01-31,""TEC , 10. klassecenter"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Frederiksberg Kommune,2000,Region Hovedstaden"
 2019-01-31,Thise Friskole,1,4,2,2,0,,0,0,3,4,0,0,0,0,3,16,19,Skive Kommune,7870,Region Midtjylland
 2019-01-31,Thomasskolen,23,6,10,0,3,,0,2,8,4,2,2,0,0,3,60,63,Ballerup Kommune,2740,Region Hovedstaden
 2019-01-31,Thyborøn Skole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Lemvig Kommune,7680,Region Midtjylland
@@ -2218,7 +2218,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Tranegårdskolen,4,11,28,0,0,,6,0,0,20,0,3,0,0,18,72,90,Gentofte Kommune,2900,Region Hovedstaden
 2019-01-31,Tre Falke Skolen,29,22,12,1,57,,32,2,8,9,37,7,5,2,47,216,270,Frederiksberg Kommune,2000,Region Hovedstaden
 2019-01-31,Trekløverskolen,26,10,5,0,1,,4,1,2,9,9,0,2,2,29,67,100,Frederikssund Kommune,3600,Region Hovedstaden
-2019-01-31,"Trekløverskolen, Silkeborg",18,4,23,1,7,,11,1,18,36,5,5,5,1,35,129,170,Silkeborg Kommune,8620,Region Midtjylland
+"2019-01-31,""Trekløverskolen, Silkeborg"",18,4,23,1,7,,11,1,18,36,5,5,5,1,35,129,170,Silkeborg Kommune,8620,Region Midtjylland"
 2019-01-31,Trekronerskolen,19,21,5,0,7,,5,0,1,6,6,3,1,1,105,73,180,Roskilde Kommune,4000,Region Sjælland
 2019-01-31,Trelleborg Friskole,3,0,0,0,2,,0,1,2,0,3,1,1,0,3,12,16,Slagelse Kommune,4200,Region Sjælland
 2019-01-31,Trongårdsskolen,9,9,36,0,4,,13,1,0,22,4,17,4,1,0,115,120,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
@@ -2226,8 +2226,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Trørødskolen,35,13,15,0,2,,18,6,1,12,1,6,2,3,2,109,116,Rudersdal Kommune,2950,Region Hovedstaden
 2019-01-31,Tune Skole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Greve Kommune,4030,Region Sjælland
 2019-01-31,Tvis Skole,38,2,38,1,5,,10,2,9,22,2,4,12,10,25,133,180,Holstebro Kommune,7500,Region Midtjylland
-2019-01-31,"Tølløse Privat- og Efterskole, Baptisternes Efterskoler",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Holbæk Kommune,4340,Region Sjælland
-2019-01-31,"Tølløse Privat- og Efterskole, Baptisternes Skoler",46,30,20,7,11,,16,1,30,36,18,21,10,2,0,236,248,Holbæk Kommune,4340,Region Sjælland
+"2019-01-31,""Tølløse Privat- og Efterskole, Baptisternes Efterskoler"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Holbæk Kommune,4340,Region Sjælland"
+"2019-01-31,""Tølløse Privat- og Efterskole, Baptisternes Skoler"",46,30,20,7,11,,16,1,30,36,18,21,10,2,0,236,248,Holbæk Kommune,4340,Region Sjælland"
 2019-01-31,Tømmerup Fri- og Efterskole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Kalundborg Kommune,4400,Region Sjælland
 2019-01-31,Tømmerup Fri- og Efterskole,15,2,2,1,0,,5,0,1,8,2,2,0,0,0,38,38,Kalundborg Kommune,4400,Region Sjælland
 2019-01-31,Tønder Distriktsskole - Overbygningsskolen,31,32,62,1,6,,38,4,11,21,1,2,15,3,34,209,261,Tønder Kommune,6270,Region Syddanmark
@@ -2236,13 +2236,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Tørring Skole,1,3,13,0,0,,0,0,1,13,1,0,1,1,2,32,36,Hedensted Kommune,7160,Region Midtjylland
 2019-01-31,Uglegårdsskolen,24,5,9,1,14,,69,0,14,37,16,3,10,2,25,192,229,Solrød Kommune,2680,Region Sjælland
 2019-01-31,Ulkebøl Skole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Sønderborg Kommune,6400,Region Syddanmark
-2019-01-31,"Ullerup Bæk Skolen, Nr. Alle",54,2,43,3,22,,17,1,5,28,22,1,9,0,48,198,255,Fredericia Kommune,7000,Region Syddanmark
+"2019-01-31,""Ullerup Bæk Skolen, Nr. Alle"",54,2,43,3,22,,17,1,5,28,22,1,9,0,48,198,255,Fredericia Kommune,7000,Region Syddanmark"
 2019-01-31,Ulstrup Skole,7,8,10,1,2,,10,0,3,18,1,5,0,1,6,65,72,Favrskov Kommune,8860,Region Midtjylland
 2019-01-31,UngAalborg Uddannelsescenter,34,14,2,6,8,,7,2,6,8,11,10,4,3,35,108,150,Aalborg Kommune,9000,Region Nordjylland
 2019-01-31,Ungdomsskolen,1,0,0,1,2,,0,0,3,1,2,0,1,0,1,10,12,Hvidovre Kommune,2650,Region Hovedstaden
 2019-01-31,Ungdomsskolen Hedensted,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Hedensted Kommune,8722,Region Midtjylland
 2019-01-31,Ungdomsskolen og 10.klasse,16,5,12,2,2,,10,2,9,13,9,1,6,4,29,81,120,Vordingborg Kommune,4760,Region Sjælland
-2019-01-31,"Unge- og Kulturcenter Halsnæs, 10. klassecenter",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Halsnæs Kommune,3300,Region Hovedstaden
+"2019-01-31,""Unge- og Kulturcenter Halsnæs, 10. klassecenter"",0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Halsnæs Kommune,3300,Region Hovedstaden"
 2019-01-31,UngFredericia,26,2,9,3,3,,2,1,13,4,1,11,0,0,0,75,75,Fredericia Kommune,7000,Region Syddanmark
 2019-01-31,Urbanskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Esbjerg Kommune,6700,Region Syddanmark
 2019-01-31,Usserød Skole,5,16,55,0,2,,5,0,3,23,0,1,0,0,13,110,123,Hørsholm Kommune,2970,Region Hovedstaden
@@ -2279,7 +2279,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Vestsalling Skole og Dagtilbud,31,11,4,1,2,,1,0,9,17,0,1,0,0,18,77,95,Skive Kommune,7860,Region Midtjylland
 2019-01-31,Vestskolen,32,12,10,2,11,,20,9,13,16,3,8,7,0,31,136,174,Odder Kommune,8300,Region Midtjylland
 2019-01-31,Vestskolen,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Faxe Kommune,4690,Region Sjælland
-2019-01-31,"Vestskolen, Nordskov afdeling",58,7,30,24,2,,52,0,9,24,5,3,1,7,29,214,251,Faxe Kommune,4690,Region Sjælland
+"2019-01-31,""Vestskolen, Nordskov afdeling"",58,7,30,24,2,,52,0,9,24,5,3,1,7,29,214,251,Faxe Kommune,4690,Region Sjælland"
 2019-01-31,Vibeholmskolen,23,1,2,5,16,,3,0,2,4,6,0,1,4,10,62,77,Ishøj Kommune,2635,Region Hovedstaden
 2019-01-31,Vibenshus Skole,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Københavns Kommune,2100,Region Hovedstaden
 2019-01-31,Vibeskolen,23,4,4,0,1,,17,0,2,2,0,0,0,0,2,53,55,Nyborg Kommune,5540,Region Syddanmark
@@ -2318,11 +2318,11 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2019-01-31,Østervangsskolen,22,43,10,1,10,,4,0,2,14,5,6,1,1,11,117,130,Roskilde Kommune,4000,Region Sjælland
 2019-01-31,Østre Skole,6,10,20,3,1,,23,2,1,10,1,2,0,0,15,79,94,Middelfart Kommune,5500,Region Syddanmark
 2019-01-31,Østre Skole,27,2,5,0,2,,3,0,17,18,3,10,3,1,18,87,109,Guldborgsund Kommune,4800,Region Sjælland
-2019-01-31,"Østskolen, afd. Hylleholt",18,3,22,0,6,,15,1,1,8,2,0,0,0,11,76,87,Faxe Kommune,4654,Region Sjælland
-2019-01-31,"Østskolen, afd. Karise",30,0,0,0,0,,4,0,1,5,0,0,0,0,3,40,43,Faxe Kommune,4653,Region Sjælland
-2019-01-31,"Østskolen, afd. Rollo",13,3,23,0,0,,20,1,1,4,0,1,2,0,12,66,80,Faxe Kommune,4640,Region Sjælland
+"2019-01-31,""Østskolen, afd. Hylleholt"",18,3,22,0,6,,15,1,1,8,2,0,0,0,11,76,87,Faxe Kommune,4654,Region Sjælland"
+"2019-01-31,""Østskolen, afd. Karise"",30,0,0,0,0,,4,0,1,5,0,0,0,0,3,40,43,Faxe Kommune,4653,Region Sjælland"
+"2019-01-31,""Østskolen, afd. Rollo"",13,3,23,0,0,,20,1,1,4,0,1,2,0,12,66,80,Faxe Kommune,4640,Region Sjælland"
 2021-10-14,10. Klasse Center Skive,9,7,6,0,8,0,5,0,0,8,0,0,1,0,26,43,70,Skive Kommune,7800,Region Midtjylland
-2021-10-14,"10. klassecenteret Nordfyn, Syddansk Erhvervsskole",15,2,6,5,7,5,2,0,3,3,1,0,0,0,16,49,65,Nordfyns Kommune,5471,Region Syddanmark
+"2021-10-14,""10. klassecenteret Nordfyn, Syddansk Erhvervsskole"",15,2,6,5,7,5,2,0,3,3,1,0,0,0,16,49,65,Nordfyns Kommune,5471,Region Syddanmark"
 2021-10-14,10. klasseskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bornholms Regionskommune,3700,Region Hovedstaden
 2021-10-14,10.klasse/Helsingør//Ungdomsskolen,19,12,6,2,0,0,10,1,6,4,2,2,6,3,48,64,121,Helsingør Kommune,3000,Region Hovedstaden
 2021-10-14,10énde Fredericia,11,6,4,2,1,0,5,0,2,1,5,1,0,5,18,38,61,Fredericia Kommune,7000,Region Syddanmark
@@ -2393,7 +2393,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Bjergby Friskole,9,0,8,3,0,0,0,0,0,8,0,0,0,0,0,28,28,Morsø Kommune,7950,Region Nordjylland
 2021-10-14,Bjerre Gymnastik- og Idrætsefterskole Akademiet,9,28,12,3,1,1,3,1,1,16,0,0,5,0,8,75,88,Hedensted Kommune,8783,Region Midtjylland
 2021-10-14,Blåbjerg Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Varde Kommune,6854,Region Syddanmark
-2021-10-14,"Blåbjergskolen, Nr. Nebel afd.",15,7,20,6,2,0,5,2,3,10,1,0,3,1,17,71,92,Varde Kommune,6830,Region Syddanmark
+"2021-10-14,""Blåbjergskolen, Nr. Nebel afd."",15,7,20,6,2,0,5,2,3,10,1,0,3,1,17,71,92,Varde Kommune,6830,Region Syddanmark"
 2021-10-14,Blågård Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Københavns Kommune,2200,Region Hovedstaden
 2021-10-14,Blåvandshuk Skole,20,15,13,3,6,7,6,6,6,14,3,5,2,0,14,104,120,Varde Kommune,6840,Region Syddanmark
 2021-10-14,Blovstrød Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Allerød Kommune,3450,Region Hovedstaden
@@ -2403,7 +2403,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Bordings Friskole,13,0,2,0,9,4,3,0,0,0,33,0,2,1,8,64,75,Københavns Kommune,2100,Region Hovedstaden
 2021-10-14,Bornholms Efterskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bornholms Regionskommune,3700,Region Hovedstaden
 2021-10-14,Borup Skole,11,50,40,2,3,0,2,0,3,2,2,0,1,0,14,115,130,Køge Kommune,4140,Region Sjælland
-2021-10-14,"Bramdrup Skole, almen",33,20,3,2,6,1,4,1,6,2,4,0,0,0,8,82,90,Kolding Kommune,6000,Region Syddanmark
+"2021-10-14,""Bramdrup Skole, almen"",33,20,3,2,6,1,4,1,6,2,4,0,0,0,8,82,90,Kolding Kommune,6000,Region Syddanmark"
 2021-10-14,Brårup Skole,15,24,28,5,5,4,17,0,3,40,1,3,6,0,0,145,151,Skive Kommune,7800,Region Midtjylland
 2021-10-14,Bredagerskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vejle Kommune,7300,Region Syddanmark
 2021-10-14,Bredballe Privatskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vejle Kommune,7120,Region Syddanmark
@@ -2411,7 +2411,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Broager Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sønderborg Kommune,6310,Region Syddanmark
 2021-10-14,Brobyskolerne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Faaborg-Midtfyn Kommune,5672,Region Syddanmark
 2021-10-14,Broskolen,37,5,6,8,12,5,10,1,2,7,11,0,13,0,33,104,150,Faaborg-Midtfyn Kommune,5792,Region Syddanmark
-2021-10-14,"Brovandeskolen, Den Lille Skole i Skagen",2,3,3,3,0,1,10,1,2,5,1,1,0,0,0,32,32,Frederikshavn Kommune,9990,Region Nordjylland
+"2021-10-14,""Brovandeskolen, Den Lille Skole i Skagen"",2,3,3,3,0,1,10,1,2,5,1,1,0,0,0,32,32,Frederikshavn Kommune,9990,Region Nordjylland"
 2021-10-14,Brovst Skole,17,7,35,7,2,1,1,0,1,8,2,2,4,0,14,83,101,Jammerbugt Kommune,9460,Region Nordjylland
 2021-10-14,Brændgårdskolen,7,4,0,0,3,0,0,0,0,25,26,0,0,1,0,65,66,Herning Kommune,7400,Region Midtjylland
 2021-10-14,Brændkjærskolen,50,53,1,2,7,7,9,1,7,35,2,0,8,0,14,174,196,Kolding Kommune,6000,Region Syddanmark
@@ -2445,11 +2445,11 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Deutsche Schule Sonderburg,30,8,23,0,1,0,0,0,0,5,4,3,1,2,13,74,90,Sønderborg Kommune,6400,Region Syddanmark
 2021-10-14,Deutsche Schule Tingleff,6,10,4,0,3,3,0,0,3,6,0,2,0,2,9,37,48,Aabenraa Kommune,6360,Region Syddanmark
 2021-10-14,DIA Privatskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Københavns Kommune,2200,Region Hovedstaden
-2021-10-14,"Distrikt Nord, Skagen skoleafdeling",15,5,2,5,4,1,4,0,4,5,0,0,5,0,15,45,65,Frederikshavn Kommune,9990,Region Nordjylland
-2021-10-14,"Distrikt Nord, Strandby skoleafdeling",15,5,7,13,1,2,4,1,6,14,1,4,4,0,7,73,84,Frederikshavn Kommune,9970,Region Nordjylland
-2021-10-14,"Distrikt Syd, Sæbygård skoleafdeling",53,19,8,7,8,1,8,0,11,14,4,7,6,1,17,140,164,Frederikshavn Kommune,9300,Region Nordjylland
-2021-10-14,"Distrikt Vest, Ravnshøj skoleafdeling",11,5,11,0,6,1,1,0,0,1,0,0,2,0,7,36,45,Frederikshavn Kommune,9900,Region Nordjylland
-2021-10-14,"Distrikt Øst, Frydenstrand skoleafdeling",24,6,85,2,1,3,4,0,1,6,1,0,1,5,26,133,165,Frederikshavn Kommune,9900,Region Nordjylland
+"2021-10-14,""Distrikt Nord, Skagen skoleafdeling"",15,5,2,5,4,1,4,0,4,5,0,0,5,0,15,45,65,Frederikshavn Kommune,9990,Region Nordjylland"
+"2021-10-14,""Distrikt Nord, Strandby skoleafdeling"",15,5,7,13,1,2,4,1,6,14,1,4,4,0,7,73,84,Frederikshavn Kommune,9970,Region Nordjylland"
+"2021-10-14,""Distrikt Syd, Sæbygård skoleafdeling"",53,19,8,7,8,1,8,0,11,14,4,7,6,1,17,140,164,Frederikshavn Kommune,9300,Region Nordjylland"
+"2021-10-14,""Distrikt Vest, Ravnshøj skoleafdeling"",11,5,11,0,6,1,1,0,0,1,0,0,2,0,7,36,45,Frederikshavn Kommune,9900,Region Nordjylland"
+"2021-10-14,""Distrikt Øst, Frydenstrand skoleafdeling"",24,6,85,2,1,3,4,0,1,6,1,0,1,5,26,133,165,Frederikshavn Kommune,9900,Region Nordjylland"
 2021-10-14,Distriktsskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tønder Kommune,6240,Region Syddanmark
 2021-10-14,Dragør Skole,24,21,3,4,4,0,12,0,0,3,4,2,1,0,8,77,86,Dragør Kommune,2791,Region Hovedstaden
 2021-10-14,Dronninglund Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brønderslev Kommune,9330,Region Nordjylland
@@ -2469,7 +2469,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Engesvang Skole,10,6,4,0,0,0,0,0,3,7,0,0,0,0,5,30,35,Ikast-Brande Kommune,7442,Region Midtjylland
 2021-10-14,Enghavegård Skole,12,21,2,0,24,0,6,1,3,13,21,10,1,1,7,113,122,Gladsaxe Kommune,2860,Region Hovedstaden
 2021-10-14,Engstrandskolen,22,16,3,6,10,2,0,0,5,13,8,2,11,0,12,87,110,Hvidovre Kommune,2650,Region Hovedstaden
-2021-10-14,"Erritsø Fællesskole, Erritsø Bygade",52,20,5,19,2,9,30,2,6,14,11,3,2,6,39,173,220,Fredericia Kommune,7000,Region Syddanmark
+"2021-10-14,""Erritsø Fællesskole, Erritsø Bygade"",52,20,5,19,2,9,30,2,6,14,11,3,2,6,39,173,220,Fredericia Kommune,7000,Region Syddanmark"
 2021-10-14,Esbjerg Realskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Esbjerg Kommune,6700,Region Syddanmark
 2021-10-14,Eskilstrup Børne- og Skolefællesskab,13,6,3,0,5,0,10,0,1,13,1,1,0,0,7,53,60,Guldborgsund Kommune,4863,Region Sjælland
 2021-10-14,Esrum Kostskole,6,0,7,0,0,3,1,0,0,0,0,0,0,1,6,17,24,Gribskov Kommune,3230,Region Hovedstaden
@@ -2481,9 +2481,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Feldballe Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Syddjurs Kommune,8410,Region Midtjylland
 2021-10-14,Ferritslev Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Faaborg-Midtfyn Kommune,5863,Region Syddanmark
 2021-10-14,Filstedvejens Skole,38,21,26,0,3,4,0,0,3,5,3,1,1,0,5,104,110,Aalborg Kommune,9000,Region Nordjylland
-2021-10-14,"Fjordbakkeskolen, afdeling Taulov",16,33,50,1,1,1,3,2,6,7,7,2,1,0,25,129,155,Fredericia Kommune,7000,Region Syddanmark
+"2021-10-14,""Fjordbakkeskolen, afdeling Taulov"",16,33,50,1,1,1,3,2,6,7,7,2,1,0,25,129,155,Fredericia Kommune,7000,Region Syddanmark"
 2021-10-14,Fjordlandsskolen,26,18,15,3,3,0,8,1,10,11,4,1,0,0,30,100,130,Frederikssund Kommune,4050,Region Hovedstaden
-2021-10-14,"Fladsåskolen, afd. Mogenstrup",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
+"2021-10-14,""Fladsåskolen, afd. Mogenstrup"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland"
 2021-10-14,Fonden Ørting,0,1,1,1,0,0,0,0,0,0,1,0,1,0,15,4,20,Odder Kommune,8300,Region Midtjylland
 2021-10-14,Fourfeldtskolen Bohr,38,12,6,18,8,7,6,3,3,10,3,4,0,0,32,118,150,Esbjerg Kommune,6710,Region Syddanmark
 2021-10-14,Fredensborg Skole,20,24,23,1,17,2,40,0,16,12,2,0,2,0,13,157,172,Fredensborg Kommune,3480,Region Hovedstaden
@@ -2500,13 +2500,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Friskolen Øster Egesborg,2,0,1,0,1,0,21,0,2,2,2,1,1,0,2,32,35,Vordingborg Kommune,4735,Region Sjælland
 2021-10-14,Frydenhøjskolen,28,10,2,3,11,2,18,3,3,1,5,1,2,0,14,87,103,Hvidovre Kommune,2650,Region Hovedstaden
 2021-10-14,Fuglsanggårdsskolen,10,14,31,0,10,0,5,0,1,18,3,12,5,0,16,104,125,Lyngby-Taarbæk Kommune,2830,Region Hovedstaden
-2021-10-14,"Funder-Kragelund Skole, Silkeborg",7,7,5,1,2,2,0,0,2,10,0,0,0,2,2,36,40,Silkeborg Kommune,8600,Region Midtjylland
+"2021-10-14,""Funder-Kragelund Skole, Silkeborg"",7,7,5,1,2,2,0,0,2,10,0,0,0,2,2,36,40,Silkeborg Kommune,8600,Region Midtjylland"
 2021-10-14,Fælleshåbsskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vejle Kommune,7080,Region Syddanmark
 2021-10-14,Fællesskolen Favrdal-Fjelstrup,73,64,10,15,12,4,12,5,26,32,21,5,41,6,24,279,350,Haderslev Kommune,6100,Region Syddanmark
 2021-10-14,Fællesskolen Hammelev-Sct. Severin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Haderslev Kommune,6100,Region Syddanmark
 2021-10-14,Gamle Hjortespringskole,0,1,0,0,0,0,0,1,3,0,2,0,1,0,3,7,11,Herlev Kommune,2730,Region Hovedstaden
 2021-10-14,Ganløse Skole,10,8,11,4,18,3,28,1,7,8,11,2,4,2,20,111,137,Egedal Kommune,3660,Region Hovedstaden
-2021-10-14,"Gåsetårnskolen, Iselinge",67,15,12,3,26,5,11,6,11,21,9,7,2,5,49,193,249,Vordingborg Kommune,4760,Region Sjælland
+"2021-10-14,""Gåsetårnskolen, Iselinge"",67,15,12,3,26,5,11,6,11,21,9,7,2,5,49,193,249,Vordingborg Kommune,4760,Region Sjælland"
 2021-10-14,Gedved Skole,31,1,7,3,2,1,7,0,1,3,0,2,3,2,5,58,68,Horsens Kommune,8751,Region Midtjylland
 2021-10-14,Giersings Realskole,15,18,25,7,17,0,10,0,1,19,17,2,3,0,10,131,144,Odense Kommune,5000,Region Syddanmark
 2021-10-14,Gilbjergskolen,44,12,57,3,42,2,8,1,4,10,11,3,13,0,41,197,251,Gribskov Kommune,3250,Region Hovedstaden
@@ -2515,9 +2515,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Gladsaxe Privatskole,9,5,4,1,0,0,1,0,1,3,0,0,2,1,10,24,37,Gladsaxe Kommune,2800,Region Hovedstaden
 2021-10-14,Gladsaxe Skole,51,13,1,6,8,8,3,0,1,2,3,2,3,3,26,98,130,Gladsaxe Kommune,2860,Region Hovedstaden
 2021-10-14,Glamsbjergskolen,19,18,9,2,3,1,4,5,1,25,4,1,5,0,28,92,125,Assens Kommune,5620,Region Syddanmark
-2021-10-14,"Glostrup skole, Nordvang",9,3,12,3,5,2,12,0,12,2,16,5,3,0,15,81,99,Glostrup Kommune,2600,Region Hovedstaden
-2021-10-14,"Glostrup skole, Søndervang",18,15,2,2,9,1,4,0,3,6,6,0,8,5,17,66,96,Glostrup Kommune,2600,Region Hovedstaden
-2021-10-14,"Glostrup Skole, Vestervang",8,1,0,2,2,0,0,0,0,2,1,1,1,0,2,17,20,Glostrup Kommune,2600,Region Hovedstaden
+"2021-10-14,""Glostrup skole, Nordvang"",9,3,12,3,5,2,12,0,12,2,16,5,3,0,15,81,99,Glostrup Kommune,2600,Region Hovedstaden"
+"2021-10-14,""Glostrup skole, Søndervang"",18,15,2,2,9,1,4,0,3,6,6,0,8,5,17,66,96,Glostrup Kommune,2600,Region Hovedstaden"
+"2021-10-14,""Glostrup Skole, Vestervang"",8,1,0,2,2,0,0,0,0,2,1,1,1,0,2,17,20,Glostrup Kommune,2600,Region Hovedstaden"
 2021-10-14,Gludsted Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ikast-Brande Kommune,7361,Region Midtjylland
 2021-10-14,Gram Skole,10,1,5,0,0,1,0,0,0,7,0,0,7,0,4,24,35,Haderslev Kommune,6510,Region Syddanmark
 2021-10-14,Gredstedbro Skole Vadehav,6,9,1,3,2,0,0,0,2,15,2,2,1,1,11,42,55,Esbjerg Kommune,6771,Region Syddanmark
@@ -2530,7 +2530,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Gudenåskolen,10,0,4,0,11,1,0,0,0,3,6,2,2,0,4,37,43,Skanderborg Kommune,8680,Region Midtjylland
 2021-10-14,Gudumholm Skole,12,5,3,1,4,0,0,2,1,0,0,0,0,0,0,28,28,Aalborg Kommune,9280,Region Nordjylland
 2021-10-14,GULD10,11,10,7,0,5,1,2,1,15,8,3,0,3,1,31,63,98,Guldborgsund Kommune,4800,Region Sjælland
-2021-10-14,"GXU - Gladsaxe 10. Klasse og Ungdomsskole, 10. klasse afdelingen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gladsaxe Kommune,2860,Region Hovedstaden
+"2021-10-14,""GXU - Gladsaxe 10. Klasse og Ungdomsskole, 10. klasse afdelingen"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gladsaxe Kommune,2860,Region Hovedstaden"
 2021-10-14,Gylling Efterskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Odder Kommune,8300,Region Midtjylland
 2021-10-14,Gyvelhøjskolen,26,17,23,4,4,0,18,0,2,8,5,2,1,1,11,109,122,Skanderborg Kommune,8464,Region Midtjylland
 2021-10-14,Gørding Skole Fortuna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Esbjerg Kommune,6690,Region Syddanmark
@@ -2567,7 +2567,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Herfølge Friskole,4,3,1,3,2,1,0,0,0,3,0,0,0,0,0,17,17,Køge Kommune,4681,Region Sjælland
 2021-10-14,Herlev byskole,27,2,1,1,1,0,1,2,1,12,12,1,3,14,14,61,92,Herlev Kommune,2730,Region Hovedstaden
 2021-10-14,Herning Friskole,9,1,2,0,2,1,10,0,2,4,0,1,0,0,6,32,38,Herning Kommune,7400,Region Midtjylland
-2021-10-14,"Herningsholm Erhvervsskole & Gymnasier, 10. klasse",22,19,7,3,0,4,5,2,2,12,5,4,6,4,18,85,113,Herning Kommune,7400,Region Midtjylland
+"2021-10-14,""Herningsholm Erhvervsskole & Gymnasier, 10. klasse"",22,19,7,3,0,4,5,2,2,12,5,4,6,4,18,85,113,Herning Kommune,7400,Region Midtjylland"
 2021-10-14,Herningsholmskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herning Kommune,7400,Region Midtjylland
 2021-10-14,Herningvej Skole,18,5,10,0,1,2,5,0,2,5,8,6,0,0,0,62,62,Aalborg Kommune,9220,Region Nordjylland
 2021-10-14,Herskindskolen,6,3,4,0,4,0,7,0,1,2,3,2,4,0,5,32,41,Skanderborg Kommune,8464,Region Midtjylland
@@ -2594,14 +2594,14 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Holme Skole,27,27,11,3,13,1,15,2,1,14,3,5,5,0,10,122,137,Aarhus Kommune,8270,Region Midtjylland
 2021-10-14,Holmebækskolen,1,0,0,0,13,4,0,0,0,2,0,0,0,0,0,20,20,Køge Kommune,4681,Region Sjælland
 2021-10-14,Holmegaardskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4684,Region Sjælland
-2021-10-14,"Holmegaardskolen, afd. Fensmark",22,4,14,2,6,2,36,2,0,3,13,1,2,3,68,105,178,Næstved Kommune,4684,Region Sjælland
+"2021-10-14,""Holmegaardskolen, afd. Fensmark"",22,4,14,2,6,2,36,2,0,3,13,1,2,3,68,105,178,Næstved Kommune,4684,Region Sjælland"
 2021-10-14,Holmegårdsskolen,30,7,27,1,3,1,4,0,5,2,7,1,1,0,18,88,107,Hvidovre Kommune,2650,Region Hovedstaden
 2021-10-14,Holstebro Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Holstebro Kommune,7500,Region Midtjylland
 2021-10-14,Holte Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rudersdal Kommune,2840,Region Hovedstaden
 2021-10-14,Hornslet Skole,30,9,20,2,6,1,23,0,2,4,5,3,9,15,15,105,144,Syddjurs Kommune,8543,Region Midtjylland
 2021-10-14,Hornum Skole,17,5,1,0,0,0,1,0,1,6,0,0,1,0,6,31,38,Vesthimmerlands Kommune,9600,Region Nordjylland
 2021-10-14,Horsens Byskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Horsens Kommune,8700,Region Midtjylland
-2021-10-14,"Horsens Byskole, folkeskoleafdeling",18,7,25,8,2,0,5,2,3,4,15,2,14,0,30,91,135,Horsens Kommune,8700,Region Midtjylland
+"2021-10-14,""Horsens Byskole, folkeskoleafdeling"",18,7,25,8,2,0,5,2,3,4,15,2,14,0,30,91,135,Horsens Kommune,8700,Region Midtjylland"
 2021-10-14,Horslunde Realskole,6,3,0,0,0,0,2,0,3,6,5,1,1,0,5,26,32,Lolland Kommune,4913,Region Sjælland
 2021-10-14,Hotherskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stevns Kommune,4652,Region Sjælland
 2021-10-14,Hulvej Privatskole,17,36,34,5,4,1,25,0,5,34,6,3,5,0,31,170,206,Horsens Kommune,8700,Region Midtjylland
@@ -2630,8 +2630,8 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Høng Skole,25,5,18,2,5,2,19,0,16,5,1,1,1,0,14,99,114,Kalundborg Kommune,4270,Region Sjælland
 2021-10-14,Hørsholm Lille Skole,7,6,5,1,0,0,2,1,0,2,1,1,1,0,14,26,41,Hørsholm Kommune,2960,Region Hovedstaden
 2021-10-14,Hørsholm Skole,20,7,0,0,0,0,8,1,0,3,4,1,0,0,6,44,50,Hørsholm Kommune,2970,Region Hovedstaden
-2021-10-14,"IBC International Business College Fredericia, 10. klasse",10,0,3,0,3,0,3,0,0,2,1,0,7,1,14,22,44,Fredericia Kommune,7000,Region Syddanmark
-2021-10-14,"IBC, 10. klasse",5,6,0,1,6,1,1,0,3,2,1,2,9,0,0,28,37,Kolding Kommune,6000,Region Syddanmark
+"2021-10-14,""IBC International Business College Fredericia, 10. klasse"",10,0,3,0,3,0,3,0,0,2,1,0,7,1,14,22,44,Fredericia Kommune,7000,Region Syddanmark"
+"2021-10-14,""IBC, 10. klasse"",5,6,0,1,6,1,1,0,3,2,1,2,9,0,0,28,37,Kolding Kommune,6000,Region Syddanmark"
 2021-10-14,Ikast Nordre Skole,10,5,7,2,0,0,3,0,1,18,0,0,1,0,13,46,60,Ikast-Brande Kommune,7430,Region Midtjylland
 2021-10-14,Ingrid Jespersens Gymnasieskole,24,46,31,2,25,0,9,0,2,15,28,7,1,3,34,189,227,Københavns Kommune,2100,Region Hovedstaden
 2021-10-14,Ingstrup Trivselsskole,5,3,2,5,3,0,2,0,0,2,0,0,2,0,4,22,28,Jammerbugt Kommune,9480,Region Nordjylland
@@ -2660,13 +2660,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Kirkebakkeskolen,4,3,14,0,7,11,18,0,9,3,0,0,0,0,6,69,75,Vejle Kommune,7120,Region Syddanmark
 2021-10-14,Kirkebjerg Skole,28,24,19,0,12,0,29,0,0,36,67,0,10,5,70,215,300,Københavns Kommune,2720,Region Hovedstaden
 2021-10-14,Kirsebærhavens Skole,4,11,0,0,1,0,1,0,2,2,5,5,3,1,13,31,48,Københavns Kommune,2500,Region Hovedstaden
-2021-10-14,"Kirstinebjergskolen, Havepladsvej",24,20,91,8,4,2,10,1,3,19,3,0,7,12,0,185,204,Fredericia Kommune,7000,Region Syddanmark
+"2021-10-14,""Kirstinebjergskolen, Havepladsvej"",24,20,91,8,4,2,10,1,3,19,3,0,7,12,0,185,204,Fredericia Kommune,7000,Region Syddanmark"
 2021-10-14,Kirstinedalsskolen,29,23,1,2,2,0,0,0,2,24,2,0,4,2,5,85,96,Køge Kommune,4600,Region Sjælland
 2021-10-14,Klokkerholm Skole,11,18,6,1,1,3,1,7,4,11,1,0,0,0,2,64,66,Brønderslev Kommune,9320,Region Nordjylland
 2021-10-14,Klostermarksskolen,42,26,20,3,3,9,15,5,2,50,5,3,5,4,34,183,226,Aalborg Kommune,9000,Region Nordjylland
 2021-10-14,Kløvermarkskolen,78,11,145,11,8,2,22,0,6,14,7,4,8,4,240,308,560,Haderslev Kommune,6100,Region Syddanmark
-2021-10-14,"Kobberbakkeskolen, afd. Sct. Jørgen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
-2021-10-14,"Kobberbakkeskolen, afd. Sjølund",23,12,2,2,11,1,8,4,5,11,19,2,5,4,0,100,109,Næstved Kommune,4700,Region Sjælland
+"2021-10-14,""Kobberbakkeskolen, afd. Sct. Jørgen"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland"
+"2021-10-14,""Kobberbakkeskolen, afd. Sjølund"",23,12,2,2,11,1,8,4,5,11,19,2,5,4,0,100,109,Næstved Kommune,4700,Region Sjælland"
 2021-10-14,Kokkedal Skole,24,26,17,0,8,5,1,0,3,3,1,1,20,1,20,89,130,Fredensborg Kommune,2980,Region Hovedstaden
 2021-10-14,Kolding Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kolding Kommune,6000,Region Syddanmark
 2021-10-14,Kolind skole,9,5,9,7,0,0,8,0,0,5,2,0,1,0,6,45,52,Syddjurs Kommune,8560,Region Midtjylland
@@ -2703,9 +2703,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Lem Stationsskole,15,15,1,3,0,0,2,3,1,11,0,0,0,0,4,51,55,Ringkøbing-Skjern Kommune,6940,Region Midtjylland
 2021-10-14,Lemtorpskolen,14,10,3,4,1,0,2,3,2,12,0,0,3,0,7,51,61,Lemvig Kommune,7620,Region Midtjylland
 2021-10-14,Lille Næstved Skole,42,25,8,10,20,2,5,3,3,9,6,2,0,0,190,135,325,Næstved Kommune,4700,Region Sjælland
-2021-10-14,"Lille Næstved Skole, afd. Fuglebjerg",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4250,Region Sjælland
-2021-10-14,"Lille Næstved Skole, afd. Herlufsholmvej",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
-2021-10-14,"Lille Næstved Skole, afd. Karrebækvej",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
+"2021-10-14,""Lille Næstved Skole, afd. Fuglebjerg"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4250,Region Sjælland"
+"2021-10-14,""Lille Næstved Skole, afd. Herlufsholmvej"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland"
+"2021-10-14,""Lille Næstved Skole, afd. Karrebækvej"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland"
 2021-10-14,Lille Værløse Skole,18,18,2,0,4,1,0,1,1,4,4,0,2,0,6,53,61,Furesø Kommune,3500,Region Hovedstaden
 2021-10-14,Lillebæltskolen,24,7,6,1,6,3,15,0,4,16,4,0,2,1,31,86,120,Middelfart Kommune,5500,Region Syddanmark
 2021-10-14,Lillevang Skole,27,14,42,2,5,3,21,5,1,18,10,1,5,0,38,149,192,Allerød Kommune,3450,Region Hovedstaden
@@ -2742,7 +2742,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Måløvhøj Skole,61,37,9,1,24,4,7,0,7,18,1,3,14,4,30,172,220,Ballerup Kommune,2760,Region Hovedstaden
 2021-10-14,Margretheskolen,18,16,1,2,0,0,0,1,7,8,0,1,6,0,3,54,63,Roskilde Kommune,4000,Region Sjælland
 2021-10-14,Mariager Skole,11,18,8,2,2,0,1,1,1,8,0,0,0,0,10,52,62,Mariagerfjord Kommune,9550,Region Nordjylland
-2021-10-14,"Maribo Skole, Borgerskoleafdelingen",31,1,9,1,5,0,6,0,10,5,8,1,1,0,22,77,100,Lolland Kommune,4930,Region Sjælland
+"2021-10-14,""Maribo Skole, Borgerskoleafdelingen"",31,1,9,1,5,0,6,0,10,5,8,1,1,0,22,77,100,Lolland Kommune,4930,Region Sjælland"
 2021-10-14,Marienhoffskolen,25,12,5,1,16,0,6,0,6,5,0,2,3,0,19,78,100,Syddjurs Kommune,8550,Region Midtjylland
 2021-10-14,Markusskolen,4,2,7,3,0,0,1,0,0,3,4,5,0,0,0,29,29,Esbjerg Kommune,6710,Region Syddanmark
 2021-10-14,Mårslet Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aarhus Kommune,8320,Region Midtjylland
@@ -2754,9 +2754,9 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Mellervangskolen,26,2,0,2,7,0,3,2,1,5,9,1,3,0,0,58,61,Aalborg Kommune,9220,Region Nordjylland
 2021-10-14,Mentiqa-Nordjylland,1,1,3,0,5,0,2,0,1,10,1,1,5,1,0,25,31,Aalborg Kommune,9400,Region Nordjylland
 2021-10-14,Middelfart Friskole,4,2,3,0,14,0,1,0,0,1,5,0,1,0,8,30,39,Middelfart Kommune,5500,Region Syddanmark
-2021-10-14,"Midtskolen, Bavneskolen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Faxe Kommune,4690,Region Sjælland
-2021-10-14,"Midtskolen, Møllevangsskolen",15,8,12,2,12,1,3,0,5,4,2,1,3,0,12,65,80,Faxe Kommune,4683,Region Sjælland
-2021-10-14,"Midtskolen, Sofiendalskolen",8,4,8,0,1,0,2,1,2,0,1,0,1,1,61,27,90,Faxe Kommune,4690,Region Sjælland
+"2021-10-14,""Midtskolen, Bavneskolen"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Faxe Kommune,4690,Region Sjælland"
+"2021-10-14,""Midtskolen, Møllevangsskolen"",15,8,12,2,12,1,3,0,5,4,2,1,3,0,12,65,80,Faxe Kommune,4683,Region Sjælland"
+"2021-10-14,""Midtskolen, Sofiendalskolen"",8,4,8,0,1,0,2,1,2,0,1,0,1,1,61,27,90,Faxe Kommune,4690,Region Sjælland"
 2021-10-14,Min Friskole S/I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Norddjurs Kommune,8586,Region Midtjylland
 2021-10-14,Mou Skole,5,3,0,2,0,2,1,0,0,5,1,1,1,0,2,20,23,Aalborg Kommune,9280,Region Nordjylland
 2021-10-14,Muldbjerg undervisningssted,36,9,10,0,4,1,16,1,7,8,16,1,0,5,10,109,124,Hjørring Kommune,9800,Region Nordjylland
@@ -2764,13 +2764,13 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Munkebo Skole - mellem nor og fjord,10,21,2,4,0,2,1,1,1,14,0,1,5,0,13,57,75,Kerteminde Kommune,5330,Region Syddanmark
 2021-10-14,Munkegårdsskolen,9,25,23,0,0,0,6,0,0,1,14,0,5,0,27,78,110,Gentofte Kommune,2870,Region Hovedstaden
 2021-10-14,Munkekærskolen,25,20,11,6,2,1,16,3,4,22,1,2,0,2,45,113,160,Solrød Kommune,2680,Region Sjælland
-2021-10-14,"Munkevængets Skole, almen",15,17,2,4,6,1,3,0,15,2,10,0,7,0,0,75,82,Kolding Kommune,6000,Region Syddanmark
+"2021-10-14,""Munkevængets Skole, almen"",15,17,2,4,6,1,3,0,15,2,10,0,7,0,0,75,82,Kolding Kommune,6000,Region Syddanmark"
 2021-10-14,Munkholmskolen,15,4,16,17,6,0,4,0,1,9,2,0,5,0,1,74,80,Randers Kommune,8870,Region Midtjylland
 2021-10-14,Møldrup Skole,13,7,9,0,0,0,1,0,0,11,0,0,0,0,17,41,58,Viborg Kommune,9632,Region Midtjylland
 2021-10-14,Mølholm Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vejle Kommune,7100,Region Syddanmark
 2021-10-14,Møllevangskolen,29,5,0,4,2,0,3,0,6,3,4,2,2,1,12,58,73,Aarhus Kommune,8210,Region Midtjylland
 2021-10-14,Møn Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vordingborg Kommune,4780,Region Sjælland
-2021-10-14,"Møn Skole, Stege",43,3,7,0,4,1,0,0,3,2,3,1,3,0,24,67,94,Vordingborg Kommune,4780,Region Sjælland
+"2021-10-14,""Møn Skole, Stege"",43,3,7,0,4,1,0,0,3,2,3,1,3,0,24,67,94,Vordingborg Kommune,4780,Region Sjælland"
 2021-10-14,Mønsted Skole,10,8,4,4,1,0,0,0,1,3,0,0,0,0,9,31,40,Viborg Kommune,8800,Region Midtjylland
 2021-10-14,Mørke Skole,2,0,0,0,0,0,0,0,1,0,0,0,1,0,22,3,26,Syddjurs Kommune,8544,Region Midtjylland
 2021-10-14,Mørkhøj Skole,20,11,4,5,1,2,2,4,0,7,6,2,1,1,14,64,80,Gladsaxe Kommune,2860,Region Hovedstaden
@@ -2780,7 +2780,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Nordbyskolen,14,16,0,0,0,1,1,3,0,4,1,1,0,1,6,41,48,Guldborgsund Kommune,4800,Region Sjælland
 2021-10-14,Norddjurs Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Norddjurs Kommune,8500,Region Midtjylland
 2021-10-14,Nordre Skole,4,20,28,14,9,0,4,2,7,42,5,1,0,0,0,136,136,Viborg Kommune,8800,Region Midtjylland
-2021-10-14,"Nordskolen, afdeling Jyllinge",12,12,5,0,1,2,2,0,0,2,4,0,5,1,89,40,135,Roskilde Kommune,4040,Region Sjælland
+"2021-10-14,""Nordskolen, afdeling Jyllinge"",12,12,5,0,1,2,2,0,0,2,4,0,5,1,89,40,135,Roskilde Kommune,4040,Region Sjælland"
 2021-10-14,Nordstjerneskolen,15,4,17,3,3,0,43,3,3,4,18,4,1,0,38,117,156,Gribskov Kommune,3200,Region Hovedstaden
 2021-10-14,Nordvestskolen,26,9,5,10,32,4,13,1,7,4,9,9,1,5,31,129,166,Helsingør Kommune,3000,Region Hovedstaden
 2021-10-14,Nordøstsalling Skoler og Dagtilbud,4,5,1,6,0,6,4,0,7,20,1,1,3,5,2,55,65,Skive Kommune,7870,Region Midtjylland
@@ -2788,7 +2788,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Nr Uttrup Skole,3,36,9,0,2,0,0,0,2,5,0,0,0,0,23,57,80,Aalborg Kommune,9400,Region Nordjylland
 2021-10-14,Nr. Asmindrup Friskole,5,2,4,2,2,3,1,0,1,5,1,0,2,0,12,26,40,Odsherred Kommune,4572,Region Sjælland
 2021-10-14,Nr. Jernløse Skole,19,3,13,4,6,2,8,1,1,1,3,0,1,1,12,61,75,Holbæk Kommune,4420,Region Sjælland
-2021-10-14,"Nr. Jernløse, Knabstrup og Undløse Skole",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Holbæk Kommune,4420,Region Sjælland
+"2021-10-14,""Nr. Jernløse, Knabstrup og Undløse Skole"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Holbæk Kommune,4420,Region Sjælland"
 2021-10-14,Nr. Vedby Skole & Børnehus,4,0,0,0,0,0,1,0,2,2,3,1,0,0,0,13,13,Guldborgsund Kommune,4840,Region Sjælland
 2021-10-14,Ny Hollænderskolen,15,32,12,0,21,4,10,1,1,2,30,7,2,0,35,135,172,Frederiksberg Kommune,1855,Region Hovedstaden
 2021-10-14,Nyborg Friskole,3,4,3,0,0,0,0,0,0,0,0,0,0,0,63,10,73,Nyborg Kommune,5800,Region Syddanmark
@@ -2836,7 +2836,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Rejsby Europæiske Efterskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Tønder Kommune,6780,Region Syddanmark
 2021-10-14,Resen Friskole,9,6,4,0,0,0,0,1,0,0,0,0,0,0,2,20,22,Struer Kommune,7600,Region Midtjylland
 2021-10-14,Ringkøbing Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ringkøbing-Skjern Kommune,6950,Region Midtjylland
-2021-10-14,"Ringkøbing Skole, afd. Rindum",22,6,3,4,7,0,10,0,12,11,17,1,2,0,10,93,105,Ringkøbing-Skjern Kommune,6950,Region Midtjylland
+"2021-10-14,""Ringkøbing Skole, afd. Rindum"",22,6,3,4,7,0,10,0,12,11,17,1,2,0,10,93,105,Ringkøbing-Skjern Kommune,6950,Region Midtjylland"
 2021-10-14,Risbjergskolen,22,17,9,1,26,4,10,0,7,6,5,1,8,0,0,108,116,Hvidovre Kommune,2650,Region Hovedstaden
 2021-10-14,Risingskolen,20,19,1,2,6,5,2,3,4,2,10,5,3,0,39,79,121,Odense Kommune,5000,Region Syddanmark
 2021-10-14,Rolf Krake Skolen,24,23,13,1,4,2,14,1,5,8,8,2,1,3,20,105,129,Holstebro Kommune,7500,Region Midtjylland
@@ -2847,7 +2847,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Roslev Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Skive Kommune,7870,Region Midtjylland
 2021-10-14,Rosmus Skole,7,2,3,0,2,1,3,1,1,4,2,1,1,1,0,27,29,Syddjurs Kommune,8444,Region Midtjylland
 2021-10-14,Rudolf Steiner Skolen Kvistgård,1,10,3,0,1,0,0,0,0,0,6,1,2,0,0,22,24,Helsingør Kommune,3490,Region Hovedstaden
-2021-10-14,"Rudolf Steiner Skolen, Skanderborg",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Skanderborg Kommune,8660,Region Midtjylland
+"2021-10-14,""Rudolf Steiner Skolen, Skanderborg"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Skanderborg Kommune,8660,Region Midtjylland"
 2021-10-14,Ruds Vedby Skole,4,0,2,1,2,0,3,1,0,0,1,7,0,1,1,21,23,Sorø Kommune,4291,Region Sjælland
 2021-10-14,Rundhøjskolen,20,19,6,0,14,0,5,0,1,14,2,3,9,0,90,84,183,Aarhus Kommune,8270,Region Midtjylland
 2021-10-14,Rungsted Private Realskole,10,2,25,6,2,7,27,0,4,16,4,0,5,0,10,103,118,Hørsholm Kommune,2960,Region Hovedstaden
@@ -2889,7 +2889,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Skjoldhøjskolen,16,4,13,2,5,0,1,1,1,0,2,0,6,0,24,45,75,Aarhus Kommune,8381,Region Midtjylland
 2021-10-14,Skolecenter Jetsmark,11,7,6,12,0,0,1,1,2,2,0,0,6,0,9,42,57,Jammerbugt Kommune,9490,Region Nordjylland
 2021-10-14,Skolegades Skole,13,1,1,0,3,0,0,0,1,0,0,0,0,0,51,19,70,Brønderslev Kommune,9700,Region Nordjylland
-2021-10-14,"Skolen for Gastronomi, Musik & Design",4,5,0,1,1,0,0,0,1,0,1,1,0,0,2,14,16,Vejle Kommune,7100,Region Syddanmark
+"2021-10-14,""Skolen for Gastronomi, Musik & Design"",4,5,0,1,1,0,0,0,1,0,1,1,0,0,2,14,16,Vejle Kommune,7100,Region Syddanmark"
 2021-10-14,Skolen i Bymidten,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Helsingør Kommune,3000,Region Hovedstaden
 2021-10-14,Skolen i Midten,21,14,9,6,9,1,12,2,13,13,3,2,11,3,16,105,135,Hedensted Kommune,8783,Region Midtjylland
 2021-10-14,Skolen i Skjern - afdelingen på Enghavevej,5,5,0,0,2,1,1,0,2,3,1,1,0,0,3,21,24,Ringkøbing-Skjern Kommune,6900,Region Midtjylland
@@ -2902,7 +2902,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Skolen på Nyelandsvej,27,29,12,0,9,0,1,0,2,2,33,1,8,2,0,116,126,Frederiksberg Kommune,2000,Region Hovedstaden
 2021-10-14,Skolen ved Bulowsvej,10,26,18,0,35,14,1,3,2,25,34,11,0,8,33,179,220,Frederiksberg Kommune,1962,Region Hovedstaden
 2021-10-14,Skolen ved Rønnebær Allé,35,35,12,5,11,7,17,1,7,7,45,3,7,2,56,185,250,Helsingør Kommune,3000,Region Hovedstaden
-2021-10-14,"Skolerne i Egebjerg, Nykøbing og Odden",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Odsherred Kommune,4500,Region Sjælland
+"2021-10-14,""Skolerne i Egebjerg, Nykøbing og Odden"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Odsherred Kommune,4500,Region Sjælland"
 2021-10-14,Skottegårdsskolen,27,3,3,11,8,0,2,0,6,1,7,1,5,0,31,69,105,Tårnby Kommune,2770,Region Hovedstaden
 2021-10-14,Skovboskolen,15,13,2,7,3,1,12,0,3,14,3,0,3,0,9,73,85,Køge Kommune,4632,Region Sjælland
 2021-10-14,Skovbrynet skole,1,13,1,3,1,0,0,0,1,0,2,1,3,1,23,23,50,Gladsaxe Kommune,2880,Region Hovedstaden
@@ -2963,7 +2963,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Stubbekøbing Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Guldborgsund Kommune,4850,Region Sjælland
 2021-10-14,Suldrup Skole,12,8,6,2,0,0,2,0,4,9,0,0,5,0,0,43,48,Rebild Kommune,9541,Region Nordjylland
 2021-10-14,SUNDskolen,17,3,8,5,6,1,5,10,10,12,2,1,0,3,36,80,119,Guldborgsund Kommune,4800,Region Sjælland
-2021-10-14,"Susåskolen, afd. Holsted",30,10,13,5,9,11,3,0,8,29,11,1,6,0,24,130,160,Næstved Kommune,4700,Region Sjælland
+"2021-10-14,""Susåskolen, afd. Holsted"",30,10,13,5,9,11,3,0,8,29,11,1,6,0,24,130,160,Næstved Kommune,4700,Region Sjælland"
 2021-10-14,Svenstrup Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sønderborg Kommune,6430,Region Syddanmark
 2021-10-14,Svindinge Friskole,8,0,1,1,1,0,3,0,3,1,1,0,1,0,3,19,23,Nyborg Kommune,5853,Region Syddanmark
 2021-10-14,Svinninge Skole,14,9,2,0,4,2,10,0,2,2,3,1,0,0,10,49,59,Holbæk Kommune,4520,Region Sjælland
@@ -2981,7 +2981,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Sølystskolen,14,17,17,4,10,4,5,2,4,16,2,3,10,3,0,98,111,Aarhus Kommune,8250,Region Midtjylland
 2021-10-14,Søndergades Skole,21,7,46,5,0,0,3,0,17,9,0,1,3,0,8,109,120,Brønderslev Kommune,9700,Region Nordjylland
 2021-10-14,Sønderholm Skole,14,3,0,2,2,1,2,0,1,3,0,0,0,0,5,28,33,Aalborg Kommune,9240,Region Nordjylland
-2021-10-14,"Sønderjyllands Gymnasium, Grundskole og Kostskole",16,9,15,7,3,1,17,0,2,13,3,3,3,0,4,89,96,Tønder Kommune,6520,Region Syddanmark
+"2021-10-14,""Sønderjyllands Gymnasium, Grundskole og Kostskole"",16,9,15,7,3,1,17,0,2,13,3,3,3,0,4,89,96,Tønder Kommune,6520,Region Syddanmark"
 2021-10-14,Sønderlandsskolen,20,4,18,3,5,2,18,0,4,11,12,0,6,0,17,97,120,Holstebro Kommune,7500,Region Midtjylland
 2021-10-14,Søndermarkskolen,17,7,19,5,3,0,4,0,0,23,0,0,1,1,0,78,80,Frederiksberg Kommune,2000,Region Hovedstaden
 2021-10-14,Søndermarksskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bornholms Regionskommune,3700,Region Hovedstaden
@@ -3021,7 +3021,7 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Tove Ditlevsens Skole,7,30,12,2,27,3,8,0,0,9,14,7,9,0,0,119,128,Københavns Kommune,1670,Region Hovedstaden
 2021-10-14,Tre Falke Skolen,30,38,4,2,9,5,1,6,3,4,11,1,11,4,196,114,325,Frederiksberg Kommune,2000,Region Hovedstaden
 2021-10-14,Trekløverskolen,14,18,4,0,16,0,1,1,7,2,0,1,2,2,18,64,86,Frederikssund Kommune,3600,Region Hovedstaden
-2021-10-14,"Trekløverskolen, Silkeborg",46,13,10,1,4,4,17,1,19,14,1,4,4,2,10,134,150,Silkeborg Kommune,8620,Region Midtjylland
+"2021-10-14,""Trekløverskolen, Silkeborg"",46,13,10,1,4,4,17,1,19,14,1,4,4,2,10,134,150,Silkeborg Kommune,8620,Region Midtjylland"
 2021-10-14,Trekronerskolen,34,24,16,3,13,1,19,0,3,13,8,1,6,0,4,135,145,Roskilde Kommune,4000,Region Sjælland
 2021-10-14,Trongårdsskolen,11,12,16,4,20,0,9,0,1,12,12,0,0,5,18,97,120,Lyngby-Taarbæk Kommune,2800,Region Hovedstaden
 2021-10-14,Trunderup Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Faaborg-Midtfyn Kommune,5772,Region Syddanmark
@@ -3031,17 +3031,17 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Tuse og Udby Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Holbæk Kommune,4300,Region Sjælland
 2021-10-14,Tuse Skole,23,11,14,6,7,3,10,4,2,10,5,3,4,1,22,98,125,Holbæk Kommune,4300,Region Sjælland
 2021-10-14,Tvis Skole,7,6,6,2,5,3,4,0,1,13,0,2,2,1,14,49,66,Holstebro Kommune,7500,Region Midtjylland
-2021-10-14,"Tølløse Privat- og Efterskole, Baptisternes Skoler",37,16,2,9,15,5,8,0,16,19,4,5,5,0,29,136,170,Holbæk Kommune,4340,Region Sjælland
+"2021-10-14,""Tølløse Privat- og Efterskole, Baptisternes Skoler"",37,16,2,9,15,5,8,0,16,19,4,5,5,0,29,136,170,Holbæk Kommune,4340,Region Sjælland"
 2021-10-14,Tølløse Skole,33,19,13,1,2,0,6,0,1,19,1,2,1,4,8,97,110,Holbæk Kommune,4340,Region Sjælland
 2021-10-14,Tønder Distriktsskole - Overbygningsskolen,55,43,7,7,11,3,5,1,16,37,3,2,11,0,16,190,217,Tønder Kommune,6270,Region Syddanmark
 2021-10-14,Tønning-Træden Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Horsens Kommune,8740,Region Midtjylland
 2021-10-14,Tørring Skole,6,2,9,5,2,4,5,0,12,5,3,0,3,0,25,53,81,Hedensted Kommune,7160,Region Midtjylland
-2021-10-14,"Uddannelsescenter Holstebro, 10. klasse",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Holstebro Kommune,7500,Region Midtjylland
+"2021-10-14,""Uddannelsescenter Holstebro, 10. klasse"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Holstebro Kommune,7500,Region Midtjylland"
 2021-10-14,Udefriskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lemvig Kommune,7620,Region Midtjylland
 2021-10-14,Uglegårdsskolen,15,23,74,8,9,0,10,0,1,6,9,4,5,0,64,159,228,Solrød Kommune,2680,Region Sjælland
 2021-10-14,Ulfborg Skole,14,0,54,2,0,0,1,0,0,5,0,0,7,0,12,76,95,Holstebro Kommune,6990,Region Midtjylland
 2021-10-14,Ulkebøl Skole,15,3,1,9,3,0,6,2,1,12,0,1,1,1,5,53,60,Sønderborg Kommune,6400,Region Syddanmark
-2021-10-14,"Ullerup Bæk Skolen, Nr. Alle",84,13,2,4,8,6,6,2,15,4,8,3,14,8,64,155,241,Fredericia Kommune,7000,Region Syddanmark
+"2021-10-14,""Ullerup Bæk Skolen, Nr. Alle"",84,13,2,4,8,6,6,2,15,4,8,3,14,8,64,155,241,Fredericia Kommune,7000,Region Syddanmark"
 2021-10-14,Ullerødskolen,3,2,1,0,0,0,1,0,0,1,0,0,2,0,2,8,12,Fredensborg Kommune,2980,Region Hovedstaden
 2021-10-14,Ulstrup Skole,16,2,25,0,0,2,0,0,0,12,0,0,0,4,14,57,75,Favrskov Kommune,8860,Region Midtjylland
 2021-10-14,Ung Faxe - 10. klasse,11,2,5,1,6,0,8,1,4,3,7,3,1,0,22,51,74,Faxe Kommune,4690,Region Sjælland
@@ -3069,14 +3069,14 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Vestre Skole,15,7,13,3,7,1,13,2,1,4,2,1,1,0,14,69,84,Middelfart Kommune,5500,Region Syddanmark
 2021-10-14,Vestre Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Viborg Kommune,8800,Region Midtjylland
 2021-10-14,Vestsalling Skole og Dagtilbud,17,16,2,1,4,0,5,1,3,34,0,0,5,4,18,83,110,Skive Kommune,7860,Region Midtjylland
-2021-10-14,"Vestskolen, Nordskovskolen",50,45,26,1,8,3,36,0,12,21,7,1,5,0,48,210,263,Faxe Kommune,4690,Region Sjælland
+"2021-10-14,""Vestskolen, Nordskovskolen"",50,45,26,1,8,3,36,0,12,21,7,1,5,0,48,210,263,Faxe Kommune,4690,Region Sjælland"
 2021-10-14,Vibeholmskolen,6,4,14,0,1,2,0,0,1,1,3,0,4,0,52,32,88,Ishøj Kommune,2635,Region Hovedstaden
 2021-10-14,Vibenshus Skole,3,3,1,0,1,0,0,1,0,0,8,0,0,0,4,17,21,Københavns Kommune,2100,Region Hovedstaden
 2021-10-14,Viby Friskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Roskilde Kommune,4130,Region Sjælland
 2021-10-14,Viby Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Roskilde Kommune,4130,Region Sjælland
 2021-10-14,Viby Skole,19,5,4,0,3,0,13,0,1,1,4,0,3,0,17,50,70,Aarhus Kommune,8260,Region Midtjylland
-2021-10-14,"Viby Skole, afdeling Bueager",1,5,25,1,6,1,1,0,4,1,0,0,3,0,12,45,60,Roskilde Kommune,4130,Region Sjælland
-2021-10-14,"Viby Skole, afdeling Ørstedvej",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Roskilde Kommune,4130,Region Sjælland
+"2021-10-14,""Viby Skole, afdeling Bueager"",1,5,25,1,6,1,1,0,4,1,0,0,3,0,12,45,60,Roskilde Kommune,4130,Region Sjælland"
+"2021-10-14,""Viby Skole, afdeling Ørstedvej"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Roskilde Kommune,4130,Region Sjælland"
 2021-10-14,Vig Skole,6,4,6,7,6,1,0,0,6,3,0,0,0,1,15,39,55,Odsherred Kommune,4560,Region Sjælland
 2021-10-14,Vigersted Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ringsted Kommune,4100,Region Sjælland
 2021-10-14,Vildbjerg Skole,30,28,5,3,8,1,12,4,9,38,0,0,1,0,41,138,180,Herning Kommune,7480,Region Midtjylland
@@ -3090,11 +3090,11 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Virupskolen,31,5,2,2,8,4,6,0,6,5,8,11,0,0,42,88,130,Aarhus Kommune,8530,Region Midtjylland
 2021-10-14,Vittenbergskolen Vadehav,18,20,1,4,11,0,20,1,5,12,5,2,1,0,17,99,117,Esbjerg Kommune,6760,Region Syddanmark
 2021-10-14,Vonsild Skole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kolding Kommune,6000,Region Syddanmark
-2021-10-14,"Vonsild Skole, almen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kolding Kommune,6000,Region Syddanmark
+"2021-10-14,""Vonsild Skole, almen"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kolding Kommune,6000,Region Syddanmark"
 2021-10-14,Vorbasse Skole,7,4,0,0,0,0,0,0,1,4,0,0,2,0,3,16,21,Billund Kommune,6623,Region Syddanmark
 2021-10-14,Vorrevangskolen,30,6,0,3,7,5,0,0,2,0,14,1,6,0,16,68,90,Aarhus Kommune,8200,Region Midtjylland
 2021-10-14,Vrå undervisningssted,12,8,1,0,2,0,2,2,0,7,0,1,0,0,5,35,40,Hjørring Kommune,9760,Region Nordjylland
-2021-10-14,"Zealand Business College, 10. klasse",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland
+"2021-10-14,""Zealand Business College, 10. klasse"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Næstved Kommune,4700,Region Sjælland"
 2021-10-14,Ødsted Skole,5,11,40,3,1,2,6,0,1,2,0,0,0,1,4,71,76,Vejle Kommune,7100,Region Syddanmark
 2021-10-14,Øen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Faxe Kommune,4690,Region Sjælland
 2021-10-14,Ølsted Skole,19,0,18,2,1,0,3,0,4,2,0,0,0,0,21,49,70,Halsnæs Kommune,3310,Region Hovedstaden
@@ -3112,6 +3112,6 @@ date,school,party_s,party_rv,party_kf,party_nb,party_sf,party_vegan,party_la,par
 2021-10-14,Østervangsskolen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Randers Kommune,8930,Region Midtjylland
 2021-10-14,Østervangsskolen,13,35,10,3,17,1,4,1,19,6,7,5,8,7,18,121,154,Roskilde Kommune,4000,Region Sjælland
 2021-10-14,Østre Skole,29,0,1,6,0,1,2,1,6,5,1,0,9,0,21,52,82,Middelfart Kommune,5500,Region Syddanmark
-2021-10-14,"Østskolen,  Rolloskolen",11,0,7,1,1,0,0,0,11,0,8,0,25,8,18,39,90,Faxe Kommune,4640,Region Sjælland
-2021-10-14,"Østskolen, Hylleholt Skole",14,8,2,0,9,0,3,0,2,3,4,1,0,2,12,46,60,Faxe Kommune,4654,Region Sjælland
-2021-10-14,"Østskolen, Karise Skole",21,1,4,1,1,3,3,0,0,2,5,0,0,0,6,41,47,Faxe Kommune,4653,Region Sjælland
+"2021-10-14,""Østskolen,  Rolloskolen"",11,0,7,1,1,0,0,0,11,0,8,0,25,8,18,39,90,Faxe Kommune,4640,Region Sjælland"
+"2021-10-14,""Østskolen, Hylleholt Skole"",14,8,2,0,9,0,3,0,2,3,4,1,0,2,12,46,60,Faxe Kommune,4654,Region Sjælland"
+"2021-10-14,""Østskolen, Karise Skole"",21,1,4,1,1,3,3,0,0,2,5,0,0,0,6,41,47,Faxe Kommune,4653,Region Sjælland"
