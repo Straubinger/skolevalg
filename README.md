@@ -1,9 +1,13 @@
-Results of the Danish School General Elections 2015-2024
+Results of the Danish School General Elections 2015-2026
 ---
+
+https://uddannelsesstatistik.dk/
 
 ### Description
 
 Every two years since 2015 a mock general election has been held among 8th, 9th and 10th graders in Denmark. It is voluntary for the schools to participate in the elections. More info at <a href="https://www.skolevalg.dk/">Skolevalg.dk</a> (in Danish).
+
+It is possible to find additional information about the schools e.g. number of students at <a href="https://www.uddannelsesstatistik.dk/">Uddannelsesstatistik.dk</a> (in Danish).
 
 ### Repository content
 
@@ -27,14 +31,14 @@ The `skolevalg.csv` data file consists of the following variables:
 - `party_dd` = Number of votes for the Denmark Democrats (from 2024)
 - `party_el` = Number of votes for the Red-Green Alliance
 - `party_alt` = Number of votes for the Alternative (from 2017)
-- `blank` = Number of blank votes (missing from 2024)
+- `blank` = Number of blank votes (missing in 2024)
 - `invalid` = Number of invalid votes
 - `not_voted` = Number of students that have not voted (missing from 2024)
 - `valid` = Number of valid votes
 - `electorate` = Electorate (missing from 2024)
 - `municipality` = Municipality where the school is located
 - `municipality_id` = ID of the municipality where the school is located
-- `zip_code` = Zip code of the school
+- `zip_code` = Zip code of the school (missing from 2026)
 - `region` = Region where the school is located
 - `region_id` = ID of the region where the school is located
 
