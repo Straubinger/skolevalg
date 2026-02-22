@@ -3102,528 +3102,528 @@
 "2024-02-01",2024,"Hellerup Skole",157047,6,2,6,NA,8,NA,10,NA,3,0,38,0,9,1,NA,0,NA,83,NA,"Gentofte Kommune",157,2900,"Region Hovedstaden",1084
 "2024-02-01",2024,"Ishøj Skole",183001,1,4,1,NA,9,NA,11,NA,0,1,9,0,9,0,NA,1,NA,45,NA,"Ishøj Kommune",183,2635,"Region Hovedstaden",1084
 "2024-02-01",2024,"Rønbækskolen",713003,11,3,2,NA,2,NA,21,NA,8,0,1,0,1,2,NA,0,NA,51,NA,"Favrskov Kommune",710,8382,"Region Midtjylland",1082
-"20482",2026,"Friskolen Østerlars",400006,1,4,0,NA,3,NA,2,NA,1,2,3,0,6,1,0,0,NA,23,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
-"20482",2026,"Skovvangskolen",161010,12,36,0,NA,8,NA,4,NA,1,12,6,0,10,0,1,0,NA,89,NA,"Glostrup",161,NA,"Region Hovedstaden",1084
-"20482",2026,"Kongsbjergskolen",623002,12,2,2,NA,11,NA,3,NA,0,0,14,2,3,1,0,0,NA,50,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Måløvhøj Skole - Østerhøj",281859,34,1,16,NA,5,NA,8,NA,3,2,0,1,9,1,8,1,NA,80,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Sct. Norberts Skole",631019,6,1,16,NA,1,NA,21,NA,2,0,1,0,0,0,0,0,NA,48,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Humlebæk Skole",280120,14,4,14,NA,15,NA,10,NA,4,3,16,2,15,8,1,0,NA,105,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
-"20482",2026,"Høje Taastrup Privatskole",280471,3,6,1,NA,1,NA,7,NA,0,0,0,1,20,0,0,0,NA,39,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
-"20482",2026,"Nordagerskolen",473020,1,19,5,NA,3,NA,8,NA,0,29,9,1,2,0,1,0,NA,77,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Sydfalster Skole",395002,5,1,0,NA,2,NA,2,NA,2,8,2,0,1,0,4,0,NA,23,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Bankagerskolen",615015,24,6,2,NA,6,NA,14,NA,4,25,5,2,6,0,3,4,NA,94,NA,"Horsens",615,NA,"Region Midtjylland",1082
-"20482",2026,"Nr Lyndelse Friskole",497006,11,0,4,NA,5,NA,3,NA,1,3,0,1,0,0,0,1,NA,28,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Al Hikma Skolen",101180,1,9,0,NA,3,NA,1,NA,0,1,2,0,9,1,1,0,NA,27,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Rudolf Steiner Skolen, Skanderborg",745008,2,0,1,NA,1,NA,3,NA,2,0,3,0,3,13,2,0,NA,28,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Fuglsanggårdsskolen",173003,9,17,20,NA,19,NA,23,NA,4,12,12,0,2,6,2,0,NA,124,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
-"20482",2026,"Østerbyskolen",575011,41,0,2,NA,4,NA,3,NA,1,4,2,2,2,0,4,0,NA,61,NA,"Vejen",575,NA,"Region Syddanmark",1083
-"20482",2026,"Stenhus Kostskole",315012,11,4,19,NA,4,NA,30,NA,0,6,91,0,16,1,13,2,NA,182,NA,"Holbæk",316,NA,"Region Sjælland",1085
-"20482",2026,"Esbjerg Realskole",561026,30,1,30,NA,1,NA,20,NA,0,20,8,2,4,1,5,0,NA,117,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Bredagerskolen",617002,14,0,0,NA,2,NA,25,NA,1,6,8,0,0,0,1,0,NA,56,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Vestskolen, afd. Skovbakken",727007,11,13,15,NA,5,NA,8,NA,1,6,36,0,29,2,9,0,NA,126,NA,"Odder",727,NA,"Region Midtjylland",1082
-"20482",2026,"Frelloskolen",281527,15,5,2,NA,1,NA,9,NA,3,19,17,0,1,0,2,0,NA,72,NA,"Varde",573,NA,"Region Syddanmark",1083
-"20482",2026,"Lille Næstved Skole, afd. Herlufsholmvej",373005,14,5,1,NA,2,NA,36,NA,1,0,3,0,5,0,2,0,NA,67,NA,"Næstved",370,NA,"Region Sjælland",1085
-"20482",2026,"Tune Skole",253006,16,8,21,NA,6,NA,1,NA,1,8,4,0,0,1,3,1,NA,66,NA,"Greve",253,NA,"Region Sjælland",1085
-"20482",2026,"Fælleshåbsskolen",280333,45,2,1,NA,0,NA,9,NA,0,16,5,0,1,0,3,0,NA,79,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Skovlunde Skole - Lundebjerg",281857,3,2,12,NA,2,NA,3,NA,2,3,5,2,3,0,0,0,NA,37,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Hedemølle Efterskole",761303,2,27,24,NA,1,NA,3,NA,0,2,5,0,3,0,3,1,NA,67,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Hjemly Fri- og Idrætsefterskole",473011,2,3,2,NA,3,NA,6,NA,4,4,2,0,1,0,1,0,NA,27,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Haslevskolerne, Sofiendalskolen",313002,11,1,0,NA,8,NA,7,NA,5,3,5,0,9,0,0,0,NA,49,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Sdr. Nærå Fri- og Efterskole (Friskolen)",497007,1,3,4,NA,0,NA,4,NA,0,0,0,8,0,0,5,1,NA,20,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Nordøstsalling Skoler og Dagtilbud Breum",281006,0,1,0,NA,1,NA,5,NA,0,1,4,9,3,0,4,0,NA,24,NA,"Skive",779,NA,"Region Midtjylland",1082
-"20482",2026,"Hadbjerg Skole",709003,14,21,5,NA,2,NA,5,NA,2,2,10,1,1,0,3,0,NA,63,NA,"Favrskov",710,NA,"Region Midtjylland",1082
-"20482",2026,"Klarup Skole",851024,36,2,1,NA,5,NA,1,NA,1,8,0,0,0,0,3,0,NA,54,NA,"Aalborg",851,NA,"Region Nordjylland",1081
-"20482",2026,"Afdeling Maglehøj",237004,6,0,22,NA,1,NA,6,NA,0,1,27,1,9,0,2,0,NA,73,NA,"Egedal",240,NA,"Region Hovedstaden",1084
-"20482",2026,"Balleskolen",743014,10,2,5,NA,2,NA,3,NA,3,3,6,0,11,0,1,2,NA,45,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
-"20482",2026,"Brobyskolerne",280117,3,1,0,NA,2,NA,16,NA,0,19,1,7,0,1,11,1,NA,50,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Bakkevejens Skole",557001,7,3,0,NA,12,NA,2,NA,0,2,1,0,0,0,0,0,NA,27,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Rosmus Skole",701002,12,1,0,NA,10,NA,12,NA,1,12,2,1,4,1,0,5,NA,56,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
-"20482",2026,"Strandby Skole",813006,18,3,0,NA,0,NA,5,NA,2,11,10,2,2,0,2,0,NA,53,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Paradisbakkeskolen",400014,7,0,5,NA,0,NA,10,NA,0,4,18,0,3,1,0,0,NA,48,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
-"20482",2026,"Virring Skole",745004,17,4,0,NA,2,NA,5,NA,5,2,5,3,2,0,5,1,NA,45,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Nordregårdsskolen",185004,18,2,2,NA,0,NA,3,NA,0,8,2,0,16,0,0,0,NA,51,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
-"20482",2026,"BillundSkolen",280316,15,1,1,NA,4,NA,17,NA,3,1,2,1,1,0,0,0,NA,46,NA,"Billund",530,NA,"Region Syddanmark",1083
-"20482",2026,"Ådalens Skole",280222,12,3,37,NA,13,NA,44,NA,2,12,3,0,8,1,12,1,NA,135,NA,"Frederikssund",250,NA,"Region Hovedstaden",1084
-"20482",2026,"Lillevang Skole afdeling Skovvang",280805,39,42,4,NA,5,NA,4,NA,0,15,3,1,15,1,2,0,NA,129,NA,"Allerød",201,NA,"Region Hovedstaden",1084
-"20482",2026,"Brårup Skole",779001,8,5,5,NA,9,NA,28,NA,5,6,5,8,8,2,2,0,NA,89,NA,"Skive",779,NA,"Region Midtjylland",1082
-"20482",2026,"Gedved Skole",609004,5,1,2,NA,4,NA,5,NA,4,3,27,1,12,0,0,0,NA,64,NA,"Horsens",615,NA,"Region Midtjylland",1082
-"20482",2026,"Skivehus Skole",779007,27,2,1,NA,9,NA,16,NA,1,3,5,7,6,0,2,0,NA,77,NA,"Skive",779,NA,"Region Midtjylland",1082
-"20482",2026,"Esajasskolen",167013,11,2,3,NA,5,NA,9,NA,7,10,0,3,0,0,3,1,NA,50,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Hans Rømer Skolen",400042,9,3,3,NA,1,NA,10,NA,1,11,3,0,4,0,5,0,NA,45,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
-"20482",2026,"Skjern Kristne Friskole",669010,7,9,8,NA,0,NA,5,NA,0,4,4,12,2,0,2,0,NA,51,NA,"Ringkøbing-Skjern",760,NA,"Region Midtjylland",1082
-"20482",2026,"Grønnemose Skole",159006,5,9,1,NA,42,NA,6,NA,1,4,0,0,41,1,0,0,NA,110,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Vestfjendsskolen",763008,0,5,0,NA,0,NA,3,NA,1,0,27,1,1,0,1,0,NA,38,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Skovsgård Tranum skole",803004,3,0,0,NA,1,NA,8,NA,0,12,0,5,2,1,3,1,NA,32,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
-"20482",2026,"Gåsetårnskolen, Iselinge",397008,103,12,20,NA,6,NA,20,NA,4,11,14,1,7,0,6,0,NA,198,NA,"Vordingborg",390,NA,"Region Sjælland",1085
-"20482",2026,"Parkvejens Skole",727004,32,3,6,NA,24,NA,5,NA,8,9,10,1,18,0,9,2,NA,116,NA,"Odder",727,NA,"Region Midtjylland",1082
-"20482",2026,"Ordblindeinstituttet",151030,7,0,0,NA,2,NA,5,NA,5,1,1,2,3,0,1,1,NA,26,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Nørrevangsskolen og UNX-Ung Nord10",731014,27,21,2,NA,2,NA,5,NA,1,6,2,1,27,3,0,1,NA,97,NA,"Randers",730,NA,"Region Midtjylland",1082
-"20482",2026,"Møn Friskole",365012,3,1,1,NA,0,NA,9,NA,1,2,1,0,6,1,1,0,NA,25,NA,"Vordingborg",390,NA,"Region Sjælland",1085
-"20482",2026,"Skt. Pauls Skole",169016,17,2,1,NA,0,NA,9,NA,1,6,0,2,0,0,3,0,NA,38,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
-"20482",2026,"Institut Sankt Joseph",101081,21,16,2,NA,14,NA,21,NA,14,8,2,2,2,0,0,13,NA,102,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Sankt Annæ Gymnasiums Grundskole",101158,15,20,7,NA,66,NA,9,NA,1,3,4,0,9,6,0,1,NA,140,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Sulsted Skole",851029,51,0,0,NA,0,NA,2,NA,0,0,3,0,10,0,4,0,NA,66,NA,"Aalborg",851,NA,"Region Nordjylland",1081
-"20482",2026,"Aulum-Hodsager Skole",280679,12,1,6,NA,5,NA,10,NA,3,3,9,9,8,0,2,0,NA,66,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Ans Skole",771001,7,5,21,NA,2,NA,6,NA,0,4,0,1,0,0,2,1,NA,46,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
-"20482",2026,"Sjørring Skole",787006,20,5,3,NA,8,NA,7,NA,2,4,20,9,0,1,1,0,NA,79,NA,"Thisted",787,NA,"Region Nordjylland",1081
-"20482",2026,"Munkekærskolen",269007,18,5,28,NA,11,NA,18,NA,0,22,0,5,10,1,3,1,NA,118,NA,"Solrød",269,NA,"Region Sjælland",1085
-"20482",2026,"Nymarkskolen",280113,64,7,5,NA,11,NA,23,NA,5,32,5,6,42,2,7,4,NA,202,NA,"Svendborg",479,NA,"Region Syddanmark",1083
-"20482",2026,"Holluf Pile Skole",461064,39,5,5,NA,8,NA,9,NA,7,0,10,3,8,5,1,0,NA,99,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Stjernevejskolen",613012,25,6,1,NA,2,NA,8,NA,2,11,18,0,2,0,10,3,NA,75,NA,"Hedensted",766,NA,"Region Midtjylland",1082
-"20482",2026,"Lynghøjskolen",265008,8,22,15,NA,7,NA,7,NA,4,2,4,2,0,2,5,0,NA,73,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Christianshavns Døttreskole",101079,4,4,9,NA,4,NA,3,NA,2,0,2,0,5,0,0,0,NA,33,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Nordsjællands Friskole",219016,5,0,0,NA,1,NA,7,NA,3,0,1,0,3,1,0,0,NA,21,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
-"20482",2026,"Hillerød Vest Skolen",280163,47,4,6,NA,7,NA,9,NA,8,13,6,3,5,0,0,7,NA,108,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
-"20482",2026,"Egholmskolen",187001,23,7,4,NA,3,NA,24,NA,5,20,18,1,28,3,8,1,NA,136,NA,"Vallensbæk",187,NA,"Region Hovedstaden",1084
-"20482",2026,"Markusskolen",561036,5,5,2,NA,0,NA,28,NA,0,0,2,0,5,1,3,0,NA,48,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Toftlund Skole",550002,24,0,0,NA,3,NA,11,NA,3,1,6,4,3,0,8,0,NA,55,NA,"Tønder",550,NA,"Region Syddanmark",1083
-"20482",2026,"Vibeholmskolen",183002,21,18,12,NA,2,NA,2,NA,0,5,2,0,46,0,3,2,NA,108,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
-"20482",2026,"Lisbjergskolen",751022,11,0,2,NA,5,NA,15,NA,0,2,1,3,2,1,1,0,NA,42,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Stilling Skole",745003,26,4,10,NA,10,NA,1,NA,6,8,5,2,6,0,7,0,NA,78,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Højene undervisningssted",821003,14,11,2,NA,3,NA,9,NA,0,5,18,1,5,0,0,0,NA,68,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Ejerslykkeskolen",461014,17,1,5,NA,10,NA,5,NA,3,1,3,2,10,3,0,10,NA,60,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Sønderlandsskolen",661012,25,5,3,NA,7,NA,20,NA,1,3,6,1,10,1,0,0,NA,82,NA,"Holstebro",661,NA,"Region Midtjylland",1082
-"20482",2026,"Karlslunde Skole",253002,18,0,2,NA,0,NA,8,NA,1,0,1,0,4,0,2,1,NA,34,NA,"Greve",253,NA,"Region Sjælland",1085
-"20482",2026,"Kirkebjerg Skole",101020,5,5,0,NA,3,NA,12,NA,15,1,9,0,11,1,5,2,NA,62,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Rathlouskolen",727011,16,22,13,NA,2,NA,14,NA,0,0,4,0,8,0,2,0,NA,79,NA,"Odder",727,NA,"Region Midtjylland",1082
-"20482",2026,"Hyllehøjskolen",445002,2,2,0,NA,0,NA,13,NA,3,0,9,0,4,0,0,0,NA,33,NA,"Middelfart",410,NA,"Region Syddanmark",1083
-"20482",2026,"Måløvhøj Skole – Måløv",280565,29,1,23,NA,3,NA,7,NA,3,13,0,1,5,0,0,0,NA,85,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Holbæk Lilleskole",315017,12,6,4,NA,11,NA,15,NA,0,4,2,0,6,1,5,0,NA,61,NA,"Holbæk",316,NA,"Region Sjælland",1085
-"20482",2026,"Beder Skole",751004,7,1,0,NA,23,NA,10,NA,1,3,9,1,17,0,0,1,NA,72,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Langebjergskolen",208008,20,7,0,NA,7,NA,9,NA,4,9,2,3,4,0,0,0,NA,65,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
-"20482",2026,"Skårup Skole",280138,32,8,2,NA,0,NA,4,NA,0,6,5,1,0,0,1,0,NA,58,NA,"Svendborg",479,NA,"Region Syddanmark",1083
-"20482",2026,"Rungsted Private Realskole",223006,6,2,12,NA,0,NA,41,NA,0,0,9,0,1,2,0,0,NA,73,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
-"20482",2026,"Nyborg Friskole",449009,26,3,0,NA,3,NA,7,NA,1,3,2,0,1,0,7,1,NA,46,NA,"Nyborg",450,NA,"Region Syddanmark",1083
-"20482",2026,"Eskilstrup Børne- og Skolefællesskab",375004,12,1,0,NA,1,NA,6,NA,2,8,0,1,1,2,0,0,NA,34,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Frederiksværk Skole",280197,18,2,0,NA,0,NA,7,NA,3,11,4,0,11,3,1,0,NA,59,NA,"Halsnæs",260,NA,"Region Hovedstaden",1084
-"20482",2026,"Viby Skole, afdeling Bueager",263004,14,1,0,NA,4,NA,13,NA,1,4,0,0,0,0,1,2,NA,37,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Tørring Skole",627004,4,2,0,NA,1,NA,11,NA,0,12,36,2,2,0,4,0,NA,70,NA,"Hedensted",766,NA,"Region Midtjylland",1082
-"20482",2026,"Tingstrup Skole",787013,15,2,1,NA,8,NA,7,NA,0,5,19,10,7,1,4,0,NA,75,NA,"Thisted",787,NA,"Region Nordjylland",1081
-"20482",2026,"Ravnshøj skole",813009,3,3,2,NA,2,NA,11,NA,1,1,0,0,0,0,9,1,NA,23,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Tønder Distriktsskole - Overbygningsskolen",541004,44,18,3,NA,7,NA,29,NA,4,20,18,5,12,1,0,1,NA,161,NA,"Tønder",550,NA,"Region Syddanmark",1083
-"20482",2026,"Haderup Skole",651003,8,0,0,NA,1,NA,2,NA,0,0,14,1,0,0,0,0,NA,26,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Kolind skole",721002,25,0,0,NA,0,NA,11,NA,1,1,3,1,2,0,0,0,NA,44,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
-"20482",2026,"Gilbjergskolen, Gilleleje",280270,88,0,30,NA,5,NA,8,NA,3,18,5,1,9,0,5,0,NA,167,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
-"20482",2026,"Høng Skole",319002,5,11,4,NA,8,NA,4,NA,4,2,3,3,17,0,0,0,NA,61,NA,"Kalundborg",326,NA,"Region Sjælland",1085
-"20482",2026,"Vipperød Skole",315007,4,2,18,NA,4,NA,15,NA,4,8,3,0,1,0,4,0,NA,59,NA,"Holbæk",316,NA,"Region Sjælland",1085
-"20482",2026,"Uglegårdsskolen",269005,12,5,7,NA,14,NA,52,NA,3,13,39,1,16,1,14,1,NA,163,NA,"Solrød",269,NA,"Region Sjælland",1085
-"20482",2026,"Kirke Saaby Skole",257002,10,0,6,NA,1,NA,0,NA,0,3,2,0,4,0,3,0,NA,26,NA,"Lejre",350,NA,"Region Sjælland",1085
-"20482",2026,"Lystrup Skole",751066,12,1,4,NA,5,NA,4,NA,1,5,3,1,4,0,0,0,NA,40,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Al-Huda Skolen",101189,1,24,0,NA,0,NA,1,NA,0,1,0,0,15,0,2,0,NA,42,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Sydkystens Privatskole",269006,4,0,8,NA,0,NA,14,NA,0,5,0,0,1,0,3,0,NA,32,NA,"Solrød",269,NA,"Region Sjælland",1085
-"20482",2026,"Kalundborg Friskole",323013,8,0,0,NA,1,NA,2,NA,1,7,10,0,0,0,0,0,NA,29,NA,"Kalundborg",326,NA,"Region Sjælland",1085
-"20482",2026,"Kristofferskolen",265030,4,4,5,NA,2,NA,1,NA,0,2,0,0,9,5,9,0,NA,32,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Lille Egede Friskole",331008,6,1,4,NA,0,NA,2,NA,1,2,1,1,0,0,5,0,NA,18,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Korshøjskolen",723004,11,2,19,NA,1,NA,5,NA,0,0,4,2,0,0,0,1,NA,44,NA,"Randers",730,NA,"Region Midtjylland",1082
-"20482",2026,"Bangsbostrand skoleafdeling",813001,25,2,0,NA,15,NA,9,NA,1,12,9,3,7,1,3,1,NA,84,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Toftegårdsskolen",805009,3,2,0,NA,1,NA,9,NA,0,0,7,1,0,0,2,1,NA,23,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
-"20482",2026,"Ringkøbing Skole, afd. Rindum",667008,21,13,5,NA,9,NA,31,NA,5,11,8,22,8,0,2,0,NA,133,NA,"Ringkøbing-Skjern",760,NA,"Region Midtjylland",1082
-"20482",2026,"Christiansfeld Skole",509013,27,1,1,NA,10,NA,12,NA,2,12,14,2,2,0,1,1,NA,83,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Trørødskolen",181009,29,12,9,NA,3,NA,80,NA,22,5,6,1,3,0,1,0,NA,170,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
-"20482",2026,"Vestervang Skole",791013,11,5,10,NA,9,NA,11,NA,1,0,41,1,11,1,6,0,NA,101,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Munkholmskolen",717004,5,1,24,NA,2,NA,14,NA,0,9,7,1,1,0,1,2,NA,64,NA,"Randers",730,NA,"Region Midtjylland",1082
-"20482",2026,"Risingskolen",461022,22,3,2,NA,6,NA,32,NA,7,10,5,10,34,6,3,6,NA,137,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Jakobskolen",751080,10,1,12,NA,5,NA,0,NA,1,0,1,1,1,2,1,0,NA,34,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Virupskolen",751052,14,18,2,NA,14,NA,22,NA,4,1,0,1,16,1,4,0,NA,93,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Kirsebærhavens Skole",281980,10,0,0,NA,0,NA,9,NA,4,0,0,0,19,0,0,0,NA,42,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Mårslet Skole",751026,39,4,3,NA,16,NA,17,NA,2,12,6,5,3,1,9,1,NA,108,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Distriktsskolen",521003,3,4,0,NA,4,NA,4,NA,1,16,14,5,1,0,3,0,NA,52,NA,"Tønder",550,NA,"Region Syddanmark",1083
-"20482",2026,"Borup Skole",267002,11,4,5,NA,3,NA,3,NA,4,11,34,0,0,0,1,0,NA,75,NA,"Køge",259,NA,"Region Sjælland",1085
-"20482",2026,"Klokkerholm Skole",807006,24,1,0,NA,3,NA,5,NA,0,5,2,2,2,0,0,0,NA,44,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
-"20482",2026,"Ølsted Skole",211006,8,1,6,NA,3,NA,13,NA,1,1,0,1,0,0,3,0,NA,34,NA,"Halsnæs",260,NA,"Region Hovedstaden",1084
-"20482",2026,"Sdr Vang Skole",621011,26,6,1,NA,2,NA,8,NA,0,6,0,1,4,0,3,1,NA,54,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Aakjærskolen",779008,14,3,1,NA,1,NA,6,NA,2,3,2,2,3,0,0,0,NA,37,NA,"Skive",779,NA,"Region Midtjylland",1082
-"20482",2026,"Tingkærskolen",461031,9,3,1,NA,1,NA,2,NA,1,2,1,1,0,0,3,0,NA,21,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Nordbyskolen",369018,30,2,3,NA,7,NA,6,NA,1,9,4,0,7,1,0,0,NA,70,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Nivå Skole",280121,30,5,5,NA,3,NA,35,NA,2,7,0,0,6,1,1,2,NA,94,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
-"20482",2026,"Holme Skole",751017,22,12,6,NA,3,NA,5,NA,1,3,7,1,3,0,0,0,NA,63,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Tuse Skole",315005,38,3,0,NA,4,NA,11,NA,2,14,10,1,0,0,7,0,NA,83,NA,"Holbæk",316,NA,"Region Sjælland",1085
-"20482",2026,"Bakkegårdsskolen",157001,26,11,16,NA,11,NA,16,NA,14,4,3,0,13,0,9,0,NA,114,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
-"20482",2026,"Egelundskolen",165001,3,21,7,NA,0,NA,0,NA,1,10,1,0,1,0,0,0,NA,44,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
-"20482",2026,"Arden Skole",801001,2,22,0,NA,0,NA,6,NA,0,3,27,1,0,0,1,11,NA,61,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
-"20482",2026,"Buddinge Skole",159002,1,0,21,NA,2,NA,22,NA,1,1,5,0,24,0,10,1,NA,77,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Ellevangskolen",751003,77,4,10,NA,28,NA,16,NA,7,5,8,2,4,0,5,0,NA,161,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Nordstjerneskolen",280348,13,16,0,NA,7,NA,17,NA,6,10,9,1,1,0,4,3,NA,80,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Deutsche Schule Sonderburg",537009,25,12,3,NA,0,NA,13,NA,2,5,0,0,5,0,1,0,NA,65,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
-"20482",2026,"Haldum-Hinnerup Skolen",713001,11,5,33,NA,5,NA,5,NA,3,9,1,0,16,0,1,0,NA,88,NA,"Favrskov",710,NA,"Region Midtjylland",1082
-"20482",2026,"Birkhovedskolen",449002,21,4,1,NA,5,NA,10,NA,1,7,11,1,2,3,1,0,NA,66,NA,"Nyborg",450,NA,"Region Syddanmark",1083
-"20482",2026,"Ådalens Skole",733003,2,0,5,NA,1,NA,22,NA,0,2,0,1,1,0,0,0,NA,34,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
-"20482",2026,"Vibeskolen",489002,7,3,3,NA,1,NA,39,NA,0,0,0,0,3,0,4,0,NA,56,NA,"Nyborg",450,NA,"Region Syddanmark",1083
-"20482",2026,"Skolecenter Jetsmark",280481,31,0,0,NA,2,NA,5,NA,1,7,3,1,13,0,1,0,NA,63,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
-"20482",2026,"Borgerskolen",169007,14,6,10,NA,9,NA,33,NA,1,4,0,1,12,1,9,5,NA,91,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
-"20482",2026,"Baltorpskolen - Rugvænget",281844,33,5,1,NA,13,NA,14,NA,17,11,2,5,29,2,2,0,NA,132,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Brenderup og Omegns Realskole",429006,1,4,2,NA,1,NA,43,NA,1,2,30,1,6,0,0,0,NA,91,NA,"Middelfart",410,NA,"Region Syddanmark",1083
-"20482",2026,"Gudenåskolen",737006,6,5,1,NA,6,NA,3,NA,0,0,0,0,12,2,1,0,NA,35,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Stillinge Skole",333008,24,2,10,NA,0,NA,0,NA,1,1,2,9,0,0,1,1,NA,49,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Nordvestskolen",217014,13,2,1,NA,8,NA,31,NA,2,10,3,1,16,2,2,12,NA,89,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
-"20482",2026,"Bjørnehøjskolen",215001,29,0,13,NA,5,NA,27,NA,0,10,0,0,5,0,1,0,NA,89,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
-"20482",2026,"Sølystskolen",751043,35,2,1,NA,19,NA,7,NA,1,5,18,1,3,0,0,0,NA,92,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Tjørnegårdskolen",265015,5,0,2,NA,8,NA,9,NA,0,7,1,4,3,0,2,1,NA,39,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Blovstrød Skole",201001,17,5,0,NA,4,NA,10,NA,5,2,7,0,3,2,0,0,NA,55,NA,"Allerød",201,NA,"Region Hovedstaden",1084
-"20482",2026,"Borupgårdskolen",217018,56,11,19,NA,11,NA,7,NA,0,18,0,0,3,1,1,1,NA,126,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
-"20482",2026,"Marievangsskolen",333004,33,1,15,NA,2,NA,5,NA,1,5,9,0,10,1,1,0,NA,82,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Store Andst Efterskole",575304,0,1,0,NA,5,NA,54,NA,0,4,14,3,0,0,4,0,NA,81,NA,"Vejen",575,NA,"Region Syddanmark",1083
-"20482",2026,"Tibberupskolen",217013,97,8,3,NA,9,NA,60,NA,5,12,9,2,44,8,1,6,NA,257,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
-"20482",2026,"Frydenhøjskolen",167011,22,3,27,NA,5,NA,7,NA,0,16,0,2,14,1,7,0,NA,97,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Afdeling Åvangsskolen",400020,19,0,4,NA,21,NA,10,NA,1,4,4,0,5,0,5,1,NA,68,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
-"20482",2026,"Sct. Michaels Skole",621020,16,4,7,NA,6,NA,43,NA,3,0,9,1,3,0,3,0,NA,92,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Hotherskolen",271001,12,0,2,NA,4,NA,4,NA,0,10,15,1,2,1,2,0,NA,51,NA,"Stevns",336,NA,"Region Sjælland",1085
-"20482",2026,"Bagterp undervisningssted",821001,14,2,1,NA,5,NA,3,NA,0,14,5,0,5,1,0,0,NA,50,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Sct. Nicolai Skole",259019,20,14,2,NA,2,NA,2,NA,0,7,10,0,3,0,3,0,NA,60,NA,"Køge",259,NA,"Region Sjælland",1085
-"20482",2026,"Jinnah International School",101169,4,1,0,NA,0,NA,1,NA,0,1,0,0,29,0,0,0,NA,36,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Hald Ege Skole",791003,12,3,26,NA,2,NA,0,NA,0,4,25,0,1,0,2,0,NA,73,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Augustenborg Skole",501001,8,1,1,NA,1,NA,3,NA,1,1,7,0,14,4,1,1,NA,41,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
-"20482",2026,"Lindbjergskolen",281054,25,5,8,NA,4,NA,40,NA,1,13,6,1,6,0,3,0,NA,109,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Sct. Jørgens Skole",265010,28,11,5,NA,7,NA,10,NA,0,4,0,0,12,0,10,0,NA,77,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Dagnæsskolen",615002,13,2,14,NA,2,NA,11,NA,0,20,37,0,11,0,6,0,NA,110,NA,"Horsens",615,NA,"Region Midtjylland",1082
-"20482",2026,"Balle Friskole, Balle Musik- & Idrætsefterskole",605009,2,2,0,NA,2,NA,2,NA,2,3,3,2,1,0,9,0,NA,19,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Hjalleseskolen",461007,21,3,8,NA,2,NA,16,NA,19,21,9,1,13,1,4,0,NA,114,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Avedøre Skole",167009,13,16,7,NA,1,NA,10,NA,4,8,2,2,5,0,4,15,NA,68,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Maribo Skole, Borgerskoleafdelingen",280048,6,0,0,NA,12,NA,2,NA,1,6,0,4,17,0,4,0,NA,48,NA,"Lolland",360,NA,"Region Sjælland",1085
-"20482",2026,"Nordre Skole",557006,11,3,2,NA,3,NA,14,NA,1,16,2,19,4,0,0,2,NA,75,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Vedbæk Skole",181007,10,3,0,NA,0,NA,42,NA,3,1,1,0,1,0,0,0,NA,61,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
-"20482",2026,"Herningsholmskolen",657007,10,17,1,NA,1,NA,12,NA,3,7,1,1,18,0,1,0,NA,71,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Hummeltofteskolen",173004,15,40,20,NA,5,NA,8,NA,20,4,6,1,3,2,0,1,NA,124,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
-"20482",2026,"Sindal undervisningssted",839006,50,3,6,NA,3,NA,4,NA,0,5,1,2,0,0,1,1,NA,74,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Horsens Byskole, folkeskoleafdeling",615024,35,11,4,NA,8,NA,5,NA,0,5,24,0,4,0,10,2,NA,96,NA,"Horsens",615,NA,"Region Midtjylland",1082
-"20482",2026,"Hellerup Skole",157047,3,18,29,NA,1,NA,11,NA,5,5,4,0,3,0,3,2,NA,79,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
-"20482",2026,"Fourfeldtskolen",561006,28,1,4,NA,11,NA,9,NA,1,15,20,3,23,0,5,2,NA,115,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Husum Skole",101017,18,4,10,NA,5,NA,3,NA,9,12,0,0,14,1,6,2,NA,76,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Lundehusskolen",101138,2,0,0,NA,19,NA,2,NA,0,1,2,1,16,0,1,0,NA,43,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Bernadotteskolen",157013,3,7,14,NA,18,NA,4,NA,2,5,5,1,14,3,1,0,NA,76,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
-"20482",2026,"Randers Realskole",731017,42,50,104,NA,27,NA,34,NA,11,44,96,10,1,3,4,1,NA,422,NA,"Randers",730,NA,"Region Midtjylland",1082
-"20482",2026,"Risbjergskolen",167006,6,9,23,NA,3,NA,15,NA,1,10,3,0,21,2,15,1,NA,93,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Kvaglundskolen",561024,4,2,0,NA,11,NA,1,NA,2,1,1,0,1,1,0,0,NA,24,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Vemmelev Skole",325006,19,1,0,NA,0,NA,7,NA,1,21,1,5,0,0,1,1,NA,55,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Dalumskolen",461003,11,21,12,NA,2,NA,2,NA,2,12,2,3,7,0,8,0,NA,74,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Tåsingeskolen",280139,31,5,2,NA,12,NA,17,NA,7,9,8,9,2,5,9,0,NA,107,NA,"Svendborg",479,NA,"Region Syddanmark",1083
-"20482",2026,"Skolen på Islands Brygge",101059,19,20,20,NA,32,NA,46,NA,19,19,4,2,47,0,4,3,NA,228,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Hjørring Ny 10.",821019,6,2,6,NA,4,NA,5,NA,2,2,0,6,13,0,0,13,NA,46,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Hanstholm Skole",765001,9,0,0,NA,0,NA,4,NA,0,1,0,3,5,0,0,0,NA,22,NA,"Thisted",787,NA,"Region Nordjylland",1081
-"20482",2026,"Hirtshals undervisningssted",819002,18,10,3,NA,10,NA,12,NA,1,12,10,1,3,2,6,0,NA,82,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Nordstjerneskolen",280272,4,1,33,NA,5,NA,6,NA,3,3,1,3,17,3,1,0,NA,79,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
-"20482",2026,"Rosendalskolen",823004,46,8,2,NA,0,NA,17,NA,1,8,16,0,1,2,2,2,NA,101,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
-"20482",2026,"Holmegaardskolen, afd. Fensmark",280748,18,2,16,NA,4,NA,20,NA,2,16,6,3,11,1,12,1,NA,99,NA,"Næstved",370,NA,"Region Sjælland",1085
-"20482",2026,"Hornslet Skole",733001,34,1,1,NA,12,NA,51,NA,0,14,6,1,10,0,10,5,NA,130,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
-"20482",2026,"Mejls-Orten-Tinghøj Friskole",573012,6,0,1,NA,2,NA,6,NA,1,1,2,1,1,0,1,0,NA,21,NA,"Varde",573,NA,"Region Syddanmark",1083
-"20482",2026,"Fårevejle Skole",305004,16,0,1,NA,2,NA,12,NA,2,8,0,1,3,3,3,2,NA,48,NA,"Odsherred",306,NA,"Region Sjælland",1085
-"20482",2026,"Al-Hilal Skolen",101526,6,13,0,NA,1,NA,1,NA,0,2,0,0,9,0,1,0,NA,32,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Sakskøbing Skole",387005,17,1,5,NA,0,NA,33,NA,4,7,3,1,2,0,3,0,NA,73,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Hvinningdalskolen",743020,33,5,2,NA,3,NA,9,NA,6,1,11,3,2,0,2,0,NA,75,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
-"20482",2026,"St. Magleby Skole",280186,14,3,1,NA,1,NA,32,NA,1,12,22,3,5,0,2,0,NA,94,NA,"Dragør",155,NA,"Region Hovedstaden",1084
-"20482",2026,"Søndermarksskolen",333011,6,8,8,NA,2,NA,2,NA,3,1,4,1,6,0,0,0,NA,41,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Skolen ved Bulowsvej",147008,29,31,15,NA,18,NA,15,NA,9,25,6,0,21,2,1,0,NA,171,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"10. klasseskolen",219024,16,10,1,NA,11,NA,9,NA,2,7,4,4,3,1,15,0,NA,68,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
-"20482",2026,"Kulsbjerg Skole, Stensved",361003,13,7,0,NA,3,NA,14,NA,1,4,0,1,3,0,0,0,NA,46,NA,"Vordingborg",390,NA,"Region Sjælland",1085
-"20482",2026,"Langhøjskolen",167004,16,2,4,NA,12,NA,14,NA,9,23,2,2,22,3,4,0,NA,109,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Fællesskolen Favrdal-Fjelstrup",280240,52,8,1,NA,4,NA,16,NA,7,14,12,2,20,2,7,0,NA,138,NA,"Haderslev",510,NA,"Region Syddanmark",1083
-"20482",2026,"Skovshoved Skole",157010,5,0,3,NA,1,NA,22,NA,12,4,11,1,1,0,2,3,NA,60,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
-"20482",2026,"Rolf Krake Skolen",661002,7,12,4,NA,8,NA,16,NA,1,3,11,5,5,0,0,0,NA,72,NA,"Holstebro",661,NA,"Region Midtjylland",1082
-"20482",2026,"Kildeskolen",101162,15,2,0,NA,2,NA,6,NA,0,4,0,0,4,0,4,0,NA,33,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Højboskolen",715003,17,2,1,NA,10,NA,11,NA,0,1,5,0,0,2,0,0,NA,49,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Holbæk Private Realskole",315011,22,4,26,NA,5,NA,21,NA,1,5,1,1,8,0,1,1,NA,94,NA,"Holbæk",316,NA,"Region Sjælland",1085
-"20482",2026,"Rude Skov Skole",281408,34,10,7,NA,10,NA,30,NA,2,8,7,1,8,1,3,1,NA,118,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
-"20482",2026,"DIA Privatskole",101149,1,0,0,NA,1,NA,0,NA,1,8,2,0,23,1,4,0,NA,37,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Hvidovre Privatskole",280643,3,9,7,NA,2,NA,13,NA,2,9,32,4,0,0,0,0,NA,81,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Johannesskolen",147034,15,7,4,NA,1,NA,10,NA,13,0,3,0,2,1,0,0,NA,56,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"Skovvejens Skole - Øst",280563,19,15,33,NA,10,NA,14,NA,18,0,5,0,7,1,1,0,NA,122,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Tinglev Skole",539006,8,1,1,NA,8,NA,7,NA,1,20,13,2,5,0,3,0,NA,66,NA,"Aabenraa",580,NA,"Region Syddanmark",1083
-"20482",2026,"Kornmod Realskole",743015,52,12,24,NA,12,NA,28,NA,12,5,12,6,5,2,0,0,NA,170,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
-"20482",2026,"Sæbygårdskolen",847010,37,4,0,NA,10,NA,14,NA,2,11,12,2,2,0,0,0,NA,94,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Suldrup Skole",845004,13,1,2,NA,1,NA,4,NA,2,1,7,2,0,0,0,1,NA,33,NA,"Rebild",840,NA,"Region Nordjylland",1081
-"20482",2026,"Kværkeby Friskole",280391,8,0,14,NA,0,NA,4,NA,0,2,0,0,7,0,1,0,NA,35,NA,"Ringsted",329,NA,"Region Sjælland",1085
-"20482",2026,"Nørre Boulevard Skolen",661014,3,10,41,NA,4,NA,13,NA,0,12,48,1,17,2,9,0,NA,151,NA,"Holstebro",661,NA,"Region Midtjylland",1082
-"20482",2026,"Bredballe Privatskole",280537,4,0,2,NA,0,NA,19,NA,2,0,3,0,0,0,0,0,NA,30,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Nysted Skole",371004,11,1,0,NA,3,NA,7,NA,0,2,3,13,2,0,0,0,NA,42,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Sct. Jørgens Skole",373012,14,4,4,NA,8,NA,9,NA,4,3,10,5,19,0,3,0,NA,80,NA,"Næstved",370,NA,"Region Sjælland",1085
-"20482",2026,"Glavendrupskolen",483004,21,5,1,NA,1,NA,3,NA,1,2,36,2,5,0,0,0,NA,77,NA,"Nordfyns",480,NA,"Region Syddanmark",1083
-"20482",2026,"Brovst Skole",803001,22,1,24,NA,4,NA,8,NA,1,4,4,4,5,0,3,2,NA,77,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
-"20482",2026,"Arenaskolen",253008,12,3,1,NA,1,NA,1,NA,0,3,2,2,18,1,0,0,NA,44,NA,"Greve",253,NA,"Region Sjælland",1085
-"20482",2026,"Rynkevangskolen",323003,7,1,11,NA,10,NA,11,NA,2,14,8,1,4,2,6,0,NA,71,NA,"Kalundborg",326,NA,"Region Sjælland",1085
-"20482",2026,"Herstedøster Skole",165019,47,23,5,NA,4,NA,1,NA,1,22,2,1,19,0,8,1,NA,125,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
-"20482",2026,"Ellemarkskolen",259003,3,3,12,NA,3,NA,0,NA,0,9,15,0,6,0,0,0,NA,51,NA,"Køge",259,NA,"Region Sjælland",1085
-"20482",2026,"Vesterlandsskolen, afd. Fuglebjerg",280118,15,1,16,NA,2,NA,7,NA,2,2,0,1,4,0,1,0,NA,50,NA,"Næstved",370,NA,"Region Sjælland",1085
-"20482",2026,"Kragelundskolen",751021,14,22,5,NA,20,NA,24,NA,2,5,13,3,5,0,2,5,NA,113,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Haarby Skole",437002,0,1,9,NA,1,NA,3,NA,0,7,1,0,1,0,2,0,NA,23,NA,"Assens",420,NA,"Region Syddanmark",1083
-"20482",2026,"Højvangskolen",751018,23,4,1,NA,2,NA,23,NA,4,4,6,0,1,0,63,0,NA,68,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Tre Falke Skolen",147051,43,15,27,NA,12,NA,39,NA,17,21,7,1,36,15,4,3,NA,233,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"Vallerødskolen",223004,10,4,3,NA,7,NA,32,NA,0,0,1,1,5,0,0,0,NA,63,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
-"20482",2026,"Oehlenschlægersgades Skole",101069,5,11,0,NA,5,NA,1,NA,0,0,0,0,25,1,1,0,NA,48,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Munkevængets Skole",621018,8,3,0,NA,0,NA,2,NA,0,2,0,0,22,1,0,0,NA,38,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Agedrup Skole",461001,1,1,9,NA,9,NA,13,NA,0,2,25,7,22,0,0,0,NA,89,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Ørstedskolen, afd. Rudkøbing",482002,11,7,7,NA,4,NA,17,NA,2,1,80,4,1,1,2,0,NA,135,NA,"Langeland",482,NA,"Region Syddanmark",1083
-"20482",2026,"Katrinedals Skole",101019,31,37,4,NA,5,NA,11,NA,6,6,14,1,24,1,4,3,NA,140,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Norddjurs Friskole",707009,9,1,0,NA,1,NA,2,NA,2,5,5,1,2,0,1,0,NA,28,NA,"Norddjurs",707,NA,"Region Midtjylland",1082
-"20482",2026,"Ikast Nordre Skole",663006,42,1,1,NA,4,NA,21,NA,0,3,4,1,8,0,3,0,NA,85,NA,"Ikast-Brande",756,NA,"Region Midtjylland",1082
-"20482",2026,"Holbergskolen",303001,47,0,1,NA,0,NA,1,NA,0,2,0,0,1,0,0,0,NA,52,NA,"Sorø",340,NA,"Region Sjælland",1085
-"20482",2026,"Grøndalsvængets Skole",101015,7,1,0,NA,6,NA,4,NA,0,4,2,1,8,1,0,0,NA,34,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Osted Fri- og Efterskole (friskolen)",261005,8,0,18,NA,0,NA,0,NA,0,6,0,0,6,0,0,1,NA,38,NA,"Lejre",350,NA,"Region Sjælland",1085
-"20482",2026,"Bakkeskolen",561002,6,5,1,NA,6,NA,24,NA,1,20,2,1,31,1,7,6,NA,98,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Søndre Skole",791008,7,5,5,NA,1,NA,3,NA,3,6,9,4,6,1,1,0,NA,50,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Uhre Friskole",653006,11,0,1,NA,0,NA,1,NA,0,6,1,6,0,0,1,0,NA,26,NA,"Ikast-Brande",756,NA,"Region Midtjylland",1082
-"20482",2026,"Fladsåskolen, afd. Mogenstrup",370003,8,2,22,NA,0,NA,10,NA,1,14,1,0,1,0,0,0,NA,59,NA,"Næstved",370,NA,"Region Sjælland",1085
-"20482",2026,"Kratholmskolen",461053,9,0,2,NA,1,NA,15,NA,1,1,1,3,0,0,0,0,NA,33,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Sophieskolen",369002,15,3,8,NA,9,NA,3,NA,6,11,0,10,23,0,0,1,NA,88,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Terndrup Skole",280934,22,0,0,NA,0,NA,2,NA,5,8,0,7,0,0,4,1,NA,44,NA,"Rebild",840,NA,"Region Nordjylland",1081
-"20482",2026,"Skagen Skole",280315,16,0,13,NA,1,NA,7,NA,1,24,5,0,3,1,2,0,NA,71,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Ung Faxe - 10. klasse",280358,8,1,3,NA,2,NA,3,NA,0,11,1,3,4,1,9,2,NA,37,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Billeshave Efterskole",445302,9,0,3,NA,9,NA,13,NA,2,1,9,0,4,1,2,3,NA,51,NA,"Middelfart",410,NA,"Region Syddanmark",1083
-"20482",2026,"Boesagerskolen",171002,9,3,23,NA,5,NA,32,NA,3,7,1,0,6,1,3,0,NA,90,NA,"Egedal",240,NA,"Region Hovedstaden",1084
-"20482",2026,"Midtbyskolen, afd. Skolegade",805006,45,3,4,NA,12,NA,28,NA,2,9,30,1,17,1,2,0,NA,152,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
-"20482",2026,"Herstedvester Skole",165020,52,6,13,NA,6,NA,2,NA,0,5,1,0,17,1,5,0,NA,103,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
-"20482",2026,"Kirkebakkeskolen",631006,8,5,0,NA,1,NA,9,NA,6,19,9,0,0,0,2,0,NA,57,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Hindsholmskolen",439001,3,1,8,NA,0,NA,1,NA,0,0,9,0,0,0,0,0,NA,22,NA,"Kerteminde",440,NA,"Region Syddanmark",1083
-"20482",2026,"Rudolf Steiner Skolen Kvistgård",217020,1,1,1,NA,22,NA,3,NA,0,1,0,0,0,4,0,0,NA,33,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
-"20482",2026,"Brædstrup Skole, specialskoleafdeling",281832,19,1,7,NA,3,NA,6,NA,0,5,21,0,1,1,1,0,NA,64,NA,"Horsens",615,NA,"Region Midtjylland",1082
-"20482",2026,"Brændgårdskolen",657023,25,22,3,NA,3,NA,15,NA,0,23,34,3,5,0,2,0,NA,133,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Nørre Aaby Realskole",451003,15,1,4,NA,3,NA,2,NA,2,2,36,1,1,0,1,1,NA,67,NA,"Middelfart",410,NA,"Region Syddanmark",1083
-"20482",2026,"Vestergårdsskolen",751050,36,9,3,NA,6,NA,9,NA,3,4,1,2,13,4,0,0,NA,90,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Brøndby Strand Skole - Dyringparken",153020,18,39,14,NA,13,NA,39,NA,1,9,1,0,25,2,2,6,NA,161,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
-"20482",2026,"Usserød Skole",223003,6,5,0,NA,4,NA,15,NA,1,5,7,1,13,5,0,1,NA,62,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
-"20482",2026,"Fredensborg Skole",280119,37,4,52,NA,3,NA,7,NA,5,4,7,0,3,1,0,0,NA,123,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
-"20482",2026,"Hulvej Privatskole",615016,34,16,18,NA,5,NA,22,NA,2,10,2,0,23,0,6,2,NA,132,NA,"Horsens",615,NA,"Region Midtjylland",1082
-"20482",2026,"Hobro Friskole",823009,3,12,0,NA,2,NA,0,NA,0,0,0,1,6,0,0,3,NA,24,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
-"20482",2026,"Engskolen",101098,8,0,1,NA,6,NA,1,NA,1,0,3,1,3,2,2,0,NA,26,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Hørsholm Skole",223001,7,8,10,NA,0,NA,15,NA,3,3,2,0,2,1,0,0,NA,51,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
-"20482",2026,"Skolen på Herredsåsen",323016,10,1,3,NA,1,NA,25,NA,2,5,4,3,29,0,1,3,NA,83,NA,"Kalundborg",326,NA,"Region Sjælland",1085
-"20482",2026,"Frederiksbjerg Skole",751027,55,9,3,NA,16,NA,14,NA,5,20,8,1,9,2,2,1,NA,142,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Brændkjærskolen",621003,36,21,39,NA,19,NA,10,NA,2,6,43,3,6,1,6,1,NA,186,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Nr Alslev Skole",375001,18,1,5,NA,5,NA,8,NA,1,2,2,9,1,0,1,0,NA,52,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Dansborgskolen",167001,51,0,20,NA,6,NA,5,NA,0,10,3,0,8,0,4,0,NA,103,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Sjølundskolen",280168,14,1,0,NA,2,NA,30,NA,9,15,5,2,10,1,1,10,NA,89,NA,"Næstved",370,NA,"Region Sjælland",1085
-"20482",2026,"Møn Skole, Stege",365011,12,3,0,NA,8,NA,13,NA,2,5,10,1,6,0,0,0,NA,60,NA,"Vordingborg",390,NA,"Region Sjælland",1085
-"20482",2026,"Høng Privatskole",319007,2,12,4,NA,1,NA,2,NA,0,1,0,0,4,0,0,0,NA,26,NA,"Kalundborg",326,NA,"Region Sjælland",1085
-"20482",2026,"Hedensted Skole",613002,39,12,11,NA,8,NA,21,NA,0,9,28,0,4,0,2,1,NA,132,NA,"Hedensted",766,NA,"Region Midtjylland",1082
-"20482",2026,"Øster Farimagsgades Skole",101043,9,4,5,NA,36,NA,10,NA,1,13,3,0,13,0,7,1,NA,94,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Amager Fælled Skole",101174,31,10,10,NA,8,NA,3,NA,6,3,3,1,31,2,8,4,NA,108,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Nyrupskolen",323001,12,0,0,NA,2,NA,5,NA,0,2,1,1,14,0,0,0,NA,37,NA,"Kalundborg",326,NA,"Region Sjælland",1085
-"20482",2026,"Lyshøjskolen",621013,8,42,4,NA,4,NA,55,NA,9,4,21,1,6,0,0,1,NA,154,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Aalykkeskolen",621017,6,8,12,NA,2,NA,5,NA,3,3,10,0,7,3,1,1,NA,59,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Laursens Realskole",751060,5,22,25,NA,6,NA,13,NA,6,8,3,0,2,0,3,0,NA,90,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Skørping Skole",843004,22,8,4,NA,9,NA,8,NA,7,11,8,1,7,1,0,0,NA,86,NA,"Rebild",840,NA,"Region Nordjylland",1081
-"20482",2026,"Grønvangskolen",575003,8,1,33,NA,39,NA,63,NA,2,8,7,0,9,1,0,0,NA,171,NA,"Vejen",575,NA,"Region Syddanmark",1083
-"20482",2026,"Hedelyskolen",253001,30,30,34,NA,8,NA,5,NA,4,11,7,1,4,0,4,0,NA,134,NA,"Greve",253,NA,"Region Sjælland",1085
-"20482",2026,"Aarupskolen",499004,20,5,0,NA,3,NA,5,NA,3,13,3,6,1,1,10,0,NA,60,NA,"Assens",420,NA,"Region Syddanmark",1083
-"20482",2026,"Hunderupskolen",461008,11,14,10,NA,8,NA,40,NA,3,7,3,0,3,0,2,17,NA,99,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Skæring Skole",751056,35,12,6,NA,3,NA,20,NA,4,5,5,0,0,2,0,2,NA,92,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Hadsund Skole",815002,11,3,2,NA,6,NA,16,NA,0,30,7,4,2,0,6,0,NA,81,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
-"20482",2026,"Bindernæs Efterskole og Fri Fagskole",383300,31,19,3,NA,2,NA,11,NA,1,2,12,0,8,2,2,0,NA,91,NA,"Lolland",360,NA,"Region Sjælland",1085
-"20482",2026,"Frydenstrand - Buhlsvej Skoleafdeling",281830,46,0,3,NA,5,NA,25,NA,3,7,0,2,1,0,2,2,NA,92,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Melby Skole",211004,17,4,3,NA,4,NA,2,NA,0,6,0,0,1,1,0,0,NA,38,NA,"Halsnæs",260,NA,"Region Hovedstaden",1084
-"20482",2026,"Kvikmarkens Privatskole",159016,22,4,0,NA,3,NA,7,NA,1,1,0,0,1,0,4,0,NA,39,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Gladsaxe Privatskole",159017,10,0,0,NA,2,NA,0,NA,4,0,6,0,4,0,0,0,NA,26,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Karensmindeskolen",845011,4,24,4,NA,1,NA,23,NA,0,10,6,3,9,0,2,3,NA,84,NA,"Rebild",840,NA,"Region Nordjylland",1081
-"20482",2026,"Rødding Skole",527004,32,1,0,NA,4,NA,9,NA,0,9,2,11,0,0,2,5,NA,68,NA,"Vejen",575,NA,"Region Syddanmark",1083
-"20482",2026,"Møllebakkeskolen",391002,8,1,1,NA,1,NA,8,NA,2,1,1,1,2,0,0,0,NA,26,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Syvstjerneskolen",189004,28,20,7,NA,10,NA,12,NA,1,2,10,6,8,0,2,0,NA,104,NA,"Furesø",190,NA,"Region Hovedstaden",1084
-"20482",2026,"Dragør Skole",280187,10,4,8,NA,2,NA,15,NA,1,5,16,0,4,0,0,0,NA,65,NA,"Dragør",155,NA,"Region Hovedstaden",1084
-"20482",2026,"Afdeling Søhøj",237006,29,0,13,NA,2,NA,4,NA,0,4,4,0,5,0,0,0,NA,61,NA,"Egedal",240,NA,"Region Hovedstaden",1084
-"20482",2026,"Haslev Privatskole",313007,4,0,9,NA,7,NA,37,NA,0,4,4,1,3,0,8,0,NA,69,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Poulstrup Friskole og Børnehus",280653,8,0,1,NA,1,NA,4,NA,3,1,5,5,3,1,0,0,NA,32,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Enghavegård Skole",159004,35,4,3,NA,20,NA,31,NA,0,5,9,0,17,1,2,0,NA,125,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Endrupskolen",208007,19,2,0,NA,3,NA,12,NA,4,11,9,0,0,0,1,0,NA,60,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
-"20482",2026,"Den Lille Skole",159015,6,10,4,NA,5,NA,9,NA,3,1,3,0,4,3,0,0,NA,48,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Tranbjergskolen",280458,42,3,5,NA,26,NA,9,NA,5,9,3,2,10,0,2,1,NA,114,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Skovlunde Skole – Rosenlund",280564,5,16,49,NA,7,NA,4,NA,5,4,2,0,17,0,6,2,NA,109,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Taastrup Realskole",169012,12,18,27,NA,5,NA,43,NA,1,8,0,0,7,3,0,2,NA,124,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
-"20482",2026,"Ørestad Skole",280047,14,21,1,NA,11,NA,12,NA,2,6,32,1,19,0,4,2,NA,119,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Skolen på Duevej",147007,24,21,21,NA,8,NA,18,NA,9,8,4,2,27,5,4,0,NA,147,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"Ebberup Skole",421003,3,0,10,NA,2,NA,5,NA,1,2,6,0,3,0,0,0,NA,32,NA,"Assens",420,NA,"Region Syddanmark",1083
-"20482",2026,"Kløvermarkskolen",515004,91,2,9,NA,11,NA,77,NA,3,25,17,3,10,0,16,0,NA,248,NA,"Haderslev",510,NA,"Region Syddanmark",1083
-"20482",2026,"Skægkærskolen",743011,9,1,1,NA,4,NA,6,NA,12,2,1,9,0,2,2,0,NA,47,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
-"20482",2026,"Holmegårdsskolen",167003,43,10,0,NA,3,NA,19,NA,0,15,1,1,10,0,2,2,NA,102,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Sorø Borgerskole",335005,13,9,0,NA,6,NA,10,NA,1,4,3,1,8,1,0,0,NA,56,NA,"Sorø",340,NA,"Region Sjælland",1085
-"20482",2026,"Sct. Mariæ Skole",851053,30,5,8,NA,2,NA,20,NA,4,7,2,9,5,0,7,2,NA,92,NA,"Aalborg",851,NA,"Region Nordjylland",1081
-"20482",2026,"Vildbjerg Skole",677003,36,5,3,NA,16,NA,11,NA,0,11,12,1,2,0,0,0,NA,97,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Bogense Skole",423001,3,2,1,NA,0,NA,2,NA,0,6,49,1,6,0,0,0,NA,70,NA,"Nordfyns",480,NA,"Region Syddanmark",1083
-"20482",2026,"Kongevejens Skole",173005,12,12,18,NA,10,NA,7,NA,1,13,27,0,15,0,0,1,NA,115,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
-"20482",2026,"Højdevangens Skole",101052,86,3,1,NA,15,NA,5,NA,3,18,1,0,19,1,2,0,NA,152,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Tarm Skole",655008,21,19,0,NA,2,NA,26,NA,0,3,1,0,0,0,0,0,NA,72,NA,"Ringkøbing-Skjern",760,NA,"Region Midtjylland",1082
-"20482",2026,"Tingagerskolen",473009,39,14,1,NA,1,NA,5,NA,0,10,4,0,11,0,1,0,NA,85,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Søndermarkskolen",147006,17,2,4,NA,39,NA,30,NA,6,14,8,1,23,0,0,7,NA,144,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"Klostermarksskolen",265007,24,11,27,NA,11,NA,10,NA,4,16,10,0,6,2,4,0,NA,121,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Billums Privatskole",173012,5,1,2,NA,7,NA,4,NA,1,2,7,0,2,0,1,0,NA,31,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
-"20482",2026,"Muldbjerg undervisningssted",821009,21,3,42,NA,11,NA,11,NA,2,10,4,0,5,0,0,1,NA,109,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Skolen ved Søerne",147052,14,25,6,NA,11,NA,12,NA,5,7,0,0,23,2,2,0,NA,105,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"Store Heddinge Skole",389008,20,3,0,NA,1,NA,8,NA,0,11,4,2,3,0,14,0,NA,52,NA,"Stevns",336,NA,"Region Sjælland",1085
-"20482",2026,"Nørre Aaby Skole",451002,22,3,0,NA,5,NA,8,NA,1,1,6,5,6,0,2,0,NA,57,NA,"Middelfart",410,NA,"Region Syddanmark",1083
-"20482",2026,"Broskolen",497001,19,12,5,NA,3,NA,14,NA,5,7,5,2,1,0,3,0,NA,73,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Søndervangskolen",161003,55,3,5,NA,4,NA,2,NA,9,10,2,1,4,0,5,2,NA,95,NA,"Glostrup",161,NA,"Region Hovedstaden",1084
-"20482",2026,"Herlev byskole, afd.  Eng",163004,25,1,14,NA,0,NA,4,NA,22,5,0,1,26,0,10,0,NA,98,NA,"Herlev",163,NA,"Region Hovedstaden",1084
-"20482",2026,"Rønde Skole",739002,58,8,24,NA,10,NA,5,NA,1,19,5,0,5,1,3,0,NA,136,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
-"20482",2026,"Flakkebjerg Efterskole",311301,8,6,0,NA,11,NA,7,NA,0,1,2,0,53,2,1,4,NA,90,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Vadgård Skole",159012,6,14,1,NA,4,NA,24,NA,19,1,0,0,15,3,2,0,NA,87,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Afdeling Bækkegården",237007,10,4,4,NA,1,NA,14,NA,5,8,2,0,4,1,2,0,NA,53,NA,"Egedal",240,NA,"Region Hovedstaden",1084
-"20482",2026,"Amager Lilleskole",101092,3,13,1,NA,3,NA,3,NA,1,2,0,0,10,1,1,0,NA,37,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Trane Skole – Tistrup Skole",577007,7,4,0,NA,2,NA,18,NA,2,5,5,3,0,2,4,0,NA,48,NA,"Varde",573,NA,"Region Syddanmark",1083
-"20482",2026,"Nydamskolen",533004,22,1,0,NA,1,NA,2,NA,0,3,30,0,0,0,5,1,NA,59,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
-"20482",2026,"Auning Skole",747001,21,1,16,NA,6,NA,11,NA,1,11,39,7,0,1,1,2,NA,114,NA,"Norddjurs",707,NA,"Region Midtjylland",1082
-"20482",2026,"Ishøj Skole",183001,10,5,0,NA,2,NA,1,NA,0,3,15,0,1,0,0,0,NA,37,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
-"20482",2026,"Agerbæk Skole",567001,4,0,1,NA,0,NA,44,NA,0,5,3,1,2,0,5,0,NA,60,NA,"Varde",573,NA,"Region Syddanmark",1083
-"20482",2026,"Hærvejsskolen",280320,47,0,9,NA,3,NA,9,NA,4,18,4,0,2,0,1,0,NA,96,NA,"Aabenraa",580,NA,"Region Syddanmark",1083
-"20482",2026,"Skt. Knud Lavard Skole",173014,8,5,1,NA,2,NA,4,NA,2,0,0,0,0,2,0,0,NA,24,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
-"20482",2026,"Østervangskolen",709004,20,12,2,NA,1,NA,22,NA,0,3,1,1,3,0,4,0,NA,65,NA,"Favrskov",710,NA,"Region Midtjylland",1082
-"20482",2026,"Gladsaxe Skole",159005,41,36,1,NA,2,NA,7,NA,2,8,1,1,1,0,2,0,NA,100,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Gredstedbro Skole",571002,8,2,1,NA,1,NA,23,NA,2,3,2,1,6,1,0,0,NA,50,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Brøndbyvester Skole - Tornehøj",153019,48,14,27,NA,8,NA,21,NA,8,57,3,4,43,16,11,2,NA,249,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
-"20482",2026,"Svend Gønge-Skolen, Lundby",397004,20,1,1,NA,9,NA,9,NA,5,2,1,6,0,2,0,0,NA,56,NA,"Vordingborg",390,NA,"Region Sjælland",1085
-"20482",2026,"Rudolf Steiner skolen i Gentofte, Vidar Skolen",157020,2,2,0,NA,2,NA,4,NA,2,3,2,2,6,16,0,0,NA,41,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
-"20482",2026,"Alminde-Viuf Fællesskole",621001,20,5,9,NA,5,NA,19,NA,3,23,19,2,2,3,2,0,NA,110,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Svebølle Skole",301007,13,3,0,NA,0,NA,5,NA,0,8,1,2,0,1,0,0,NA,33,NA,"Kalundborg",326,NA,"Region Sjælland",1085
-"20482",2026,"Herskindskolen",703003,5,6,0,NA,3,NA,1,NA,1,1,5,3,5,0,5,0,NA,30,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Allerød Privatskole",280792,18,11,9,NA,4,NA,7,NA,4,0,21,0,5,1,1,0,NA,80,NA,"Allerød",201,NA,"Region Hovedstaden",1084
-"20482",2026,"Dybbøl-Skolen",537007,46,2,2,NA,3,NA,22,NA,15,5,21,5,6,3,0,0,NA,130,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
-"20482",2026,"Bagsværd Friskole",159018,5,4,2,NA,4,NA,6,NA,4,1,2,2,17,1,2,0,NA,48,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"5-Kløverskolerne, Karise Skole",351003,1,1,10,NA,2,NA,7,NA,2,7,2,5,3,0,0,0,NA,40,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Øster Åby Friskole",479016,15,1,4,NA,2,NA,1,NA,2,0,4,0,3,0,0,0,NA,32,NA,"Svendborg",479,NA,"Region Syddanmark",1083
-"20482",2026,"Rundhøjskolen",751034,17,5,6,NA,17,NA,20,NA,2,17,11,2,15,0,12,2,NA,112,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Kibæk Skole",685001,14,5,1,NA,2,NA,8,NA,0,5,5,1,4,0,2,0,NA,45,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Hareskov Skole",189001,23,32,22,NA,3,NA,14,NA,8,5,4,0,10,2,1,0,NA,123,NA,"Furesø",190,NA,"Region Hovedstaden",1084
-"20482",2026,"Nymarkskolen",333005,38,1,5,NA,0,NA,5,NA,2,4,2,0,5,0,0,1,NA,62,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Ulfborg Skole",679006,12,5,1,NA,4,NA,10,NA,2,0,21,0,0,0,61,0,NA,55,NA,"Holstebro",661,NA,"Region Midtjylland",1082
-"20482",2026,"Hjerting Skole",561011,39,4,1,NA,2,NA,18,NA,0,10,8,6,0,0,1,0,NA,88,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Stengård Skole",159009,13,14,14,NA,8,NA,16,NA,11,6,0,0,5,2,0,2,NA,89,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Østre Skole",787019,17,5,10,NA,20,NA,31,NA,4,27,53,1,1,0,3,1,NA,169,NA,"Thisted",787,NA,"Region Nordjylland",1081
-"20482",2026,"Bramdrup Skole",621002,13,2,17,NA,23,NA,12,NA,2,3,6,2,5,0,0,3,NA,85,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Sportsefterskolen Aabybro",849300,33,7,16,NA,33,NA,55,NA,0,17,18,4,2,3,1,1,NA,188,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
-"20482",2026,"Ådalens Privatskole",183008,17,14,2,NA,7,NA,11,NA,1,6,9,0,17,0,1,2,NA,84,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
-"20482",2026,"Nørre Fælled Skole",101045,39,1,4,NA,4,NA,0,NA,9,3,13,3,11,2,5,0,NA,89,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Sophienborgskolen",219030,45,0,1,NA,4,NA,8,NA,0,12,1,5,2,1,0,0,NA,79,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
-"20482",2026,"Englystskolen",603005,56,8,6,NA,10,NA,24,NA,5,20,5,1,4,0,0,0,NA,139,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Strandvejsskolen",101041,18,10,2,NA,9,NA,5,NA,2,3,0,1,9,1,1,0,NA,60,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Campusskolen",280342,34,26,9,NA,9,NA,18,NA,2,16,8,9,53,0,0,0,NA,184,NA,"Ringsted",329,NA,"Region Sjælland",1085
-"20482",2026,"Niels Ebbesen Skolen",745005,24,17,18,NA,12,NA,52,NA,9,9,12,1,12,1,2,0,NA,167,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Møllevangskolen",751025,7,1,0,NA,2,NA,4,NA,4,10,6,0,10,1,1,0,NA,45,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Nordstrandskolen",155004,20,28,3,NA,23,NA,31,NA,0,5,6,0,2,1,2,2,NA,119,NA,"Dragør",155,NA,"Region Hovedstaden",1084
-"20482",2026,"Afdeling Ganløse",235001,13,8,1,NA,8,NA,12,NA,1,12,7,0,8,0,1,0,NA,70,NA,"Egedal",240,NA,"Region Hovedstaden",1084
-"20482",2026,"Ravnsholtskolen",201006,24,2,20,NA,0,NA,16,NA,4,2,6,2,2,0,1,0,NA,78,NA,"Allerød",201,NA,"Region Hovedstaden",1084
-"20482",2026,"Tangen Skole og Børnecenter, Afd. Harboøre",673001,18,1,0,NA,1,NA,3,NA,0,4,14,4,2,0,0,0,NA,47,NA,"Lemvig",665,NA,"Region Midtjylland",1082
-"20482",2026,"Hornbæk Skole",217003,13,0,9,NA,2,NA,20,NA,1,5,0,1,3,0,1,0,NA,54,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
-"20482",2026,"Solsideskolen",851052,14,5,0,NA,1,NA,2,NA,1,5,1,0,1,0,0,0,NA,30,NA,"Aalborg",851,NA,"Region Nordjylland",1081
-"20482",2026,"Skørbæk-Ejdrup Friskole",831006,10,2,0,NA,1,NA,4,NA,0,2,3,0,2,0,0,0,NA,24,NA,"Aalborg",851,NA,"Region Nordjylland",1081
-"20482",2026,"Mølleskolen",737004,22,41,57,NA,21,NA,13,NA,12,8,7,1,11,4,18,1,NA,197,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Østerbroskolen",369009,15,2,1,NA,5,NA,6,NA,7,6,6,0,13,0,2,0,NA,61,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
-"20482",2026,"Nordvangskolen",161002,22,3,3,NA,12,NA,1,NA,0,7,3,0,16,1,0,4,NA,68,NA,"Glostrup",161,NA,"Region Hovedstaden",1084
-"20482",2026,"Trekløverskolen",280633,21,4,6,NA,3,NA,12,NA,1,7,3,2,20,4,6,2,NA,83,NA,"Frederikssund",250,NA,"Region Hovedstaden",1084
-"20482",2026,"Vonsild Skole",621016,35,3,9,NA,3,NA,16,NA,4,2,11,0,1,0,15,6,NA,84,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"UCN10",153013,6,47,9,NA,15,NA,4,NA,1,12,20,1,15,0,8,18,NA,130,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
-"20482",2026,"Vesterbro Ny Skole",101572,18,11,4,NA,9,NA,6,NA,8,6,3,1,20,0,9,0,NA,86,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Kon Tiki - Børnenes Skole",219022,3,0,1,NA,28,NA,9,NA,0,0,0,0,14,1,0,0,NA,56,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
-"20482",2026,"Søhusskolen",461060,9,1,13,NA,1,NA,14,NA,2,2,14,0,3,1,4,0,NA,60,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Himmelev Skole",265006,22,7,8,NA,12,NA,45,NA,9,5,22,3,8,2,1,0,NA,143,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Mellerup Fri- og Efterskole - (efterskolen)",723300,7,6,0,NA,14,NA,1,NA,2,2,0,0,29,7,0,0,NA,68,NA,"Randers",730,NA,"Region Midtjylland",1082
-"20482",2026,"Vejlebroskolen",183005,25,0,1,NA,1,NA,12,NA,1,5,1,0,7,0,3,1,NA,53,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
-"20482",2026,"Atheneskolen",159040,4,3,2,NA,3,NA,4,NA,4,0,1,0,3,2,4,0,NA,26,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
-"20482",2026,"Haslevskolerne, Nordskovskolen",313003,30,21,7,NA,4,NA,30,NA,5,5,9,5,9,2,2,0,NA,127,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"N. Zahles Grundskole",101155,21,5,34,NA,15,NA,27,NA,9,6,6,7,8,0,0,0,NA,138,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Kirstinebjergskolen, Havepladsvej",607008,10,40,0,NA,13,NA,7,NA,4,12,40,3,22,2,8,46,NA,153,NA,"Fredericia",607,NA,"Region Syddanmark",1083
-"20482",2026,"Munkebjergskolen",461017,19,2,4,NA,7,NA,14,NA,1,4,4,10,2,2,0,2,NA,69,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Holmeagerskolen",253015,27,6,13,NA,5,NA,14,NA,1,18,9,1,4,1,2,0,NA,99,NA,"Greve",253,NA,"Region Sjælland",1085
-"20482",2026,"Tjørnegårdsskolen",157011,22,18,5,NA,5,NA,3,NA,4,4,9,0,10,3,1,0,NA,83,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
-"20482",2026,"Blåvandshuk Skole",555001,15,2,0,NA,10,NA,9,NA,4,3,8,6,0,0,8,8,NA,57,NA,"Varde",573,NA,"Region Syddanmark",1083
-"20482",2026,"Heibergskolen",101537,32,13,4,NA,7,NA,10,NA,0,3,7,3,9,0,1,0,NA,88,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Trekronerskolen",265032,19,66,0,NA,14,NA,36,NA,0,5,12,1,2,0,1,0,NA,155,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Holbergskolen",101030,17,8,6,NA,6,NA,7,NA,15,3,4,0,16,3,2,1,NA,85,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Lindevangskolen",147002,6,14,2,NA,4,NA,7,NA,15,4,34,0,13,0,2,0,NA,99,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"Ungeuniverset-Vojens",543011,10,5,22,NA,1,NA,45,NA,2,8,16,2,3,1,7,1,NA,115,NA,"Haderslev",510,NA,"Region Syddanmark",1083
-"20482",2026,"Vinderup Realskole",683007,7,2,2,NA,3,NA,40,NA,1,2,24,14,3,1,4,0,NA,99,NA,"Holstebro",661,NA,"Region Midtjylland",1082
-"20482",2026,"Albertslund Ungecenter",280472,14,6,0,NA,9,NA,7,NA,0,8,2,0,7,0,8,1,NA,53,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
-"20482",2026,"Hanssted Skole",101070,13,16,3,NA,29,NA,13,NA,0,6,8,0,4,1,2,0,NA,93,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Brejning Efterskole",603301,8,17,2,NA,3,NA,9,NA,2,8,3,0,10,1,2,2,NA,63,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Skolen på La Cours Vej",147010,29,17,9,NA,10,NA,14,NA,6,1,9,5,3,2,10,0,NA,105,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
-"20482",2026,"Christinelystskolen",665002,21,8,4,NA,9,NA,20,NA,4,7,9,53,1,0,3,0,NA,136,NA,"Lemvig",665,NA,"Region Midtjylland",1082
-"20482",2026,"Vestermose Natur- og Idrætsfriskole",280393,12,0,1,NA,1,NA,2,NA,3,1,0,7,2,0,1,0,NA,29,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Skovboskolen",267001,5,3,19,NA,1,NA,2,NA,1,4,15,2,1,0,6,0,NA,53,NA,"Køge",259,NA,"Region Sjælland",1085
-"20482",2026,"Søholmskolen",281406,8,36,12,NA,18,NA,25,NA,1,3,2,0,13,0,2,0,NA,118,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
-"20482",2026,"Gyvelhøjskolen",703001,5,2,0,NA,1,NA,41,NA,0,6,12,1,0,0,1,2,NA,68,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
-"20482",2026,"Dronninglund Skole",807003,31,1,4,NA,4,NA,58,NA,1,6,6,2,1,0,0,1,NA,114,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
-"20482",2026,"Strøbyskolen",271002,28,7,20,NA,0,NA,6,NA,1,10,9,0,15,1,6,0,NA,97,NA,"Stevns",336,NA,"Region Sjælland",1085
-"20482",2026,"Tårs Skole",821006,18,0,3,NA,2,NA,1,NA,1,5,4,4,1,0,0,0,NA,39,NA,"Hjørring",860,NA,"Region Nordjylland",1081
-"20482",2026,"Bjerringbro Skole",281584,13,8,17,NA,0,NA,6,NA,0,2,1,1,6,0,0,0,NA,54,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Helsinge Realskole",215007,9,2,48,NA,9,NA,42,NA,2,3,5,0,2,2,1,5,NA,124,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
-"20482",2026,"Karup Skole",769003,3,0,4,NA,6,NA,4,NA,1,8,6,3,0,0,1,0,NA,35,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Vestsalling Skole og Dagtilbud Balling",781006,9,6,1,NA,5,NA,7,NA,1,16,2,10,1,0,1,1,NA,58,NA,"Skive",779,NA,"Region Midtjylland",1082
-"20482",2026,"Korinth Efterskole",431301,10,7,3,NA,7,NA,6,NA,1,6,3,0,8,1,1,0,NA,52,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Nordre Skole",791005,48,5,15,NA,3,NA,28,NA,4,4,9,2,1,2,0,0,NA,121,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Ullerup Bæk Skolen, Nr. Alle",607011,13,4,2,NA,10,NA,17,NA,3,12,5,3,2,0,1,0,NA,71,NA,"Fredericia",607,NA,"Region Syddanmark",1083
-"20482",2026,"5-Kløverskolerne, Bavneskolen",385001,2,0,6,NA,1,NA,5,NA,0,3,1,2,1,0,0,0,NA,21,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Albertslund Lille Skole",165011,7,6,8,NA,1,NA,1,NA,0,8,2,0,1,0,0,0,NA,34,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
-"20482",2026,"5-Kløverskolerne, Rolloskolen",351008,12,1,1,NA,2,NA,13,NA,1,11,5,0,4,2,0,0,NA,52,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Højbjerg Privatskole",751111,12,1,1,NA,0,NA,0,NA,2,1,0,0,17,0,0,0,NA,34,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Sdr.  Felding Skole og Børneunivers",685002,4,0,1,NA,0,NA,7,NA,2,1,4,6,2,0,0,0,NA,27,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Kirstinedalsskolen",259006,22,1,15,NA,4,NA,12,NA,1,9,11,0,5,0,0,0,NA,80,NA,"Køge",259,NA,"Region Sjælland",1085
-"20482",2026,"Stenoskolen",367007,5,4,1,NA,6,NA,6,NA,1,6,0,1,3,0,0,0,NA,33,NA,"Lolland",360,NA,"Region Sjælland",1085
-"20482",2026,"Limfjordsskolen Struer",280686,12,16,6,NA,1,NA,10,NA,1,7,40,5,2,0,4,2,NA,100,NA,"Struer",671,NA,"Region Midtjylland",1082
-"20482",2026,"Giersings Realskole",461040,31,5,11,NA,0,NA,52,NA,1,5,5,1,2,4,3,1,NA,117,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Hørsholm Lille Skole",223007,8,1,0,NA,2,NA,10,NA,0,1,10,0,0,0,1,0,NA,32,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
-"20482",2026,"Engesvang Skole",663002,11,4,0,NA,4,NA,17,NA,1,5,3,1,1,1,4,0,NA,48,NA,"Ikast-Brande",756,NA,"Region Midtjylland",1082
-"20482",2026,"Lindehøjskolen",163001,26,16,5,NA,14,NA,6,NA,22,12,6,0,3,3,4,2,NA,113,NA,"Herlev",163,NA,"Region Hovedstaden",1084
-"20482",2026,"Antvorskov Skole",333015,32,8,34,NA,1,NA,17,NA,6,17,17,0,3,5,0,4,NA,140,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Lind Skole",657010,46,19,18,NA,5,NA,19,NA,14,4,10,3,2,0,0,0,NA,140,NA,"Herning",657,NA,"Region Midtjylland",1082
-"20482",2026,"Højvangskolen",851064,62,0,0,NA,1,NA,1,NA,0,9,0,3,0,0,1,0,NA,76,NA,"Aalborg",851,NA,"Region Nordjylland",1081
-"20482",2026,"Skelgårdsskolen",185006,9,12,3,NA,11,NA,34,NA,8,13,2,0,5,0,2,2,NA,97,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
-"20482",2026,"Pilegårdsskolen",185005,43,8,12,NA,21,NA,11,NA,4,12,11,3,6,0,4,0,NA,131,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
-"20482",2026,"Mariager Skole",719003,11,2,0,NA,1,NA,5,NA,0,0,4,1,3,0,3,0,NA,27,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
-"20482",2026,"Sanderumskolen",461023,23,2,12,NA,10,NA,10,NA,2,18,7,4,8,0,4,0,NA,96,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Margretheskolen",255003,39,2,0,NA,0,NA,15,NA,1,5,3,0,1,0,4,0,NA,66,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Sct. Hans Skole",461024,31,7,2,NA,8,NA,11,NA,6,17,8,0,18,5,4,8,NA,113,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Engstrandskolen",167008,19,8,0,NA,17,NA,7,NA,1,5,7,0,20,1,1,0,NA,85,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
-"20482",2026,"Vigersted Skole",329012,15,2,3,NA,2,NA,11,NA,3,5,5,4,4,0,2,2,NA,54,NA,"Ringsted",329,NA,"Region Sjælland",1085
-"20482",2026,"Sankt Ansgars Skole",101082,1,6,0,NA,5,NA,7,NA,0,2,4,0,8,0,1,0,NA,33,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Nordsjællands Grundskole og Gymnasium samt HF",227008,13,10,4,NA,0,NA,20,NA,5,5,0,4,0,1,6,0,NA,62,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
-"20482",2026,"Ole Rømer-Skolen",280980,24,9,2,NA,12,NA,11,NA,2,5,8,1,19,1,2,0,NA,94,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
-"20482",2026,"Ryslinge Høj- og Efterskole (efterskoledelen)",430300,12,25,1,NA,24,NA,3,NA,0,4,12,0,22,5,0,0,NA,108,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Solhverv Privatskole",801007,7,6,5,NA,1,NA,3,NA,2,15,3,7,2,2,1,1,NA,53,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
-"20482",2026,"Tove Ditlevsens Skole",101064,0,4,1,NA,32,NA,8,NA,0,1,11,0,12,0,0,0,NA,69,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Faxehus Efterskole",351301,2,2,8,NA,23,NA,6,NA,4,6,8,0,21,1,2,0,NA,81,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Ellebjerg Skole",101063,24,1,0,NA,11,NA,1,NA,2,4,0,0,19,2,0,0,NA,64,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Kokkedal Skole",280122,24,7,9,NA,7,NA,18,NA,7,19,2,2,20,0,2,0,NA,115,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
-"20482",2026,"Brøndby Idrætsefterskole",153300,1,0,2,NA,2,NA,12,NA,0,7,2,0,0,0,0,0,NA,26,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
-"20482",2026,"5-Kløverskolerne, Hylleholt Skole",351002,6,1,15,NA,1,NA,8,NA,0,4,0,2,10,0,0,0,NA,47,NA,"Faxe",320,NA,"Region Sjælland",1085
-"20482",2026,"Roslev Skole",777004,1,3,4,NA,3,NA,10,NA,0,7,5,19,6,1,10,0,NA,59,NA,"Skive",779,NA,"Region Midtjylland",1082
-"20482",2026,"Marienhoffskolen",721004,11,0,1,NA,8,NA,8,NA,3,5,4,1,4,1,2,0,NA,46,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
-"20482",2026,"Samsøgades Skole",751036,21,3,2,NA,3,NA,1,NA,3,3,2,1,12,0,1,0,NA,51,NA,"Aarhus",751,NA,"Region Midtjylland",1082
-"20482",2026,"Landsgrav Friskole",333012,9,1,1,NA,3,NA,6,NA,1,7,2,2,0,0,1,0,NA,32,NA,"Slagelse",330,NA,"Region Sjælland",1085
-"20482",2026,"Brøndbyøster Skole - Bredager",153018,32,8,2,NA,2,NA,4,NA,1,15,2,0,33,1,2,0,NA,100,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
-"20482",2026,"Grønnevang Skole",280164,37,2,3,NA,9,NA,31,NA,4,5,6,0,6,1,8,11,NA,104,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
-"20482",2026,"Tirsdalens Skole",731010,50,18,15,NA,14,NA,10,NA,9,32,38,3,7,2,8,2,NA,198,NA,"Randers",730,NA,"Region Midtjylland",1082
-"20482",2026,"Pilehaveskolen",187002,9,8,29,NA,0,NA,7,NA,1,12,26,0,9,1,8,6,NA,102,NA,"Vallensbæk",187,NA,"Region Hovedstaden",1084
-"20482",2026,"Ingrid Jespersens Gymnasieskole",101153,28,29,19,NA,11,NA,19,NA,13,2,29,2,14,5,3,0,NA,171,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Hindholm Privatskole",307004,7,0,2,NA,2,NA,15,NA,0,6,0,0,2,0,0,0,NA,34,NA,"Næstved",370,NA,"Region Sjælland",1085
-"20482",2026,"Vestre Skole",445004,2,1,3,NA,0,NA,3,NA,0,3,6,0,8,0,2,0,NA,26,NA,"Middelfart",410,NA,"Region Syddanmark",1083
-"20482",2026,"Niels Steensens Gymnasium",101154,4,21,21,NA,20,NA,33,NA,16,8,4,0,25,31,5,2,NA,183,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Lødderup Friskole",773032,0,0,0,NA,0,NA,15,NA,0,0,1,14,1,0,1,0,NA,31,NA,"Morsø",773,NA,"Region Nordjylland",1081
-"20482",2026,"Viborg private Realskole",791014,74,9,34,NA,11,NA,45,NA,5,23,24,8,3,2,11,3,NA,238,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Glamsbjergskolen",433003,3,4,3,NA,5,NA,33,NA,0,4,7,0,10,0,4,0,NA,69,NA,"Assens",420,NA,"Region Syddanmark",1083
-"20482",2026,"Løjtegårdsskolen",185003,17,12,3,NA,8,NA,1,NA,1,7,45,1,0,0,3,1,NA,95,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
-"20482",2026,"Sportsefterskolen Sjælsølund",223300,33,20,1,NA,2,NA,19,NA,8,11,3,1,2,3,1,72,NA,103,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
-"20482",2026,"Nykøbing Skole",280200,7,6,2,NA,10,NA,7,NA,4,8,5,3,8,1,4,0,NA,61,NA,"Odsherred",306,NA,"Region Sjælland",1085
-"20482",2026,"Christianshavns Skole",101047,3,13,1,NA,30,NA,2,NA,12,2,5,2,21,3,0,0,NA,94,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Løgstrup Skole",791004,12,1,1,NA,0,NA,22,NA,0,0,7,0,0,0,0,0,NA,43,NA,"Viborg",791,NA,"Region Midtjylland",1082
-"20482",2026,"Gadstrup Skole",263001,8,0,31,NA,1,NA,10,NA,1,6,1,0,0,0,0,0,NA,58,NA,"Roskilde",265,NA,"Region Sjælland",1085
-"20482",2026,"Havdrup Skole",269001,23,1,1,NA,2,NA,4,NA,0,2,2,1,5,0,3,0,NA,41,NA,"Solrød",269,NA,"Region Sjælland",1085
-"20482",2026,"Korsvejens Skole",185002,13,4,1,NA,8,NA,14,NA,3,5,1,1,13,2,1,0,NA,65,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
-"20482",2026,"Gram Skole",511003,10,1,0,NA,2,NA,3,NA,3,6,8,1,1,0,1,0,NA,35,NA,"Haderslev",510,NA,"Region Syddanmark",1083
-"20482",2026,"Tinderhøj Skole",175006,14,0,6,NA,11,NA,4,NA,0,0,4,0,12,6,0,0,NA,57,NA,"Rødovre",175,NA,"Region Hovedstaden",1084
-"20482",2026,"Præstegårdsskolen",561015,1,0,1,NA,6,NA,9,NA,1,1,1,0,4,0,0,0,NA,24,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
-"20482",2026,"Tingløkkeskolen",461032,37,1,25,NA,5,NA,11,NA,0,9,4,0,14,0,4,0,NA,106,NA,"Odense",461,NA,"Region Syddanmark",1083
-"20482",2026,"Højslev Skole",779004,31,3,1,NA,2,NA,16,NA,3,6,9,13,3,0,2,3,NA,87,NA,"Skive",779,NA,"Region Midtjylland",1082
-"20482",2026,"Skolen i Sydhavnen",280129,9,23,2,NA,19,NA,13,NA,4,1,30,1,30,0,0,0,NA,132,NA,"København",101,NA,"Region Hovedstaden",1084
-"20482",2026,"Nibe Skole",831003,6,6,3,NA,15,NA,48,NA,5,2,15,1,5,1,0,0,NA,107,NA,"Aalborg",851,NA,"Region Nordjylland",1081
-"20482",2026,"Nymarken Skole og Børnehus",439006,4,0,0,NA,1,NA,20,NA,0,18,16,0,2,0,9,2,NA,61,NA,"Kerteminde",440,NA,"Region Syddanmark",1083
-"20482",2026,"Øster Starup Skole",605008,2,2,11,NA,0,NA,0,NA,1,0,10,0,1,0,0,0,NA,27,NA,"Vejle",630,NA,"Region Syddanmark",1083
-"20482",2026,"Herstedlund Skole",280106,1,8,3,NA,1,NA,5,NA,0,1,0,0,16,0,0,1,NA,35,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
-"20482",2026,"Bagsværd Gymnasiums Grundskole",159034,29,23,45,NA,8,NA,42,NA,11,3,27,0,24,2,5,2,NA,214,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
-"20482",2026,"Carl Nielsen-Skolen",497002,20,6,1,NA,2,NA,8,NA,3,5,21,0,0,0,1,0,NA,66,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
-"20482",2026,"Trongårdsskolen",173009,6,17,24,NA,2,NA,13,NA,6,8,2,0,10,4,0,0,NA,92,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
-"20482",2026,"Marie Kruses Skole",207007,0,15,7,NA,3,NA,51,NA,1,1,0,0,2,0,0,0,NA,80,NA,"Furesø",190,NA,"Region Hovedstaden",1084
-"20482",2026,"Thomasskolen",151021,17,2,1,NA,1,NA,3,NA,6,2,3,1,1,1,0,2,NA,38,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
-"20482",2026,"Lynge Skole",201002,24,2,7,NA,9,NA,14,NA,5,20,9,1,8,0,0,0,NA,99,NA,"Allerød",201,NA,"Region Hovedstaden",1084
-"20482",2026,"Bakkeskolen",621012,2,5,11,NA,2,NA,4,NA,1,3,20,12,5,0,1,2,NA,65,NA,"Kolding",621,NA,"Region Syddanmark",1083
-"20482",2026,"Løjt Kirkeby Skole",545002,18,0,0,NA,1,NA,2,NA,2,6,8,1,6,0,2,0,NA,44,NA,"Aabenraa",580,NA,"Region Syddanmark",1083
-"20482",2026,"Kildegårdskolen, afd. Vest",163006,36,6,1,NA,3,NA,9,NA,17,12,4,0,35,0,0,0,NA,123,NA,"Herlev",163,NA,"Region Hovedstaden",1084
-"20482",2026,"Sejs Skole",743010,23,1,0,NA,3,NA,20,NA,0,12,12,0,4,0,1,0,NA,75,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
-"20482",2026,"Privatskolen i Frederikshavn",813010,48,2,21,NA,5,NA,11,NA,1,2,16,3,3,1,3,0,NA,113,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
-"20482",2026,"Præstemarkskolen",713004,32,7,14,NA,17,NA,15,NA,2,23,0,1,4,2,5,2,NA,117,NA,"Favrskov",710,NA,"Region Midtjylland",1082
-"20482",2026,"Rask Mølle Skole",627003,17,6,5,NA,1,NA,5,NA,1,1,4,0,0,0,1,0,NA,40,NA,"Hedensted",766,NA,"Region Midtjylland",1082
-"20482",2026,"Baggesenskolen",325003,26,1,3,NA,5,NA,13,NA,0,15,8,1,6,1,0,0,NA,79,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Friskolen Østerlars",400006,1,4,0,NA,3,NA,2,NA,1,2,3,0,6,1,0,0,NA,23,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Skovvangskolen",161010,12,36,0,NA,8,NA,4,NA,1,12,6,0,10,0,1,0,NA,89,NA,"Glostrup",161,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kongsbjergskolen",623002,12,2,2,NA,11,NA,3,NA,0,0,14,2,3,1,0,0,NA,50,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Måløvhøj Skole - Østerhøj",281859,34,1,16,NA,5,NA,8,NA,3,2,0,1,9,1,8,1,NA,80,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sct. Norberts Skole",631019,6,1,16,NA,1,NA,21,NA,2,0,1,0,0,0,0,0,NA,48,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Humlebæk Skole",280120,14,4,14,NA,15,NA,10,NA,4,3,16,2,15,8,1,0,NA,105,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Høje Taastrup Privatskole",280471,3,6,1,NA,1,NA,7,NA,0,0,0,1,20,0,0,0,NA,39,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nordagerskolen",473020,1,19,5,NA,3,NA,8,NA,0,29,9,1,2,0,1,0,NA,77,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Sydfalster Skole",395002,5,1,0,NA,2,NA,2,NA,2,8,2,0,1,0,4,0,NA,23,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Bankagerskolen",615015,24,6,2,NA,6,NA,14,NA,4,25,5,2,6,0,3,4,NA,94,NA,"Horsens",615,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Nr Lyndelse Friskole",497006,11,0,4,NA,5,NA,3,NA,1,3,0,1,0,0,0,1,NA,28,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Al Hikma Skolen",101180,1,9,0,NA,3,NA,1,NA,0,1,2,0,9,1,1,0,NA,27,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Rudolf Steiner Skolen, Skanderborg",745008,2,0,1,NA,1,NA,3,NA,2,0,3,0,3,13,2,0,NA,28,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Fuglsanggårdsskolen",173003,9,17,20,NA,19,NA,23,NA,4,12,12,0,2,6,2,0,NA,124,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Østerbyskolen",575011,41,0,2,NA,4,NA,3,NA,1,4,2,2,2,0,4,0,NA,61,NA,"Vejen",575,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Stenhus Kostskole",315012,11,4,19,NA,4,NA,30,NA,0,6,91,0,16,1,13,2,NA,182,NA,"Holbæk",316,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Esbjerg Realskole",561026,30,1,30,NA,1,NA,20,NA,0,20,8,2,4,1,5,0,NA,117,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Bredagerskolen",617002,14,0,0,NA,2,NA,25,NA,1,6,8,0,0,0,1,0,NA,56,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Vestskolen, afd. Skovbakken",727007,11,13,15,NA,5,NA,8,NA,1,6,36,0,29,2,9,0,NA,126,NA,"Odder",727,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Frelloskolen",281527,15,5,2,NA,1,NA,9,NA,3,19,17,0,1,0,2,0,NA,72,NA,"Varde",573,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Lille Næstved Skole, afd. Herlufsholmvej",373005,14,5,1,NA,2,NA,36,NA,1,0,3,0,5,0,2,0,NA,67,NA,"Næstved",370,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Tune Skole",253006,16,8,21,NA,6,NA,1,NA,1,8,4,0,0,1,3,1,NA,66,NA,"Greve",253,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Fælleshåbsskolen",280333,45,2,1,NA,0,NA,9,NA,0,16,5,0,1,0,3,0,NA,79,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skovlunde Skole - Lundebjerg",281857,3,2,12,NA,2,NA,3,NA,2,3,5,2,3,0,0,0,NA,37,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hedemølle Efterskole",761303,2,27,24,NA,1,NA,3,NA,0,2,5,0,3,0,3,1,NA,67,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hjemly Fri- og Idrætsefterskole",473011,2,3,2,NA,3,NA,6,NA,4,4,2,0,1,0,1,0,NA,27,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Haslevskolerne, Sofiendalskolen",313002,11,1,0,NA,8,NA,7,NA,5,3,5,0,9,0,0,0,NA,49,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Sdr. Nærå Fri- og Efterskole (Friskolen)",497007,1,3,4,NA,0,NA,4,NA,0,0,0,8,0,0,5,1,NA,20,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Nordøstsalling Skoler og Dagtilbud Breum",281006,0,1,0,NA,1,NA,5,NA,0,1,4,9,3,0,4,0,NA,24,NA,"Skive",779,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hadbjerg Skole",709003,14,21,5,NA,2,NA,5,NA,2,2,10,1,1,0,3,0,NA,63,NA,"Favrskov",710,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Klarup Skole",851024,36,2,1,NA,5,NA,1,NA,1,8,0,0,0,0,3,0,NA,54,NA,"Aalborg",851,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Afdeling Maglehøj",237004,6,0,22,NA,1,NA,6,NA,0,1,27,1,9,0,2,0,NA,73,NA,"Egedal",240,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Balleskolen",743014,10,2,5,NA,2,NA,3,NA,3,3,6,0,11,0,1,2,NA,45,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Brobyskolerne",280117,3,1,0,NA,2,NA,16,NA,0,19,1,7,0,1,11,1,NA,50,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Bakkevejens Skole",557001,7,3,0,NA,12,NA,2,NA,0,2,1,0,0,0,0,0,NA,27,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Rosmus Skole",701002,12,1,0,NA,10,NA,12,NA,1,12,2,1,4,1,0,5,NA,56,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Strandby Skole",813006,18,3,0,NA,0,NA,5,NA,2,11,10,2,2,0,2,0,NA,53,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Paradisbakkeskolen",400014,7,0,5,NA,0,NA,10,NA,0,4,18,0,3,1,0,0,NA,48,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Virring Skole",745004,17,4,0,NA,2,NA,5,NA,5,2,5,3,2,0,5,1,NA,45,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Nordregårdsskolen",185004,18,2,2,NA,0,NA,3,NA,0,8,2,0,16,0,0,0,NA,51,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"BillundSkolen",280316,15,1,1,NA,4,NA,17,NA,3,1,2,1,1,0,0,0,NA,46,NA,"Billund",530,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Ådalens Skole",280222,12,3,37,NA,13,NA,44,NA,2,12,3,0,8,1,12,1,NA,135,NA,"Frederikssund",250,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Lillevang Skole afdeling Skovvang",280805,39,42,4,NA,5,NA,4,NA,0,15,3,1,15,1,2,0,NA,129,NA,"Allerød",201,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Brårup Skole",779001,8,5,5,NA,9,NA,28,NA,5,6,5,8,8,2,2,0,NA,89,NA,"Skive",779,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Gedved Skole",609004,5,1,2,NA,4,NA,5,NA,4,3,27,1,12,0,0,0,NA,64,NA,"Horsens",615,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Skivehus Skole",779007,27,2,1,NA,9,NA,16,NA,1,3,5,7,6,0,2,0,NA,77,NA,"Skive",779,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Esajasskolen",167013,11,2,3,NA,5,NA,9,NA,7,10,0,3,0,0,3,1,NA,50,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hans Rømer Skolen",400042,9,3,3,NA,1,NA,10,NA,1,11,3,0,4,0,5,0,NA,45,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Skjern Kristne Friskole",669010,7,9,8,NA,0,NA,5,NA,0,4,4,12,2,0,2,0,NA,51,NA,"Ringkøbing-Skjern",760,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Grønnemose Skole",159006,5,9,1,NA,42,NA,6,NA,1,4,0,0,41,1,0,0,NA,110,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Vestfjendsskolen",763008,0,5,0,NA,0,NA,3,NA,1,0,27,1,1,0,1,0,NA,38,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Skovsgård Tranum skole",803004,3,0,0,NA,1,NA,8,NA,0,12,0,5,2,1,3,1,NA,32,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Gåsetårnskolen, Iselinge",397008,103,12,20,NA,6,NA,20,NA,4,11,14,1,7,0,6,0,NA,198,NA,"Vordingborg",390,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Parkvejens Skole",727004,32,3,6,NA,24,NA,5,NA,8,9,10,1,18,0,9,2,NA,116,NA,"Odder",727,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Ordblindeinstituttet",151030,7,0,0,NA,2,NA,5,NA,5,1,1,2,3,0,1,1,NA,26,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nørrevangsskolen og UNX-Ung Nord10",731014,27,21,2,NA,2,NA,5,NA,1,6,2,1,27,3,0,1,NA,97,NA,"Randers",730,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Møn Friskole",365012,3,1,1,NA,0,NA,9,NA,1,2,1,0,6,1,1,0,NA,25,NA,"Vordingborg",390,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Skt. Pauls Skole",169016,17,2,1,NA,0,NA,9,NA,1,6,0,2,0,0,3,0,NA,38,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Institut Sankt Joseph",101081,21,16,2,NA,14,NA,21,NA,14,8,2,2,2,0,0,13,NA,102,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sankt Annæ Gymnasiums Grundskole",101158,15,20,7,NA,66,NA,9,NA,1,3,4,0,9,6,0,1,NA,140,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sulsted Skole",851029,51,0,0,NA,0,NA,2,NA,0,0,3,0,10,0,4,0,NA,66,NA,"Aalborg",851,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Aulum-Hodsager Skole",280679,12,1,6,NA,5,NA,10,NA,3,3,9,9,8,0,2,0,NA,66,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Ans Skole",771001,7,5,21,NA,2,NA,6,NA,0,4,0,1,0,0,2,1,NA,46,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Sjørring Skole",787006,20,5,3,NA,8,NA,7,NA,2,4,20,9,0,1,1,0,NA,79,NA,"Thisted",787,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Munkekærskolen",269007,18,5,28,NA,11,NA,18,NA,0,22,0,5,10,1,3,1,NA,118,NA,"Solrød",269,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Nymarkskolen",280113,64,7,5,NA,11,NA,23,NA,5,32,5,6,42,2,7,4,NA,202,NA,"Svendborg",479,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Holluf Pile Skole",461064,39,5,5,NA,8,NA,9,NA,7,0,10,3,8,5,1,0,NA,99,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Stjernevejskolen",613012,25,6,1,NA,2,NA,8,NA,2,11,18,0,2,0,10,3,NA,75,NA,"Hedensted",766,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Lynghøjskolen",265008,8,22,15,NA,7,NA,7,NA,4,2,4,2,0,2,5,0,NA,73,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Christianshavns Døttreskole",101079,4,4,9,NA,4,NA,3,NA,2,0,2,0,5,0,0,0,NA,33,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nordsjællands Friskole",219016,5,0,0,NA,1,NA,7,NA,3,0,1,0,3,1,0,0,NA,21,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hillerød Vest Skolen",280163,47,4,6,NA,7,NA,9,NA,8,13,6,3,5,0,0,7,NA,108,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Egholmskolen",187001,23,7,4,NA,3,NA,24,NA,5,20,18,1,28,3,8,1,NA,136,NA,"Vallensbæk",187,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Markusskolen",561036,5,5,2,NA,0,NA,28,NA,0,0,2,0,5,1,3,0,NA,48,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Toftlund Skole",550002,24,0,0,NA,3,NA,11,NA,3,1,6,4,3,0,8,0,NA,55,NA,"Tønder",550,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Vibeholmskolen",183002,21,18,12,NA,2,NA,2,NA,0,5,2,0,46,0,3,2,NA,108,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Lisbjergskolen",751022,11,0,2,NA,5,NA,15,NA,0,2,1,3,2,1,1,0,NA,42,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Stilling Skole",745003,26,4,10,NA,10,NA,1,NA,6,8,5,2,6,0,7,0,NA,78,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Højene undervisningssted",821003,14,11,2,NA,3,NA,9,NA,0,5,18,1,5,0,0,0,NA,68,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Ejerslykkeskolen",461014,17,1,5,NA,10,NA,5,NA,3,1,3,2,10,3,0,10,NA,60,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Sønderlandsskolen",661012,25,5,3,NA,7,NA,20,NA,1,3,6,1,10,1,0,0,NA,82,NA,"Holstebro",661,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Karlslunde Skole",253002,18,0,2,NA,0,NA,8,NA,1,0,1,0,4,0,2,1,NA,34,NA,"Greve",253,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Kirkebjerg Skole",101020,5,5,0,NA,3,NA,12,NA,15,1,9,0,11,1,5,2,NA,62,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Rathlouskolen",727011,16,22,13,NA,2,NA,14,NA,0,0,4,0,8,0,2,0,NA,79,NA,"Odder",727,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hyllehøjskolen",445002,2,2,0,NA,0,NA,13,NA,3,0,9,0,4,0,0,0,NA,33,NA,"Middelfart",410,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Måløvhøj Skole – Måløv",280565,29,1,23,NA,3,NA,7,NA,3,13,0,1,5,0,0,0,NA,85,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Holbæk Lilleskole",315017,12,6,4,NA,11,NA,15,NA,0,4,2,0,6,1,5,0,NA,61,NA,"Holbæk",316,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Beder Skole",751004,7,1,0,NA,23,NA,10,NA,1,3,9,1,17,0,0,1,NA,72,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Langebjergskolen",208008,20,7,0,NA,7,NA,9,NA,4,9,2,3,4,0,0,0,NA,65,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Skårup Skole",280138,32,8,2,NA,0,NA,4,NA,0,6,5,1,0,0,1,0,NA,58,NA,"Svendborg",479,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Rungsted Private Realskole",223006,6,2,12,NA,0,NA,41,NA,0,0,9,0,1,2,0,0,NA,73,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nyborg Friskole",449009,26,3,0,NA,3,NA,7,NA,1,3,2,0,1,0,7,1,NA,46,NA,"Nyborg",450,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Eskilstrup Børne- og Skolefællesskab",375004,12,1,0,NA,1,NA,6,NA,2,8,0,1,1,2,0,0,NA,34,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Frederiksværk Skole",280197,18,2,0,NA,0,NA,7,NA,3,11,4,0,11,3,1,0,NA,59,NA,"Halsnæs",260,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Viby Skole, afdeling Bueager",263004,14,1,0,NA,4,NA,13,NA,1,4,0,0,0,0,1,2,NA,37,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Tørring Skole",627004,4,2,0,NA,1,NA,11,NA,0,12,36,2,2,0,4,0,NA,70,NA,"Hedensted",766,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Tingstrup Skole",787013,15,2,1,NA,8,NA,7,NA,0,5,19,10,7,1,4,0,NA,75,NA,"Thisted",787,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Ravnshøj skole",813009,3,3,2,NA,2,NA,11,NA,1,1,0,0,0,0,9,1,NA,23,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Tønder Distriktsskole - Overbygningsskolen",541004,44,18,3,NA,7,NA,29,NA,4,20,18,5,12,1,0,1,NA,161,NA,"Tønder",550,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Haderup Skole",651003,8,0,0,NA,1,NA,2,NA,0,0,14,1,0,0,0,0,NA,26,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Kolind skole",721002,25,0,0,NA,0,NA,11,NA,1,1,3,1,2,0,0,0,NA,44,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Gilbjergskolen, Gilleleje",280270,88,0,30,NA,5,NA,8,NA,3,18,5,1,9,0,5,0,NA,167,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Høng Skole",319002,5,11,4,NA,8,NA,4,NA,4,2,3,3,17,0,0,0,NA,61,NA,"Kalundborg",326,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Vipperød Skole",315007,4,2,18,NA,4,NA,15,NA,4,8,3,0,1,0,4,0,NA,59,NA,"Holbæk",316,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Uglegårdsskolen",269005,12,5,7,NA,14,NA,52,NA,3,13,39,1,16,1,14,1,NA,163,NA,"Solrød",269,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Kirke Saaby Skole",257002,10,0,6,NA,1,NA,0,NA,0,3,2,0,4,0,3,0,NA,26,NA,"Lejre",350,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Lystrup Skole",751066,12,1,4,NA,5,NA,4,NA,1,5,3,1,4,0,0,0,NA,40,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Al-Huda Skolen",101189,1,24,0,NA,0,NA,1,NA,0,1,0,0,15,0,2,0,NA,42,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sydkystens Privatskole",269006,4,0,8,NA,0,NA,14,NA,0,5,0,0,1,0,3,0,NA,32,NA,"Solrød",269,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Kalundborg Friskole",323013,8,0,0,NA,1,NA,2,NA,1,7,10,0,0,0,0,0,NA,29,NA,"Kalundborg",326,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Kristofferskolen",265030,4,4,5,NA,2,NA,1,NA,0,2,0,0,9,5,9,0,NA,32,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Lille Egede Friskole",331008,6,1,4,NA,0,NA,2,NA,1,2,1,1,0,0,5,0,NA,18,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Korshøjskolen",723004,11,2,19,NA,1,NA,5,NA,0,0,4,2,0,0,0,1,NA,44,NA,"Randers",730,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Bangsbostrand skoleafdeling",813001,25,2,0,NA,15,NA,9,NA,1,12,9,3,7,1,3,1,NA,84,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Toftegårdsskolen",805009,3,2,0,NA,1,NA,9,NA,0,0,7,1,0,0,2,1,NA,23,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Ringkøbing Skole, afd. Rindum",667008,21,13,5,NA,9,NA,31,NA,5,11,8,22,8,0,2,0,NA,133,NA,"Ringkøbing-Skjern",760,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Christiansfeld Skole",509013,27,1,1,NA,10,NA,12,NA,2,12,14,2,2,0,1,1,NA,83,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Trørødskolen",181009,29,12,9,NA,3,NA,80,NA,22,5,6,1,3,0,1,0,NA,170,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Vestervang Skole",791013,11,5,10,NA,9,NA,11,NA,1,0,41,1,11,1,6,0,NA,101,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Munkholmskolen",717004,5,1,24,NA,2,NA,14,NA,0,9,7,1,1,0,1,2,NA,64,NA,"Randers",730,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Risingskolen",461022,22,3,2,NA,6,NA,32,NA,7,10,5,10,34,6,3,6,NA,137,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Jakobskolen",751080,10,1,12,NA,5,NA,0,NA,1,0,1,1,1,2,1,0,NA,34,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Virupskolen",751052,14,18,2,NA,14,NA,22,NA,4,1,0,1,16,1,4,0,NA,93,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Kirsebærhavens Skole",281980,10,0,0,NA,0,NA,9,NA,4,0,0,0,19,0,0,0,NA,42,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Mårslet Skole",751026,39,4,3,NA,16,NA,17,NA,2,12,6,5,3,1,9,1,NA,108,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Distriktsskolen",521003,3,4,0,NA,4,NA,4,NA,1,16,14,5,1,0,3,0,NA,52,NA,"Tønder",550,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Borup Skole",267002,11,4,5,NA,3,NA,3,NA,4,11,34,0,0,0,1,0,NA,75,NA,"Køge",259,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Klokkerholm Skole",807006,24,1,0,NA,3,NA,5,NA,0,5,2,2,2,0,0,0,NA,44,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Ølsted Skole",211006,8,1,6,NA,3,NA,13,NA,1,1,0,1,0,0,3,0,NA,34,NA,"Halsnæs",260,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sdr Vang Skole",621011,26,6,1,NA,2,NA,8,NA,0,6,0,1,4,0,3,1,NA,54,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Aakjærskolen",779008,14,3,1,NA,1,NA,6,NA,2,3,2,2,3,0,0,0,NA,37,NA,"Skive",779,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Tingkærskolen",461031,9,3,1,NA,1,NA,2,NA,1,2,1,1,0,0,3,0,NA,21,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Nordbyskolen",369018,30,2,3,NA,7,NA,6,NA,1,9,4,0,7,1,0,0,NA,70,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Nivå Skole",280121,30,5,5,NA,3,NA,35,NA,2,7,0,0,6,1,1,2,NA,94,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Holme Skole",751017,22,12,6,NA,3,NA,5,NA,1,3,7,1,3,0,0,0,NA,63,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Tuse Skole",315005,38,3,0,NA,4,NA,11,NA,2,14,10,1,0,0,7,0,NA,83,NA,"Holbæk",316,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Bakkegårdsskolen",157001,26,11,16,NA,11,NA,16,NA,14,4,3,0,13,0,9,0,NA,114,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Egelundskolen",165001,3,21,7,NA,0,NA,0,NA,1,10,1,0,1,0,0,0,NA,44,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Arden Skole",801001,2,22,0,NA,0,NA,6,NA,0,3,27,1,0,0,1,11,NA,61,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Buddinge Skole",159002,1,0,21,NA,2,NA,22,NA,1,1,5,0,24,0,10,1,NA,77,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ellevangskolen",751003,77,4,10,NA,28,NA,16,NA,7,5,8,2,4,0,5,0,NA,161,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Nordstjerneskolen",280348,13,16,0,NA,7,NA,17,NA,6,10,9,1,1,0,4,3,NA,80,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Deutsche Schule Sonderburg",537009,25,12,3,NA,0,NA,13,NA,2,5,0,0,5,0,1,0,NA,65,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Haldum-Hinnerup Skolen",713001,11,5,33,NA,5,NA,5,NA,3,9,1,0,16,0,1,0,NA,88,NA,"Favrskov",710,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Birkhovedskolen",449002,21,4,1,NA,5,NA,10,NA,1,7,11,1,2,3,1,0,NA,66,NA,"Nyborg",450,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Ådalens Skole",733003,2,0,5,NA,1,NA,22,NA,0,2,0,1,1,0,0,0,NA,34,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Vibeskolen",489002,7,3,3,NA,1,NA,39,NA,0,0,0,0,3,0,4,0,NA,56,NA,"Nyborg",450,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skolecenter Jetsmark",280481,31,0,0,NA,2,NA,5,NA,1,7,3,1,13,0,1,0,NA,63,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Borgerskolen",169007,14,6,10,NA,9,NA,33,NA,1,4,0,1,12,1,9,5,NA,91,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Baltorpskolen - Rugvænget",281844,33,5,1,NA,13,NA,14,NA,17,11,2,5,29,2,2,0,NA,132,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Brenderup og Omegns Realskole",429006,1,4,2,NA,1,NA,43,NA,1,2,30,1,6,0,0,0,NA,91,NA,"Middelfart",410,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Gudenåskolen",737006,6,5,1,NA,6,NA,3,NA,0,0,0,0,12,2,1,0,NA,35,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Stillinge Skole",333008,24,2,10,NA,0,NA,0,NA,1,1,2,9,0,0,1,1,NA,49,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Nordvestskolen",217014,13,2,1,NA,8,NA,31,NA,2,10,3,1,16,2,2,12,NA,89,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Bjørnehøjskolen",215001,29,0,13,NA,5,NA,27,NA,0,10,0,0,5,0,1,0,NA,89,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sølystskolen",751043,35,2,1,NA,19,NA,7,NA,1,5,18,1,3,0,0,0,NA,92,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Tjørnegårdskolen",265015,5,0,2,NA,8,NA,9,NA,0,7,1,4,3,0,2,1,NA,39,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Blovstrød Skole",201001,17,5,0,NA,4,NA,10,NA,5,2,7,0,3,2,0,0,NA,55,NA,"Allerød",201,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Borupgårdskolen",217018,56,11,19,NA,11,NA,7,NA,0,18,0,0,3,1,1,1,NA,126,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Marievangsskolen",333004,33,1,15,NA,2,NA,5,NA,1,5,9,0,10,1,1,0,NA,82,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Store Andst Efterskole",575304,0,1,0,NA,5,NA,54,NA,0,4,14,3,0,0,4,0,NA,81,NA,"Vejen",575,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Tibberupskolen",217013,97,8,3,NA,9,NA,60,NA,5,12,9,2,44,8,1,6,NA,257,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Frydenhøjskolen",167011,22,3,27,NA,5,NA,7,NA,0,16,0,2,14,1,7,0,NA,97,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Afdeling Åvangsskolen",400020,19,0,4,NA,21,NA,10,NA,1,4,4,0,5,0,5,1,NA,68,NA,"Bornholm",400,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sct. Michaels Skole",621020,16,4,7,NA,6,NA,43,NA,3,0,9,1,3,0,3,0,NA,92,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Hotherskolen",271001,12,0,2,NA,4,NA,4,NA,0,10,15,1,2,1,2,0,NA,51,NA,"Stevns",336,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Bagterp undervisningssted",821001,14,2,1,NA,5,NA,3,NA,0,14,5,0,5,1,0,0,NA,50,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Sct. Nicolai Skole",259019,20,14,2,NA,2,NA,2,NA,0,7,10,0,3,0,3,0,NA,60,NA,"Køge",259,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Jinnah International School",101169,4,1,0,NA,0,NA,1,NA,0,1,0,0,29,0,0,0,NA,36,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hald Ege Skole",791003,12,3,26,NA,2,NA,0,NA,0,4,25,0,1,0,2,0,NA,73,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Augustenborg Skole",501001,8,1,1,NA,1,NA,3,NA,1,1,7,0,14,4,1,1,NA,41,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Lindbjergskolen",281054,25,5,8,NA,4,NA,40,NA,1,13,6,1,6,0,3,0,NA,109,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Sct. Jørgens Skole",265010,28,11,5,NA,7,NA,10,NA,0,4,0,0,12,0,10,0,NA,77,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Dagnæsskolen",615002,13,2,14,NA,2,NA,11,NA,0,20,37,0,11,0,6,0,NA,110,NA,"Horsens",615,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Balle Friskole, Balle Musik- & Idrætsefterskole",605009,2,2,0,NA,2,NA,2,NA,2,3,3,2,1,0,9,0,NA,19,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Hjalleseskolen",461007,21,3,8,NA,2,NA,16,NA,19,21,9,1,13,1,4,0,NA,114,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Avedøre Skole",167009,13,16,7,NA,1,NA,10,NA,4,8,2,2,5,0,4,15,NA,68,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Maribo Skole, Borgerskoleafdelingen",280048,6,0,0,NA,12,NA,2,NA,1,6,0,4,17,0,4,0,NA,48,NA,"Lolland",360,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Nordre Skole",557006,11,3,2,NA,3,NA,14,NA,1,16,2,19,4,0,0,2,NA,75,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Vedbæk Skole",181007,10,3,0,NA,0,NA,42,NA,3,1,1,0,1,0,0,0,NA,61,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Herningsholmskolen",657007,10,17,1,NA,1,NA,12,NA,3,7,1,1,18,0,1,0,NA,71,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hummeltofteskolen",173004,15,40,20,NA,5,NA,8,NA,20,4,6,1,3,2,0,1,NA,124,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sindal undervisningssted",839006,50,3,6,NA,3,NA,4,NA,0,5,1,2,0,0,1,1,NA,74,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Horsens Byskole, folkeskoleafdeling",615024,35,11,4,NA,8,NA,5,NA,0,5,24,0,4,0,10,2,NA,96,NA,"Horsens",615,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hellerup Skole",157047,3,18,29,NA,1,NA,11,NA,5,5,4,0,3,0,3,2,NA,79,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Fourfeldtskolen",561006,28,1,4,NA,11,NA,9,NA,1,15,20,3,23,0,5,2,NA,115,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Husum Skole",101017,18,4,10,NA,5,NA,3,NA,9,12,0,0,14,1,6,2,NA,76,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Lundehusskolen",101138,2,0,0,NA,19,NA,2,NA,0,1,2,1,16,0,1,0,NA,43,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Bernadotteskolen",157013,3,7,14,NA,18,NA,4,NA,2,5,5,1,14,3,1,0,NA,76,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Randers Realskole",731017,42,50,104,NA,27,NA,34,NA,11,44,96,10,1,3,4,1,NA,422,NA,"Randers",730,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Risbjergskolen",167006,6,9,23,NA,3,NA,15,NA,1,10,3,0,21,2,15,1,NA,93,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kvaglundskolen",561024,4,2,0,NA,11,NA,1,NA,2,1,1,0,1,1,0,0,NA,24,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Vemmelev Skole",325006,19,1,0,NA,0,NA,7,NA,1,21,1,5,0,0,1,1,NA,55,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Dalumskolen",461003,11,21,12,NA,2,NA,2,NA,2,12,2,3,7,0,8,0,NA,74,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Tåsingeskolen",280139,31,5,2,NA,12,NA,17,NA,7,9,8,9,2,5,9,0,NA,107,NA,"Svendborg",479,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skolen på Islands Brygge",101059,19,20,20,NA,32,NA,46,NA,19,19,4,2,47,0,4,3,NA,228,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hjørring Ny 10.",821019,6,2,6,NA,4,NA,5,NA,2,2,0,6,13,0,0,13,NA,46,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Hanstholm Skole",765001,9,0,0,NA,0,NA,4,NA,0,1,0,3,5,0,0,0,NA,22,NA,"Thisted",787,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Hirtshals undervisningssted",819002,18,10,3,NA,10,NA,12,NA,1,12,10,1,3,2,6,0,NA,82,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Nordstjerneskolen",280272,4,1,33,NA,5,NA,6,NA,3,3,1,3,17,3,1,0,NA,79,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Rosendalskolen",823004,46,8,2,NA,0,NA,17,NA,1,8,16,0,1,2,2,2,NA,101,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Holmegaardskolen, afd. Fensmark",280748,18,2,16,NA,4,NA,20,NA,2,16,6,3,11,1,12,1,NA,99,NA,"Næstved",370,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Hornslet Skole",733001,34,1,1,NA,12,NA,51,NA,0,14,6,1,10,0,10,5,NA,130,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Mejls-Orten-Tinghøj Friskole",573012,6,0,1,NA,2,NA,6,NA,1,1,2,1,1,0,1,0,NA,21,NA,"Varde",573,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Fårevejle Skole",305004,16,0,1,NA,2,NA,12,NA,2,8,0,1,3,3,3,2,NA,48,NA,"Odsherred",306,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Al-Hilal Skolen",101526,6,13,0,NA,1,NA,1,NA,0,2,0,0,9,0,1,0,NA,32,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sakskøbing Skole",387005,17,1,5,NA,0,NA,33,NA,4,7,3,1,2,0,3,0,NA,73,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Hvinningdalskolen",743020,33,5,2,NA,3,NA,9,NA,6,1,11,3,2,0,2,0,NA,75,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"St. Magleby Skole",280186,14,3,1,NA,1,NA,32,NA,1,12,22,3,5,0,2,0,NA,94,NA,"Dragør",155,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Søndermarksskolen",333011,6,8,8,NA,2,NA,2,NA,3,1,4,1,6,0,0,0,NA,41,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Skolen ved Bulowsvej",147008,29,31,15,NA,18,NA,15,NA,9,25,6,0,21,2,1,0,NA,171,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"10. klasseskolen",219024,16,10,1,NA,11,NA,9,NA,2,7,4,4,3,1,15,0,NA,68,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kulsbjerg Skole, Stensved",361003,13,7,0,NA,3,NA,14,NA,1,4,0,1,3,0,0,0,NA,46,NA,"Vordingborg",390,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Langhøjskolen",167004,16,2,4,NA,12,NA,14,NA,9,23,2,2,22,3,4,0,NA,109,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Fællesskolen Favrdal-Fjelstrup",280240,52,8,1,NA,4,NA,16,NA,7,14,12,2,20,2,7,0,NA,138,NA,"Haderslev",510,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skovshoved Skole",157010,5,0,3,NA,1,NA,22,NA,12,4,11,1,1,0,2,3,NA,60,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Rolf Krake Skolen",661002,7,12,4,NA,8,NA,16,NA,1,3,11,5,5,0,0,0,NA,72,NA,"Holstebro",661,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Kildeskolen",101162,15,2,0,NA,2,NA,6,NA,0,4,0,0,4,0,4,0,NA,33,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Højboskolen",715003,17,2,1,NA,10,NA,11,NA,0,1,5,0,0,2,0,0,NA,49,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Holbæk Private Realskole",315011,22,4,26,NA,5,NA,21,NA,1,5,1,1,8,0,1,1,NA,94,NA,"Holbæk",316,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Rude Skov Skole",281408,34,10,7,NA,10,NA,30,NA,2,8,7,1,8,1,3,1,NA,118,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"DIA Privatskole",101149,1,0,0,NA,1,NA,0,NA,1,8,2,0,23,1,4,0,NA,37,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hvidovre Privatskole",280643,3,9,7,NA,2,NA,13,NA,2,9,32,4,0,0,0,0,NA,81,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Johannesskolen",147034,15,7,4,NA,1,NA,10,NA,13,0,3,0,2,1,0,0,NA,56,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Skovvejens Skole - Øst",280563,19,15,33,NA,10,NA,14,NA,18,0,5,0,7,1,1,0,NA,122,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Tinglev Skole",539006,8,1,1,NA,8,NA,7,NA,1,20,13,2,5,0,3,0,NA,66,NA,"Aabenraa",580,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Kornmod Realskole",743015,52,12,24,NA,12,NA,28,NA,12,5,12,6,5,2,0,0,NA,170,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Sæbygårdskolen",847010,37,4,0,NA,10,NA,14,NA,2,11,12,2,2,0,0,0,NA,94,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Suldrup Skole",845004,13,1,2,NA,1,NA,4,NA,2,1,7,2,0,0,0,1,NA,33,NA,"Rebild",840,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Kværkeby Friskole",280391,8,0,14,NA,0,NA,4,NA,0,2,0,0,7,0,1,0,NA,35,NA,"Ringsted",329,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Nørre Boulevard Skolen",661014,3,10,41,NA,4,NA,13,NA,0,12,48,1,17,2,9,0,NA,151,NA,"Holstebro",661,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Bredballe Privatskole",280537,4,0,2,NA,0,NA,19,NA,2,0,3,0,0,0,0,0,NA,30,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Nysted Skole",371004,11,1,0,NA,3,NA,7,NA,0,2,3,13,2,0,0,0,NA,42,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Sct. Jørgens Skole",373012,14,4,4,NA,8,NA,9,NA,4,3,10,5,19,0,3,0,NA,80,NA,"Næstved",370,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Glavendrupskolen",483004,21,5,1,NA,1,NA,3,NA,1,2,36,2,5,0,0,0,NA,77,NA,"Nordfyns",480,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Brovst Skole",803001,22,1,24,NA,4,NA,8,NA,1,4,4,4,5,0,3,2,NA,77,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Arenaskolen",253008,12,3,1,NA,1,NA,1,NA,0,3,2,2,18,1,0,0,NA,44,NA,"Greve",253,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Rynkevangskolen",323003,7,1,11,NA,10,NA,11,NA,2,14,8,1,4,2,6,0,NA,71,NA,"Kalundborg",326,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Herstedøster Skole",165019,47,23,5,NA,4,NA,1,NA,1,22,2,1,19,0,8,1,NA,125,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ellemarkskolen",259003,3,3,12,NA,3,NA,0,NA,0,9,15,0,6,0,0,0,NA,51,NA,"Køge",259,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Vesterlandsskolen, afd. Fuglebjerg",280118,15,1,16,NA,2,NA,7,NA,2,2,0,1,4,0,1,0,NA,50,NA,"Næstved",370,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Kragelundskolen",751021,14,22,5,NA,20,NA,24,NA,2,5,13,3,5,0,2,5,NA,113,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Haarby Skole",437002,0,1,9,NA,1,NA,3,NA,0,7,1,0,1,0,2,0,NA,23,NA,"Assens",420,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Højvangskolen",751018,23,4,1,NA,2,NA,23,NA,4,4,6,0,1,0,63,0,NA,68,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Tre Falke Skolen",147051,43,15,27,NA,12,NA,39,NA,17,21,7,1,36,15,4,3,NA,233,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Vallerødskolen",223004,10,4,3,NA,7,NA,32,NA,0,0,1,1,5,0,0,0,NA,63,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Oehlenschlægersgades Skole",101069,5,11,0,NA,5,NA,1,NA,0,0,0,0,25,1,1,0,NA,48,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Munkevængets Skole",621018,8,3,0,NA,0,NA,2,NA,0,2,0,0,22,1,0,0,NA,38,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Agedrup Skole",461001,1,1,9,NA,9,NA,13,NA,0,2,25,7,22,0,0,0,NA,89,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Ørstedskolen, afd. Rudkøbing",482002,11,7,7,NA,4,NA,17,NA,2,1,80,4,1,1,2,0,NA,135,NA,"Langeland",482,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Katrinedals Skole",101019,31,37,4,NA,5,NA,11,NA,6,6,14,1,24,1,4,3,NA,140,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Norddjurs Friskole",707009,9,1,0,NA,1,NA,2,NA,2,5,5,1,2,0,1,0,NA,28,NA,"Norddjurs",707,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Ikast Nordre Skole",663006,42,1,1,NA,4,NA,21,NA,0,3,4,1,8,0,3,0,NA,85,NA,"Ikast-Brande",756,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Holbergskolen",303001,47,0,1,NA,0,NA,1,NA,0,2,0,0,1,0,0,0,NA,52,NA,"Sorø",340,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Grøndalsvængets Skole",101015,7,1,0,NA,6,NA,4,NA,0,4,2,1,8,1,0,0,NA,34,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Osted Fri- og Efterskole (friskolen)",261005,8,0,18,NA,0,NA,0,NA,0,6,0,0,6,0,0,1,NA,38,NA,"Lejre",350,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Bakkeskolen",561002,6,5,1,NA,6,NA,24,NA,1,20,2,1,31,1,7,6,NA,98,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Søndre Skole",791008,7,5,5,NA,1,NA,3,NA,3,6,9,4,6,1,1,0,NA,50,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Uhre Friskole",653006,11,0,1,NA,0,NA,1,NA,0,6,1,6,0,0,1,0,NA,26,NA,"Ikast-Brande",756,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Fladsåskolen, afd. Mogenstrup",370003,8,2,22,NA,0,NA,10,NA,1,14,1,0,1,0,0,0,NA,59,NA,"Næstved",370,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Kratholmskolen",461053,9,0,2,NA,1,NA,15,NA,1,1,1,3,0,0,0,0,NA,33,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Sophieskolen",369002,15,3,8,NA,9,NA,3,NA,6,11,0,10,23,0,0,1,NA,88,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Terndrup Skole",280934,22,0,0,NA,0,NA,2,NA,5,8,0,7,0,0,4,1,NA,44,NA,"Rebild",840,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Skagen Skole",280315,16,0,13,NA,1,NA,7,NA,1,24,5,0,3,1,2,0,NA,71,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Ung Faxe - 10. klasse",280358,8,1,3,NA,2,NA,3,NA,0,11,1,3,4,1,9,2,NA,37,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Billeshave Efterskole",445302,9,0,3,NA,9,NA,13,NA,2,1,9,0,4,1,2,3,NA,51,NA,"Middelfart",410,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Boesagerskolen",171002,9,3,23,NA,5,NA,32,NA,3,7,1,0,6,1,3,0,NA,90,NA,"Egedal",240,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Midtbyskolen, afd. Skolegade",805006,45,3,4,NA,12,NA,28,NA,2,9,30,1,17,1,2,0,NA,152,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Herstedvester Skole",165020,52,6,13,NA,6,NA,2,NA,0,5,1,0,17,1,5,0,NA,103,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kirkebakkeskolen",631006,8,5,0,NA,1,NA,9,NA,6,19,9,0,0,0,2,0,NA,57,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Hindsholmskolen",439001,3,1,8,NA,0,NA,1,NA,0,0,9,0,0,0,0,0,NA,22,NA,"Kerteminde",440,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Rudolf Steiner Skolen Kvistgård",217020,1,1,1,NA,22,NA,3,NA,0,1,0,0,0,4,0,0,NA,33,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Brædstrup Skole, specialskoleafdeling",281832,19,1,7,NA,3,NA,6,NA,0,5,21,0,1,1,1,0,NA,64,NA,"Horsens",615,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Brændgårdskolen",657023,25,22,3,NA,3,NA,15,NA,0,23,34,3,5,0,2,0,NA,133,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Nørre Aaby Realskole",451003,15,1,4,NA,3,NA,2,NA,2,2,36,1,1,0,1,1,NA,67,NA,"Middelfart",410,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Vestergårdsskolen",751050,36,9,3,NA,6,NA,9,NA,3,4,1,2,13,4,0,0,NA,90,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Brøndby Strand Skole - Dyringparken",153020,18,39,14,NA,13,NA,39,NA,1,9,1,0,25,2,2,6,NA,161,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Usserød Skole",223003,6,5,0,NA,4,NA,15,NA,1,5,7,1,13,5,0,1,NA,62,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Fredensborg Skole",280119,37,4,52,NA,3,NA,7,NA,5,4,7,0,3,1,0,0,NA,123,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hulvej Privatskole",615016,34,16,18,NA,5,NA,22,NA,2,10,2,0,23,0,6,2,NA,132,NA,"Horsens",615,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hobro Friskole",823009,3,12,0,NA,2,NA,0,NA,0,0,0,1,6,0,0,3,NA,24,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Engskolen",101098,8,0,1,NA,6,NA,1,NA,1,0,3,1,3,2,2,0,NA,26,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hørsholm Skole",223001,7,8,10,NA,0,NA,15,NA,3,3,2,0,2,1,0,0,NA,51,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Skolen på Herredsåsen",323016,10,1,3,NA,1,NA,25,NA,2,5,4,3,29,0,1,3,NA,83,NA,"Kalundborg",326,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Frederiksbjerg Skole",751027,55,9,3,NA,16,NA,14,NA,5,20,8,1,9,2,2,1,NA,142,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Brændkjærskolen",621003,36,21,39,NA,19,NA,10,NA,2,6,43,3,6,1,6,1,NA,186,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Nr Alslev Skole",375001,18,1,5,NA,5,NA,8,NA,1,2,2,9,1,0,1,0,NA,52,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Dansborgskolen",167001,51,0,20,NA,6,NA,5,NA,0,10,3,0,8,0,4,0,NA,103,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sjølundskolen",280168,14,1,0,NA,2,NA,30,NA,9,15,5,2,10,1,1,10,NA,89,NA,"Næstved",370,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Møn Skole, Stege",365011,12,3,0,NA,8,NA,13,NA,2,5,10,1,6,0,0,0,NA,60,NA,"Vordingborg",390,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Høng Privatskole",319007,2,12,4,NA,1,NA,2,NA,0,1,0,0,4,0,0,0,NA,26,NA,"Kalundborg",326,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Hedensted Skole",613002,39,12,11,NA,8,NA,21,NA,0,9,28,0,4,0,2,1,NA,132,NA,"Hedensted",766,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Øster Farimagsgades Skole",101043,9,4,5,NA,36,NA,10,NA,1,13,3,0,13,0,7,1,NA,94,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Amager Fælled Skole",101174,31,10,10,NA,8,NA,3,NA,6,3,3,1,31,2,8,4,NA,108,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nyrupskolen",323001,12,0,0,NA,2,NA,5,NA,0,2,1,1,14,0,0,0,NA,37,NA,"Kalundborg",326,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Lyshøjskolen",621013,8,42,4,NA,4,NA,55,NA,9,4,21,1,6,0,0,1,NA,154,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Aalykkeskolen",621017,6,8,12,NA,2,NA,5,NA,3,3,10,0,7,3,1,1,NA,59,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Laursens Realskole",751060,5,22,25,NA,6,NA,13,NA,6,8,3,0,2,0,3,0,NA,90,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Skørping Skole",843004,22,8,4,NA,9,NA,8,NA,7,11,8,1,7,1,0,0,NA,86,NA,"Rebild",840,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Grønvangskolen",575003,8,1,33,NA,39,NA,63,NA,2,8,7,0,9,1,0,0,NA,171,NA,"Vejen",575,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Hedelyskolen",253001,30,30,34,NA,8,NA,5,NA,4,11,7,1,4,0,4,0,NA,134,NA,"Greve",253,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Aarupskolen",499004,20,5,0,NA,3,NA,5,NA,3,13,3,6,1,1,10,0,NA,60,NA,"Assens",420,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Hunderupskolen",461008,11,14,10,NA,8,NA,40,NA,3,7,3,0,3,0,2,17,NA,99,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skæring Skole",751056,35,12,6,NA,3,NA,20,NA,4,5,5,0,0,2,0,2,NA,92,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hadsund Skole",815002,11,3,2,NA,6,NA,16,NA,0,30,7,4,2,0,6,0,NA,81,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Bindernæs Efterskole og Fri Fagskole",383300,31,19,3,NA,2,NA,11,NA,1,2,12,0,8,2,2,0,NA,91,NA,"Lolland",360,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Frydenstrand - Buhlsvej Skoleafdeling",281830,46,0,3,NA,5,NA,25,NA,3,7,0,2,1,0,2,2,NA,92,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Melby Skole",211004,17,4,3,NA,4,NA,2,NA,0,6,0,0,1,1,0,0,NA,38,NA,"Halsnæs",260,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kvikmarkens Privatskole",159016,22,4,0,NA,3,NA,7,NA,1,1,0,0,1,0,4,0,NA,39,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Gladsaxe Privatskole",159017,10,0,0,NA,2,NA,0,NA,4,0,6,0,4,0,0,0,NA,26,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Karensmindeskolen",845011,4,24,4,NA,1,NA,23,NA,0,10,6,3,9,0,2,3,NA,84,NA,"Rebild",840,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Rødding Skole",527004,32,1,0,NA,4,NA,9,NA,0,9,2,11,0,0,2,5,NA,68,NA,"Vejen",575,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Møllebakkeskolen",391002,8,1,1,NA,1,NA,8,NA,2,1,1,1,2,0,0,0,NA,26,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Syvstjerneskolen",189004,28,20,7,NA,10,NA,12,NA,1,2,10,6,8,0,2,0,NA,104,NA,"Furesø",190,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Dragør Skole",280187,10,4,8,NA,2,NA,15,NA,1,5,16,0,4,0,0,0,NA,65,NA,"Dragør",155,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Afdeling Søhøj",237006,29,0,13,NA,2,NA,4,NA,0,4,4,0,5,0,0,0,NA,61,NA,"Egedal",240,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Haslev Privatskole",313007,4,0,9,NA,7,NA,37,NA,0,4,4,1,3,0,8,0,NA,69,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Poulstrup Friskole og Børnehus",280653,8,0,1,NA,1,NA,4,NA,3,1,5,5,3,1,0,0,NA,32,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Enghavegård Skole",159004,35,4,3,NA,20,NA,31,NA,0,5,9,0,17,1,2,0,NA,125,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Endrupskolen",208007,19,2,0,NA,3,NA,12,NA,4,11,9,0,0,0,1,0,NA,60,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Den Lille Skole",159015,6,10,4,NA,5,NA,9,NA,3,1,3,0,4,3,0,0,NA,48,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Tranbjergskolen",280458,42,3,5,NA,26,NA,9,NA,5,9,3,2,10,0,2,1,NA,114,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Skovlunde Skole – Rosenlund",280564,5,16,49,NA,7,NA,4,NA,5,4,2,0,17,0,6,2,NA,109,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Taastrup Realskole",169012,12,18,27,NA,5,NA,43,NA,1,8,0,0,7,3,0,2,NA,124,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ørestad Skole",280047,14,21,1,NA,11,NA,12,NA,2,6,32,1,19,0,4,2,NA,119,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Skolen på Duevej",147007,24,21,21,NA,8,NA,18,NA,9,8,4,2,27,5,4,0,NA,147,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ebberup Skole",421003,3,0,10,NA,2,NA,5,NA,1,2,6,0,3,0,0,0,NA,32,NA,"Assens",420,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Kløvermarkskolen",515004,91,2,9,NA,11,NA,77,NA,3,25,17,3,10,0,16,0,NA,248,NA,"Haderslev",510,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skægkærskolen",743011,9,1,1,NA,4,NA,6,NA,12,2,1,9,0,2,2,0,NA,47,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Holmegårdsskolen",167003,43,10,0,NA,3,NA,19,NA,0,15,1,1,10,0,2,2,NA,102,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sorø Borgerskole",335005,13,9,0,NA,6,NA,10,NA,1,4,3,1,8,1,0,0,NA,56,NA,"Sorø",340,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Sct. Mariæ Skole",851053,30,5,8,NA,2,NA,20,NA,4,7,2,9,5,0,7,2,NA,92,NA,"Aalborg",851,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Vildbjerg Skole",677003,36,5,3,NA,16,NA,11,NA,0,11,12,1,2,0,0,0,NA,97,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Bogense Skole",423001,3,2,1,NA,0,NA,2,NA,0,6,49,1,6,0,0,0,NA,70,NA,"Nordfyns",480,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Kongevejens Skole",173005,12,12,18,NA,10,NA,7,NA,1,13,27,0,15,0,0,1,NA,115,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Højdevangens Skole",101052,86,3,1,NA,15,NA,5,NA,3,18,1,0,19,1,2,0,NA,152,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Tarm Skole",655008,21,19,0,NA,2,NA,26,NA,0,3,1,0,0,0,0,0,NA,72,NA,"Ringkøbing-Skjern",760,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Tingagerskolen",473009,39,14,1,NA,1,NA,5,NA,0,10,4,0,11,0,1,0,NA,85,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Søndermarkskolen",147006,17,2,4,NA,39,NA,30,NA,6,14,8,1,23,0,0,7,NA,144,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Klostermarksskolen",265007,24,11,27,NA,11,NA,10,NA,4,16,10,0,6,2,4,0,NA,121,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Billums Privatskole",173012,5,1,2,NA,7,NA,4,NA,1,2,7,0,2,0,1,0,NA,31,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Muldbjerg undervisningssted",821009,21,3,42,NA,11,NA,11,NA,2,10,4,0,5,0,0,1,NA,109,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Skolen ved Søerne",147052,14,25,6,NA,11,NA,12,NA,5,7,0,0,23,2,2,0,NA,105,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Store Heddinge Skole",389008,20,3,0,NA,1,NA,8,NA,0,11,4,2,3,0,14,0,NA,52,NA,"Stevns",336,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Nørre Aaby Skole",451002,22,3,0,NA,5,NA,8,NA,1,1,6,5,6,0,2,0,NA,57,NA,"Middelfart",410,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Broskolen",497001,19,12,5,NA,3,NA,14,NA,5,7,5,2,1,0,3,0,NA,73,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Søndervangskolen",161003,55,3,5,NA,4,NA,2,NA,9,10,2,1,4,0,5,2,NA,95,NA,"Glostrup",161,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Herlev byskole, afd.  Eng",163004,25,1,14,NA,0,NA,4,NA,22,5,0,1,26,0,10,0,NA,98,NA,"Herlev",163,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Rønde Skole",739002,58,8,24,NA,10,NA,5,NA,1,19,5,0,5,1,3,0,NA,136,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Flakkebjerg Efterskole",311301,8,6,0,NA,11,NA,7,NA,0,1,2,0,53,2,1,4,NA,90,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Vadgård Skole",159012,6,14,1,NA,4,NA,24,NA,19,1,0,0,15,3,2,0,NA,87,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Afdeling Bækkegården",237007,10,4,4,NA,1,NA,14,NA,5,8,2,0,4,1,2,0,NA,53,NA,"Egedal",240,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Amager Lilleskole",101092,3,13,1,NA,3,NA,3,NA,1,2,0,0,10,1,1,0,NA,37,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Trane Skole – Tistrup Skole",577007,7,4,0,NA,2,NA,18,NA,2,5,5,3,0,2,4,0,NA,48,NA,"Varde",573,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Nydamskolen",533004,22,1,0,NA,1,NA,2,NA,0,3,30,0,0,0,5,1,NA,59,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Auning Skole",747001,21,1,16,NA,6,NA,11,NA,1,11,39,7,0,1,1,2,NA,114,NA,"Norddjurs",707,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Ishøj Skole",183001,10,5,0,NA,2,NA,1,NA,0,3,15,0,1,0,0,0,NA,37,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Agerbæk Skole",567001,4,0,1,NA,0,NA,44,NA,0,5,3,1,2,0,5,0,NA,60,NA,"Varde",573,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Hærvejsskolen",280320,47,0,9,NA,3,NA,9,NA,4,18,4,0,2,0,1,0,NA,96,NA,"Aabenraa",580,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skt. Knud Lavard Skole",173014,8,5,1,NA,2,NA,4,NA,2,0,0,0,0,2,0,0,NA,24,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Østervangskolen",709004,20,12,2,NA,1,NA,22,NA,0,3,1,1,3,0,4,0,NA,65,NA,"Favrskov",710,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Gladsaxe Skole",159005,41,36,1,NA,2,NA,7,NA,2,8,1,1,1,0,2,0,NA,100,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Gredstedbro Skole",571002,8,2,1,NA,1,NA,23,NA,2,3,2,1,6,1,0,0,NA,50,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Brøndbyvester Skole - Tornehøj",153019,48,14,27,NA,8,NA,21,NA,8,57,3,4,43,16,11,2,NA,249,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Svend Gønge-Skolen, Lundby",397004,20,1,1,NA,9,NA,9,NA,5,2,1,6,0,2,0,0,NA,56,NA,"Vordingborg",390,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Rudolf Steiner skolen i Gentofte, Vidar Skolen",157020,2,2,0,NA,2,NA,4,NA,2,3,2,2,6,16,0,0,NA,41,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Alminde-Viuf Fællesskole",621001,20,5,9,NA,5,NA,19,NA,3,23,19,2,2,3,2,0,NA,110,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Svebølle Skole",301007,13,3,0,NA,0,NA,5,NA,0,8,1,2,0,1,0,0,NA,33,NA,"Kalundborg",326,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Herskindskolen",703003,5,6,0,NA,3,NA,1,NA,1,1,5,3,5,0,5,0,NA,30,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Allerød Privatskole",280792,18,11,9,NA,4,NA,7,NA,4,0,21,0,5,1,1,0,NA,80,NA,"Allerød",201,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Dybbøl-Skolen",537007,46,2,2,NA,3,NA,22,NA,15,5,21,5,6,3,0,0,NA,130,NA,"Sønderborg",540,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Bagsværd Friskole",159018,5,4,2,NA,4,NA,6,NA,4,1,2,2,17,1,2,0,NA,48,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"5-Kløverskolerne, Karise Skole",351003,1,1,10,NA,2,NA,7,NA,2,7,2,5,3,0,0,0,NA,40,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Øster Åby Friskole",479016,15,1,4,NA,2,NA,1,NA,2,0,4,0,3,0,0,0,NA,32,NA,"Svendborg",479,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Rundhøjskolen",751034,17,5,6,NA,17,NA,20,NA,2,17,11,2,15,0,12,2,NA,112,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Kibæk Skole",685001,14,5,1,NA,2,NA,8,NA,0,5,5,1,4,0,2,0,NA,45,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hareskov Skole",189001,23,32,22,NA,3,NA,14,NA,8,5,4,0,10,2,1,0,NA,123,NA,"Furesø",190,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nymarkskolen",333005,38,1,5,NA,0,NA,5,NA,2,4,2,0,5,0,0,1,NA,62,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Ulfborg Skole",679006,12,5,1,NA,4,NA,10,NA,2,0,21,0,0,0,61,0,NA,55,NA,"Holstebro",661,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hjerting Skole",561011,39,4,1,NA,2,NA,18,NA,0,10,8,6,0,0,1,0,NA,88,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Stengård Skole",159009,13,14,14,NA,8,NA,16,NA,11,6,0,0,5,2,0,2,NA,89,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Østre Skole",787019,17,5,10,NA,20,NA,31,NA,4,27,53,1,1,0,3,1,NA,169,NA,"Thisted",787,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Bramdrup Skole",621002,13,2,17,NA,23,NA,12,NA,2,3,6,2,5,0,0,3,NA,85,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Sportsefterskolen Aabybro",849300,33,7,16,NA,33,NA,55,NA,0,17,18,4,2,3,1,1,NA,188,NA,"Jammerbugt",849,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Ådalens Privatskole",183008,17,14,2,NA,7,NA,11,NA,1,6,9,0,17,0,1,2,NA,84,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nørre Fælled Skole",101045,39,1,4,NA,4,NA,0,NA,9,3,13,3,11,2,5,0,NA,89,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sophienborgskolen",219030,45,0,1,NA,4,NA,8,NA,0,12,1,5,2,1,0,0,NA,79,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Englystskolen",603005,56,8,6,NA,10,NA,24,NA,5,20,5,1,4,0,0,0,NA,139,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Strandvejsskolen",101041,18,10,2,NA,9,NA,5,NA,2,3,0,1,9,1,1,0,NA,60,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Campusskolen",280342,34,26,9,NA,9,NA,18,NA,2,16,8,9,53,0,0,0,NA,184,NA,"Ringsted",329,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Niels Ebbesen Skolen",745005,24,17,18,NA,12,NA,52,NA,9,9,12,1,12,1,2,0,NA,167,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Møllevangskolen",751025,7,1,0,NA,2,NA,4,NA,4,10,6,0,10,1,1,0,NA,45,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Nordstrandskolen",155004,20,28,3,NA,23,NA,31,NA,0,5,6,0,2,1,2,2,NA,119,NA,"Dragør",155,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Afdeling Ganløse",235001,13,8,1,NA,8,NA,12,NA,1,12,7,0,8,0,1,0,NA,70,NA,"Egedal",240,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ravnsholtskolen",201006,24,2,20,NA,0,NA,16,NA,4,2,6,2,2,0,1,0,NA,78,NA,"Allerød",201,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Tangen Skole og Børnecenter, Afd. Harboøre",673001,18,1,0,NA,1,NA,3,NA,0,4,14,4,2,0,0,0,NA,47,NA,"Lemvig",665,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Hornbæk Skole",217003,13,0,9,NA,2,NA,20,NA,1,5,0,1,3,0,1,0,NA,54,NA,"Helsingør",217,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Solsideskolen",851052,14,5,0,NA,1,NA,2,NA,1,5,1,0,1,0,0,0,NA,30,NA,"Aalborg",851,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Skørbæk-Ejdrup Friskole",831006,10,2,0,NA,1,NA,4,NA,0,2,3,0,2,0,0,0,NA,24,NA,"Aalborg",851,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Mølleskolen",737004,22,41,57,NA,21,NA,13,NA,12,8,7,1,11,4,18,1,NA,197,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Østerbroskolen",369009,15,2,1,NA,5,NA,6,NA,7,6,6,0,13,0,2,0,NA,61,NA,"Guldborgsund",376,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Nordvangskolen",161002,22,3,3,NA,12,NA,1,NA,0,7,3,0,16,1,0,4,NA,68,NA,"Glostrup",161,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Trekløverskolen",280633,21,4,6,NA,3,NA,12,NA,1,7,3,2,20,4,6,2,NA,83,NA,"Frederikssund",250,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Vonsild Skole",621016,35,3,9,NA,3,NA,16,NA,4,2,11,0,1,0,15,6,NA,84,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"UCN10",153013,6,47,9,NA,15,NA,4,NA,1,12,20,1,15,0,8,18,NA,130,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Vesterbro Ny Skole",101572,18,11,4,NA,9,NA,6,NA,8,6,3,1,20,0,9,0,NA,86,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kon Tiki - Børnenes Skole",219022,3,0,1,NA,28,NA,9,NA,0,0,0,0,14,1,0,0,NA,56,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Søhusskolen",461060,9,1,13,NA,1,NA,14,NA,2,2,14,0,3,1,4,0,NA,60,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Himmelev Skole",265006,22,7,8,NA,12,NA,45,NA,9,5,22,3,8,2,1,0,NA,143,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Mellerup Fri- og Efterskole - (efterskolen)",723300,7,6,0,NA,14,NA,1,NA,2,2,0,0,29,7,0,0,NA,68,NA,"Randers",730,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Vejlebroskolen",183005,25,0,1,NA,1,NA,12,NA,1,5,1,0,7,0,3,1,NA,53,NA,"Ishøj",183,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Atheneskolen",159040,4,3,2,NA,3,NA,4,NA,4,0,1,0,3,2,4,0,NA,26,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Haslevskolerne, Nordskovskolen",313003,30,21,7,NA,4,NA,30,NA,5,5,9,5,9,2,2,0,NA,127,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"N. Zahles Grundskole",101155,21,5,34,NA,15,NA,27,NA,9,6,6,7,8,0,0,0,NA,138,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kirstinebjergskolen, Havepladsvej",607008,10,40,0,NA,13,NA,7,NA,4,12,40,3,22,2,8,46,NA,153,NA,"Fredericia",607,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Munkebjergskolen",461017,19,2,4,NA,7,NA,14,NA,1,4,4,10,2,2,0,2,NA,69,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Holmeagerskolen",253015,27,6,13,NA,5,NA,14,NA,1,18,9,1,4,1,2,0,NA,99,NA,"Greve",253,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Tjørnegårdsskolen",157011,22,18,5,NA,5,NA,3,NA,4,4,9,0,10,3,1,0,NA,83,NA,"Gentofte",157,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Blåvandshuk Skole",555001,15,2,0,NA,10,NA,9,NA,4,3,8,6,0,0,8,8,NA,57,NA,"Varde",573,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Heibergskolen",101537,32,13,4,NA,7,NA,10,NA,0,3,7,3,9,0,1,0,NA,88,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Trekronerskolen",265032,19,66,0,NA,14,NA,36,NA,0,5,12,1,2,0,1,0,NA,155,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Holbergskolen",101030,17,8,6,NA,6,NA,7,NA,15,3,4,0,16,3,2,1,NA,85,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Lindevangskolen",147002,6,14,2,NA,4,NA,7,NA,15,4,34,0,13,0,2,0,NA,99,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ungeuniverset-Vojens",543011,10,5,22,NA,1,NA,45,NA,2,8,16,2,3,1,7,1,NA,115,NA,"Haderslev",510,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Vinderup Realskole",683007,7,2,2,NA,3,NA,40,NA,1,2,24,14,3,1,4,0,NA,99,NA,"Holstebro",661,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Albertslund Ungecenter",280472,14,6,0,NA,9,NA,7,NA,0,8,2,0,7,0,8,1,NA,53,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hanssted Skole",101070,13,16,3,NA,29,NA,13,NA,0,6,8,0,4,1,2,0,NA,93,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Brejning Efterskole",603301,8,17,2,NA,3,NA,9,NA,2,8,3,0,10,1,2,2,NA,63,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Skolen på La Cours Vej",147010,29,17,9,NA,10,NA,14,NA,6,1,9,5,3,2,10,0,NA,105,NA,"Frederiksberg",147,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Christinelystskolen",665002,21,8,4,NA,9,NA,20,NA,4,7,9,53,1,0,3,0,NA,136,NA,"Lemvig",665,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Vestermose Natur- og Idrætsfriskole",280393,12,0,1,NA,1,NA,2,NA,3,1,0,7,2,0,1,0,NA,29,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Skovboskolen",267001,5,3,19,NA,1,NA,2,NA,1,4,15,2,1,0,6,0,NA,53,NA,"Køge",259,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Søholmskolen",281406,8,36,12,NA,18,NA,25,NA,1,3,2,0,13,0,2,0,NA,118,NA,"Rudersdal",230,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Gyvelhøjskolen",703001,5,2,0,NA,1,NA,41,NA,0,6,12,1,0,0,1,2,NA,68,NA,"Skanderborg",746,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Dronninglund Skole",807003,31,1,4,NA,4,NA,58,NA,1,6,6,2,1,0,0,1,NA,114,NA,"Brønderslev",810,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Strøbyskolen",271002,28,7,20,NA,0,NA,6,NA,1,10,9,0,15,1,6,0,NA,97,NA,"Stevns",336,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Tårs Skole",821006,18,0,3,NA,2,NA,1,NA,1,5,4,4,1,0,0,0,NA,39,NA,"Hjørring",860,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Bjerringbro Skole",281584,13,8,17,NA,0,NA,6,NA,0,2,1,1,6,0,0,0,NA,54,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Helsinge Realskole",215007,9,2,48,NA,9,NA,42,NA,2,3,5,0,2,2,1,5,NA,124,NA,"Gribskov",270,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Karup Skole",769003,3,0,4,NA,6,NA,4,NA,1,8,6,3,0,0,1,0,NA,35,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Vestsalling Skole og Dagtilbud Balling",781006,9,6,1,NA,5,NA,7,NA,1,16,2,10,1,0,1,1,NA,58,NA,"Skive",779,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Korinth Efterskole",431301,10,7,3,NA,7,NA,6,NA,1,6,3,0,8,1,1,0,NA,52,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Nordre Skole",791005,48,5,15,NA,3,NA,28,NA,4,4,9,2,1,2,0,0,NA,121,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Ullerup Bæk Skolen, Nr. Alle",607011,13,4,2,NA,10,NA,17,NA,3,12,5,3,2,0,1,0,NA,71,NA,"Fredericia",607,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"5-Kløverskolerne, Bavneskolen",385001,2,0,6,NA,1,NA,5,NA,0,3,1,2,1,0,0,0,NA,21,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Albertslund Lille Skole",165011,7,6,8,NA,1,NA,1,NA,0,8,2,0,1,0,0,0,NA,34,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"5-Kløverskolerne, Rolloskolen",351008,12,1,1,NA,2,NA,13,NA,1,11,5,0,4,2,0,0,NA,52,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Højbjerg Privatskole",751111,12,1,1,NA,0,NA,0,NA,2,1,0,0,17,0,0,0,NA,34,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Sdr.  Felding Skole og Børneunivers",685002,4,0,1,NA,0,NA,7,NA,2,1,4,6,2,0,0,0,NA,27,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Kirstinedalsskolen",259006,22,1,15,NA,4,NA,12,NA,1,9,11,0,5,0,0,0,NA,80,NA,"Køge",259,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Stenoskolen",367007,5,4,1,NA,6,NA,6,NA,1,6,0,1,3,0,0,0,NA,33,NA,"Lolland",360,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Limfjordsskolen Struer",280686,12,16,6,NA,1,NA,10,NA,1,7,40,5,2,0,4,2,NA,100,NA,"Struer",671,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Giersings Realskole",461040,31,5,11,NA,0,NA,52,NA,1,5,5,1,2,4,3,1,NA,117,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Hørsholm Lille Skole",223007,8,1,0,NA,2,NA,10,NA,0,1,10,0,0,0,1,0,NA,32,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Engesvang Skole",663002,11,4,0,NA,4,NA,17,NA,1,5,3,1,1,1,4,0,NA,48,NA,"Ikast-Brande",756,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Lindehøjskolen",163001,26,16,5,NA,14,NA,6,NA,22,12,6,0,3,3,4,2,NA,113,NA,"Herlev",163,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Antvorskov Skole",333015,32,8,34,NA,1,NA,17,NA,6,17,17,0,3,5,0,4,NA,140,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Lind Skole",657010,46,19,18,NA,5,NA,19,NA,14,4,10,3,2,0,0,0,NA,140,NA,"Herning",657,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Højvangskolen",851064,62,0,0,NA,1,NA,1,NA,0,9,0,3,0,0,1,0,NA,76,NA,"Aalborg",851,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Skelgårdsskolen",185006,9,12,3,NA,11,NA,34,NA,8,13,2,0,5,0,2,2,NA,97,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Pilegårdsskolen",185005,43,8,12,NA,21,NA,11,NA,4,12,11,3,6,0,4,0,NA,131,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Mariager Skole",719003,11,2,0,NA,1,NA,5,NA,0,0,4,1,3,0,3,0,NA,27,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Sanderumskolen",461023,23,2,12,NA,10,NA,10,NA,2,18,7,4,8,0,4,0,NA,96,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Margretheskolen",255003,39,2,0,NA,0,NA,15,NA,1,5,3,0,1,0,4,0,NA,66,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Sct. Hans Skole",461024,31,7,2,NA,8,NA,11,NA,6,17,8,0,18,5,4,8,NA,113,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Engstrandskolen",167008,19,8,0,NA,17,NA,7,NA,1,5,7,0,20,1,1,0,NA,85,NA,"Hvidovre",167,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Vigersted Skole",329012,15,2,3,NA,2,NA,11,NA,3,5,5,4,4,0,2,2,NA,54,NA,"Ringsted",329,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Sankt Ansgars Skole",101082,1,6,0,NA,5,NA,7,NA,0,2,4,0,8,0,1,0,NA,33,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nordsjællands Grundskole og Gymnasium samt HF",227008,13,10,4,NA,0,NA,20,NA,5,5,0,4,0,1,6,0,NA,62,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ole Rømer-Skolen",280980,24,9,2,NA,12,NA,11,NA,2,5,8,1,19,1,2,0,NA,94,NA,"Høje-Taastrup",169,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ryslinge Høj- og Efterskole (efterskoledelen)",430300,12,25,1,NA,24,NA,3,NA,0,4,12,0,22,5,0,0,NA,108,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Solhverv Privatskole",801007,7,6,5,NA,1,NA,3,NA,2,15,3,7,2,2,1,1,NA,53,NA,"Mariagerfjord",846,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Tove Ditlevsens Skole",101064,0,4,1,NA,32,NA,8,NA,0,1,11,0,12,0,0,0,NA,69,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Faxehus Efterskole",351301,2,2,8,NA,23,NA,6,NA,4,6,8,0,21,1,2,0,NA,81,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Ellebjerg Skole",101063,24,1,0,NA,11,NA,1,NA,2,4,0,0,19,2,0,0,NA,64,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Kokkedal Skole",280122,24,7,9,NA,7,NA,18,NA,7,19,2,2,20,0,2,0,NA,115,NA,"Fredensborg",210,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Brøndby Idrætsefterskole",153300,1,0,2,NA,2,NA,12,NA,0,7,2,0,0,0,0,0,NA,26,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"5-Kløverskolerne, Hylleholt Skole",351002,6,1,15,NA,1,NA,8,NA,0,4,0,2,10,0,0,0,NA,47,NA,"Faxe",320,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Roslev Skole",777004,1,3,4,NA,3,NA,10,NA,0,7,5,19,6,1,10,0,NA,59,NA,"Skive",779,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Marienhoffskolen",721004,11,0,1,NA,8,NA,8,NA,3,5,4,1,4,1,2,0,NA,46,NA,"Syddjurs",706,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Samsøgades Skole",751036,21,3,2,NA,3,NA,1,NA,3,3,2,1,12,0,1,0,NA,51,NA,"Aarhus",751,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Landsgrav Friskole",333012,9,1,1,NA,3,NA,6,NA,1,7,2,2,0,0,1,0,NA,32,NA,"Slagelse",330,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Brøndbyøster Skole - Bredager",153018,32,8,2,NA,2,NA,4,NA,1,15,2,0,33,1,2,0,NA,100,NA,"Brøndby",153,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Grønnevang Skole",280164,37,2,3,NA,9,NA,31,NA,4,5,6,0,6,1,8,11,NA,104,NA,"Hillerød",219,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Tirsdalens Skole",731010,50,18,15,NA,14,NA,10,NA,9,32,38,3,7,2,8,2,NA,198,NA,"Randers",730,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Pilehaveskolen",187002,9,8,29,NA,0,NA,7,NA,1,12,26,0,9,1,8,6,NA,102,NA,"Vallensbæk",187,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Ingrid Jespersens Gymnasieskole",101153,28,29,19,NA,11,NA,19,NA,13,2,29,2,14,5,3,0,NA,171,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Hindholm Privatskole",307004,7,0,2,NA,2,NA,15,NA,0,6,0,0,2,0,0,0,NA,34,NA,"Næstved",370,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Vestre Skole",445004,2,1,3,NA,0,NA,3,NA,0,3,6,0,8,0,2,0,NA,26,NA,"Middelfart",410,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Niels Steensens Gymnasium",101154,4,21,21,NA,20,NA,33,NA,16,8,4,0,25,31,5,2,NA,183,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Lødderup Friskole",773032,0,0,0,NA,0,NA,15,NA,0,0,1,14,1,0,1,0,NA,31,NA,"Morsø",773,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Viborg private Realskole",791014,74,9,34,NA,11,NA,45,NA,5,23,24,8,3,2,11,3,NA,238,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Glamsbjergskolen",433003,3,4,3,NA,5,NA,33,NA,0,4,7,0,10,0,4,0,NA,69,NA,"Assens",420,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Løjtegårdsskolen",185003,17,12,3,NA,8,NA,1,NA,1,7,45,1,0,0,3,1,NA,95,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sportsefterskolen Sjælsølund",223300,33,20,1,NA,2,NA,19,NA,8,11,3,1,2,3,1,72,NA,103,NA,"Hørsholm",223,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nykøbing Skole",280200,7,6,2,NA,10,NA,7,NA,4,8,5,3,8,1,4,0,NA,61,NA,"Odsherred",306,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Christianshavns Skole",101047,3,13,1,NA,30,NA,2,NA,12,2,5,2,21,3,0,0,NA,94,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Løgstrup Skole",791004,12,1,1,NA,0,NA,22,NA,0,0,7,0,0,0,0,0,NA,43,NA,"Viborg",791,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Gadstrup Skole",263001,8,0,31,NA,1,NA,10,NA,1,6,1,0,0,0,0,0,NA,58,NA,"Roskilde",265,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Havdrup Skole",269001,23,1,1,NA,2,NA,4,NA,0,2,2,1,5,0,3,0,NA,41,NA,"Solrød",269,NA,"Region Sjælland",1085
+"2026-01-29",2026,"Korsvejens Skole",185002,13,4,1,NA,8,NA,14,NA,3,5,1,1,13,2,1,0,NA,65,NA,"Tårnby",185,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Gram Skole",511003,10,1,0,NA,2,NA,3,NA,3,6,8,1,1,0,1,0,NA,35,NA,"Haderslev",510,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Tinderhøj Skole",175006,14,0,6,NA,11,NA,4,NA,0,0,4,0,12,6,0,0,NA,57,NA,"Rødovre",175,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Præstegårdsskolen",561015,1,0,1,NA,6,NA,9,NA,1,1,1,0,4,0,0,0,NA,24,NA,"Esbjerg",561,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Tingløkkeskolen",461032,37,1,25,NA,5,NA,11,NA,0,9,4,0,14,0,4,0,NA,106,NA,"Odense",461,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Højslev Skole",779004,31,3,1,NA,2,NA,16,NA,3,6,9,13,3,0,2,3,NA,87,NA,"Skive",779,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Skolen i Sydhavnen",280129,9,23,2,NA,19,NA,13,NA,4,1,30,1,30,0,0,0,NA,132,NA,"København",101,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Nibe Skole",831003,6,6,3,NA,15,NA,48,NA,5,2,15,1,5,1,0,0,NA,107,NA,"Aalborg",851,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Nymarken Skole og Børnehus",439006,4,0,0,NA,1,NA,20,NA,0,18,16,0,2,0,9,2,NA,61,NA,"Kerteminde",440,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Øster Starup Skole",605008,2,2,11,NA,0,NA,0,NA,1,0,10,0,1,0,0,0,NA,27,NA,"Vejle",630,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Herstedlund Skole",280106,1,8,3,NA,1,NA,5,NA,0,1,0,0,16,0,0,1,NA,35,NA,"Albertslund",165,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Bagsværd Gymnasiums Grundskole",159034,29,23,45,NA,8,NA,42,NA,11,3,27,0,24,2,5,2,NA,214,NA,"Gladsaxe",159,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Carl Nielsen-Skolen",497002,20,6,1,NA,2,NA,8,NA,3,5,21,0,0,0,1,0,NA,66,NA,"Faaborg-Midtfyn",430,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Trongårdsskolen",173009,6,17,24,NA,2,NA,13,NA,6,8,2,0,10,4,0,0,NA,92,NA,"Lyngby-Taarbæk",173,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Marie Kruses Skole",207007,0,15,7,NA,3,NA,51,NA,1,1,0,0,2,0,0,0,NA,80,NA,"Furesø",190,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Thomasskolen",151021,17,2,1,NA,1,NA,3,NA,6,2,3,1,1,1,0,2,NA,38,NA,"Ballerup",151,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Lynge Skole",201002,24,2,7,NA,9,NA,14,NA,5,20,9,1,8,0,0,0,NA,99,NA,"Allerød",201,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Bakkeskolen",621012,2,5,11,NA,2,NA,4,NA,1,3,20,12,5,0,1,2,NA,65,NA,"Kolding",621,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Løjt Kirkeby Skole",545002,18,0,0,NA,1,NA,2,NA,2,6,8,1,6,0,2,0,NA,44,NA,"Aabenraa",580,NA,"Region Syddanmark",1083
+"2026-01-29",2026,"Kildegårdskolen, afd. Vest",163006,36,6,1,NA,3,NA,9,NA,17,12,4,0,35,0,0,0,NA,123,NA,"Herlev",163,NA,"Region Hovedstaden",1084
+"2026-01-29",2026,"Sejs Skole",743010,23,1,0,NA,3,NA,20,NA,0,12,12,0,4,0,1,0,NA,75,NA,"Silkeborg",740,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Privatskolen i Frederikshavn",813010,48,2,21,NA,5,NA,11,NA,1,2,16,3,3,1,3,0,NA,113,NA,"Frederikshavn",813,NA,"Region Nordjylland",1081
+"2026-01-29",2026,"Præstemarkskolen",713004,32,7,14,NA,17,NA,15,NA,2,23,0,1,4,2,5,2,NA,117,NA,"Favrskov",710,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Rask Mølle Skole",627003,17,6,5,NA,1,NA,5,NA,1,1,4,0,0,0,1,0,NA,40,NA,"Hedensted",766,NA,"Region Midtjylland",1082
+"2026-01-29",2026,"Baggesenskolen",325003,26,1,3,NA,5,NA,13,NA,0,15,8,1,6,1,0,0,NA,79,NA,"Slagelse",330,NA,"Region Sjælland",1085
