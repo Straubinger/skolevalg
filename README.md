@@ -17,7 +17,7 @@ The `skolevalg.csv` data file consists of the following variables:
 - `school_id` = ID of the school (missing until 2024)
 - `party_s` = Number of votes for the Social Democratic Party
 - `party_rv` = Number of votes for the Social Liberal Party
-- `party_kf` = Number of votes for the Convervative People's Party
+- `party_kf` = Number of votes for the Conservative People's Party
 - `party_nb` = Number of votes for the New Right (only 2017-2021)
 - `party_sf` = Number of votes for the Socialist People's Party
 - `party_vegan` = Number of votes for the Vegan Party (only 2021)
