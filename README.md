@@ -3,7 +3,7 @@ Results of the Danish School General Elections 2015-2026
 
 ### Description
 
-Every two years since 2015 a mock general election has been held among 8th, 9th and 10th graders in Denmark. It is voluntary for the schools to participate in the elections. More info at <a href="https://www.skolevalg.dk/">Skolevalg.dk</a> (in Danish).
+Every two years since 2015 a mock general election has been held among 8th, 9th and 10th graders in Denmark. It is voluntary for the schools to participate in the elections. More information at <a href="https://www.skolevalg.dk/">Skolevalg.dk</a> (in Danish).
 
 It is possible to find additional information about the schools e.g. number of students at <a href="https://www.uddannelsesstatistik.dk/">Uddannelsesstatistik.dk</a> (in Danish).
 
